@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: このタコおやじ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 204
+wordpress_url: http://localhost/wordpress/?p=204
+date: !binary |-
+  MjAwOC0wMy0xOCAwMTo0NzozNiArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMy0xNyAxNjo0NzozNiArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>僕の足を思いきり踏んでヘラヘラしているおやじが僕の隣に座って鼻唄を唄っています。<br />
+酔っ払いです。<br />
+人間だと思うと腹が立ちますが物だと思うとなんともありません。謝らせても足はどうにかならないし、オヤジ狩りしてもオヤジは何も学習しない上に僕が教育してあげる義務もありません。世の中そうやってうまくおさまっていることって多いと思います。<br />
+そんな世の中で一方では目があっただけや、揺られてぶつかっただけでいきり立って絡んでくる人もいます。昔はそういうのは高校生ぐらいまでだったのですが、今ではいい年をした大人が電車の中で吠えています。<br />
+怒りのはけ口は他人だけでなく子供に向けているところも見かけます。<br />
+自分では子供を叱っていると思っているのでしょうが、電車の中で見かけるのはおかしな事を言って子供に向かって怒鳴り散らす親ばかりです。<br />
+なげいたところで何も良くなりませんが隣のタコおやじをほうっている僕を正当化したいのでしょうね、僕は。</p>

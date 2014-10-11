@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: 時間
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 74
+wordpress_url: http://localhost/wordpress/?p=74
+date: !binary |-
+  MjAwNS0xMC0yNCAwMDo1ODowOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0xMC0yMyAxNTo1ODowOCArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p>久しぶりに晴れの休日でしたよね。出かけなきゃーって思い、2時過ぎに出かけて城ヶ島に行って来ました。<br />
+第三京浜に乗って、横浜新道、横浜横須賀道路、三浦縦貫道路と乗り換えまくって更に南下。２時間半近くかかってしまいました。<br />
+僕も岬めぐり風の散歩をバイクを乗り始めてからやっているのですが、人間は高いところとか、岬の先っちょととか好きなんですよね。だいたい岬や燈台のある所はお土産と食事処があるものです。<br />
+<img src="/blog/img/20051023-1.jpg" alt="20051023-1.jpg" width="160" height="120" /><br />
+本当なら一休みしたいのですが、日が暮れる前にと大急ぎで、燈台を探して歩き始めました。すると店と店の隙間にこんな信じられない生き物が！！人通りの多い中恥ずかしいけど立ち止まってわんこを撮ってしまいました。<br />
+<img src="/blog/img/20051023-2.jpg" alt="20051023-2.jpg" width="160" height="120" /><br />
+燈台に着くとだいぶ傾いた日差しに正面から照らされてそびえ立っていました。とりあえず目的は達成です。<br />
+<img src="/blog/img/20051023-3.jpg" alt="20051023-3.jpg" width="160" height="120" /><br />
+日の沈もうとしてる方に、吸いよされて行くと海岸まで出ることが出来、この間行ったばかりの富士山が対岸に浮かんでいました。<br />
+<img src="/blog/img/20051023-4.jpg" alt="20051023-4.jpg" width="160" height="120" /><br />
+そしてしばらくの間ゴツゴツした岸壁に吹き上げる潮風と波しぶきにふきっつぁらしになって日が沈むまで待つことにしました。感傷的になるでもなくただ現実的に時間が過ぎていくの感じて、逆に不思議な感じでした。<br />
+<img src="/blog/img/20051023-5.jpg" alt="20051023-5.jpg" width="120" height="160" /><br />
+日没を見届けて目の前のホテルの食堂で何か食べていけばよかったのですが、帰りの道のりを考えると速攻で帰る事にしました。ここに泊まってゆっくり過ごしていたのなら、日没ショーももっと感じるものがあったんでしょうね。<br />
+<img src="/blog/img/20051023-6.jpg" alt="20051023-6.jpg" width="160" height="120" /><br />
+帰りは3時間かかりました(泣)。</p>

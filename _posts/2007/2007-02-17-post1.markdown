@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 咲いた
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 160
+wordpress_url: http://localhost/wordpress/?p=160
+date: !binary |-
+  MjAwNy0wMi0xNyAxMjo1ODoyNSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wMi0xNyAwMzo1ODoyNSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20070217125824.jpg" alt="20070217125824" align="left" border="0"><br clear="all">キタこれ。<br />
+桜が咲いています。</p>

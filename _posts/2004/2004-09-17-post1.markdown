@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: ぎゅ～ぅ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 6
+wordpress_url: http://localhost/wordpress/?p=6
+date: !binary |-
+  MjAwNC0wOS0xNyAwMToyOTozNSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNC0wOS0xNiAxNjoyOTozNSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>2004年9月17日<br />
+いま、帰宅途中に牛丼屋さんに入ったら豚焼肉定食がぬぁ～い！<br />
+ショック！と思ったら、なんと牛カルビ定食発見。高級品680円を食してしまいました。<br />
+そういえば、米BSE全頭検査要求見直しが今話題。日本からの輸出牛肉は未だに全頭検査してるって話だから輸出肉だけはやってほしいなぁ。いいじゃん昔は牛肉高かったんだから。<br />
+今日の牛カルビ定食もおいしく食べれたし、安全第一ね。</p>

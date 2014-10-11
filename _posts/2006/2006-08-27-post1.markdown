@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 狙い
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 137
+wordpress_url: http://localhost/wordpress/?p=137
+date: !binary |-
+  MjAwNi0wOC0yNyAxMDo1Mjo1NSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wOC0yNyAwMTo1Mjo1NSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>３０時間以上寝てたんですけど、もういい加減起きないとね。<br />
+でも実際にはそんなに寝てないんですよ。<br />
+最近一ヶ月ほど寝ても２時間おきぐらいに起きちゃうんです。昼夜関係なく睡眠に２時間というリズムができちゃったんですね。<br />
+今日はさすがに起きて仕事しないとやばいです。仕事たまり過ぎました。気付くと一週間たっているということが続いているので、プライベートメールとかチェックしていなくて、久々にハワイから連絡があったのに一週間気付かなかった始末。<br />
+まったく頭を使う暇がなく気がつくと時間だけ過ぎて行くというのはある意味狙いどおりなわけですが、休みに食い込むのはやだなぁ。</p>

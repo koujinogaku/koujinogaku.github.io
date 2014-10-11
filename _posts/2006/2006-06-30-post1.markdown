@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: ジンギスカン
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 127
+wordpress_url: http://localhost/wordpress/?p=127
+date: !binary |-
+  MjAwNi0wNi0zMCAxMjozODoyNyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wNi0zMCAwMzozODoyNyArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p>先週末はジンギスカン鍋を食べに行きました。(って、書き込むまで、だいぶ日が経ってしまいました)<br />
+最初に予定していたところは電話してみるといっぱいで入れなかったので、岩本町にあるお店にしました。<br />
+「北海道ジンギスカン 良夢」<br />
+以前書いた北海道のジンギスカン料理屋さんは七厘に網を乗せて焼いていたので、ジンギスカン鍋で食べるのは初めてです。<br />
+どうにも慣れていないため、お店の人に焼き方を教えてもらったのですが、肉も野菜もなんかうまく焼けませんでした。<br />
+そんなのもあり、そんなおいしいって感じでもなかったのは残念です。<br />
+でも実はこっちのほうが本物なんだってことに気づきました。<br />
+北海道では刺身で食べられるのが出てきてレア状態で食べると、ラム肉くささがなくてよかったのですが、お店の人はミディアムよりはもうちょっと焼いたほうが<br />
+香りが出ておいしいって言っていました。<br />
+北海道人はあのラム肉のビニールっぽい独特のにおいが好きって事なんですねぇ。<br />
+人の嗜好って言うのは変われば変わるものなんですね。</p>

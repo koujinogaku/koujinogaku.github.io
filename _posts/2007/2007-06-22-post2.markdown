@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: メキシカン
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 176
+wordpress_url: http://localhost/wordpress/?p=176
+date: !binary |-
+  MjAwNy0wNi0yMiAxMjo0MjoyOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wNi0yMiAwMzo0MjoyOCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p>札幌駅の地下で、メキシカンの昼ご飯食べています。<br />
+店の内装を写真に撮りたいけど、恥ずかしくて撮れないのが残念。<br />
+オレンジ色の壁と暗い照明と音楽と・・・。おしゃれじゃない雰囲気が、なつかしい。<br />
+どことなくヒスパニックなおばちゃん・・・というか、おばーちゃんがテキパキとお店をやっています。<br />
+表に出てから写真とりました。<br />
+<a href="/blog/img/200706221250.jpg" target="_blank"><img src="/blog/img/200706221250.jpg" alt="ソンブレロ・メヒカーノ" border="0"></a><br clear="all"><br />
+今度からランチの紹介でもしようかな・・・と思ったけど写真撮るのが恥ずかしいんですよね。やっぱりやめた。</p>

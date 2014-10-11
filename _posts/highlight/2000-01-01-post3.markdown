@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "ホームページ作り"
+date:   2000-01-01 00:00:07
+categories: highlight
+image:  web-craft.jpg
+link: /web-craft/
+---
+いままで避けていた、スタイルシート(CSS)を使ったホームページ作りをはじめました。
+
+[詳しくはこちら]({{ site.baseurl }}/web-craft/)

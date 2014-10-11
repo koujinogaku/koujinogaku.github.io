@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 汽車待ち中
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 134
+wordpress_url: http://localhost/wordpress/?p=134
+date: !binary |-
+  MjAwNi0wOC0xMiAwODozOToxMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wOC0xMSAyMzozOToxMCArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p>駅員さんに<br />
+　あ、今行っちゃた、あれです。<br />
+と、言われて小樽行きの列車を見送りました。<br />
+帰り便を明日延ばし、只今散歩中です。</p>

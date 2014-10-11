@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: リュック・ベッソン祭り
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 281
+wordpress_url: http://localhost/wordpress/?p=281
+date: !binary |-
+  MjAxMC0wNC0wOSAwMToyMDo0NiArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wNC0wOCAxNjoyMDo0NiArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>ちょっと楽しめるインターネット番組を偶然見つけました。<br />
+昔はGyaOジョッキー(アーカイブが多かったです)というバラエティ系インターネット番組を見ていたのですが、芸人大好きというわけでも、おたく系大好きというわけでもないので、××！××放送局とかニコニコ動画の生放送とかまでいってしまうとついていけないわけです。<br />
+普通にゆるい番組で雑談を楽しくしているところを見て一緒に笑っているのが僕としては好きだったのですが、似た雰囲気の番組を見つけたんです。<br />
+スペースシャトルの動画を探していてそこからニコ生⇒dig954⇒twitter⇒生シネスク、という順にたどり着きました。<br />
+twitterの中の人がでてます。鳩山さんと一緒に人気の高そうな人をtwitterに登録させて頂いていて、失礼ながらまったく知らない人だったのですがお陰で面白番組に出会ってしまいました。<br />
+ブログをたどるのと違ってtwitterでは、その一瞬にたまたま開いていないとその人からの情報に出会わないのですが、いま流行しているというのもあり、普段から自分の接していない情報が入ってくるのが面白いですね。<br />
+で、番組は、映画を中心に雑談をしているのがとっても楽しく見させて頂きました。<br />
+http://www.ustream.tv/channel/cinesc-ust<br />
+ツイッタラクティブ映画トーク番組「生シネスク」<br />
+<a href="http://www.ustream.tv/channel/cinesc-ust" alt="ツイッタラクティブ映画トーク番組「生シネスク」"><img src="/blog/img/20100409.jpg"></a><br />
+僕は生放送は結局見ず、あとから録画を見たのですが、インターネット放送なので基本は生番組で双方向です。<br />
+映画は嫌いでないので、第9地区の解説をされていて、見たくなってしまいました。<br />
+なんだか、番組に再来週リュック・ベッソン監督を呼ぶという話で盛り上がっていらっしゃって、ほんとに来るかちょっと楽しみです。<br />
+来週の放送開始は4/13(火)夜9時からだそうです。<br />
+ちなみにUstreamというのも知らなかったのでちょっと探索してみたいです。</p>

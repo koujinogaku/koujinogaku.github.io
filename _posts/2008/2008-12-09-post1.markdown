@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: ひつまぶし
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 232
+wordpress_url: http://localhost/wordpress/?p=232
+date: !binary |-
+  MjAwOC0xMi0wOSAxNDoxMjozNiArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0xMi0wOSAwNToxMjozNiArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20081209141234.jpg" alt="20081209141234" align="left" border="0"><br clear="all">会社が変わってから、出張するとは、思いもしませんでした。<br />
+久しぶりの名古屋です。<br />
+とりあえず行きつけだった婆ちゃんだけのひつまぶし屋さんで昼食です。<br />
+味噌かつや味噌煮込みうどんより落ち着くんです。<br />
+あぁ～ぁ。名古屋に来ている場合じゃないのに…。</p>

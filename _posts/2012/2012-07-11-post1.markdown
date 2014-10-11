@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: 自作OS：MicroWindow移植つづき
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 332
+wordpress_url: http://localhost/wordpress/?p=332
+date: !binary |-
+  MjAxMi0wNy0xMSAyMjoyOToyMyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0wNy0xMSAxMzoyOToyMyArMDkwMA==
+categories:
+- 自作OS
+tags: []
+comments: []
+---
+<p>ひさしぶりの、自作OS経過です。<br />
+MicroWindowの移植作業を進めていて、Windowライブラリーまでできました。<br />
+付属のデモ画面では結構派手に書いてくれます。<br />
+<a href="/blog/img/helloscreenshot20120711.png" target="_blank"><img src="/blog/img/helloscreenshot20120711s.png" alt="helloscreenshot20120711.png" border="0" width="249" height="206" /></a><br />
+クライアントサーバー型に直さないといけないので、まだまだです。<br />
+詳しくは、『<a href="http://koujinogaku.wiki.fc2.com/" >こうじのがくまとめ</a>』をご覧ください。<br />
+話はそれますが、最近のパソコンのWindowsを見ていると本当に重たいと思います。<br />
+過去の遺物の塊になっているし、さまざまな機能をすべて盛り込んだ状態でなければ動けないという状態。<br />
+もう限界じゃないかと。<br />
+僕の作っているOSは余裕を見てもメモリー4MB程度で動作しています(実際にはVMWareでは32MB以下を指定できないですが)。そしてディスクは250KB。<br />
+Windows 7だと標準的にメモリー4GB、ディスク50GBぐらいでしょうか。<br />
+メモリーで1000倍でディスクなら20万倍です。それでさらに動きものろい。<br />
+これっておかしくないですか？<br />
+iPod touchでiOSを体験し、全く違うアプローチもある事を思い知らされました。パソコンOSは何かブレイクスルーが必要なのだろうなと本心から思う今日この頃です。</p>

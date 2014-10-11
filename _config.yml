@@ -1,0 +1,94 @@
+### Site settings
+lang: ja
+title: "こうじのがく"
+description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
+baseurl: ""
+exclude: [ "README.md", "LICENSE" ]
+url: "http://koujinogaku.github.io"
+hostname: "koujinogaku.github.io"
+#email: your-email@domain.com
+twitter_username: koujinogaku
+github_username:  koujinogaku
+#google_analytics_id: UA-XXXXXXXX-XX
+#google_site_verification: XXXXXXXXXXXXXXXXXXXXXXXXXXX
+#google_custom_search_engine_id: "XXXXXXXX:XXXXXXXXXXXXXXXXXXX"
+disqus_shortname: koujinogaku
+
+### Build settings
+permalink: "/blog/:year/:month/:day/:title/"
+images_path: "/img/"
+#markdown: kramdown
+#gems: [jekyll-test-plugin, jekyll-jsonify, jekyll-assets]
+
+### Appearance
+appearance:
+  theme: koujinogaku
+  ###
+  ### Example to enable a wallpaper.
+  ###
+  #header_text_color: "brown"
+  #header_image: none
+  #wallpaper_image: /assets/themes/default/img/wallpaper.png
+  #wallpaper_repeat: repeat
+
+### Blog
+paginate: 5
+paginate_path: "blog/page:num/" # DON'T TOUCH THIS PATH.
+blog:
+  header: "header.html"
+  title: "こうじのがく : ネット、コンピュータ、旅行、おいしいもの"
+  description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
+  title_position: article
+  enable_author: true
+  comment: true
+  share: true
+  category: true
+
+### Navigation Bar
+navbar:
+  menu:
+    - caption: "書庫"
+      menu:
+        - { caption: "オリジナルOS作り", link: "/os-dev/"}
+        - { caption: "EC2/S3の使い方", link: "/amazon-ec2/"}
+        - { caption: "その他プロジェクト概要", link: "/projects/"}
+        - { separator: "divider" }
+        - { caption: "miscellaneous", separator: "dropdown-header" }
+        - { caption: "ダウンロード", link: "#"}
+    - { caption: "日記", link: "/blog/" }
+    - { caption: "Sitemap", link: "/sitemap/" }
+    - { caption: "About", link: "/about/" }
+
+### Document collections
+collections:
+  os-dev:
+    title: "オリジナルOS作り(自作OS)"
+    description: "オリジナルのOSをカーネルから作っています。"
+    output: true
+    share: true
+    #comment: true
+  amazon-ec2:
+    title: "Amazon EC2/S3の使い方(EC2)"
+    description: "EC2初心者が、試行錯誤をしながら、何とか動くまでに行なったさまざまな作業と、気づいた点をまとめていきます。"
+    output: true
+    share: true
+    #comment: true
+  web-craft:
+    header: "header.html"
+    title: "ホームページ作り(ホムつく)"
+    description: "ホームページ作りをはじめました。"
+    output: true
+    share: true
+    #comment: true
+  php:
+    title: "PHPプログラミング(PHP)"
+    description: "PHPでプログラム書いたときのメモを置いておきます。"
+    output: true
+    share: true
+    #comment: true
+  android:
+    title: "Androidアプリ(Android)"
+    description: "Android-SDKをちょっと触ってみたかっただけです。"
+    output: true
+    share: true
+    #comment: true

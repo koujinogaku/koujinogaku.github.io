@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: オーケストラ！みました。気持ちよかったです。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 301
+wordpress_url: http://localhost/wordpress/?p=301
+date: !binary |-
+  MjAxMS0wMy0wMiAxOTo0NDo0MSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0wMy0wMiAxMDo0NDo0MSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>気になっていたので見ちゃいました。DVDのジャケット写真からは全く想像つきませんが、ドタバタ人情喜劇です。<br />
+とはいうのもの、もちろんタイトルどおりオーケストラがテーマなので、最後は迫力ある演奏に感動します。<br />
+やっぱり映画って音楽の比重が大きいですよね。<br />
+<a href="http://www.amazon.co.jp/gp/product/B003ZUZ0XY?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003ZUZ0XY"><img src="http://ec2.images-amazon.com/images/I/51UrSIaEBXL._SL500_AA300_.jpg" alt="オーケストラ！" width="300" height="300"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B003ZUZ0XY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+主人公アンドレイはコンサートホール掃除のおじさんで、昔はロシアの有名なボリショイオーケストラの指揮者だったのですがユダヤ人を擁護したとして共産党でKGBの一員だった当時の支配人から糾弾され指揮者をやめさせられたと言う過去があります。<br />
+アンドレイは３０年もの間復帰を願っていたのですが、ある日働いているボリショイ劇場の支配人宛てに届いたパリでのコンサートの依頼のFAXを横取りてしまい、昔の仲間を集めて今のボリショイオーケストラに成りすまし、代わりに公演してしまおうと仲間に持ちかけます。<br />
+オーケストラを離れて様々な職業をしている仲間を集めてコンサート実施までにいたるまでのどたばたと、そしてアンドレイがゲストとして競演に指名した美人バイオリニストの正体とは・・・という話です。<br />
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/jyxtWUsvBBM?rel=0" frameborder="0" allowfullscreen></iframe><br />
+背景がロシアのユダヤ人迫害やロシアの国内事情を風刺したものなので、その辺を理解していないとドタバタ劇が空回りなところがあるかもれません。<br />
+日本人にとってユダヤ人迫害といえばナチスドイツのイメージが強いのですが、旧ソ連では共産党を中心に戦後もずっとウクライナ問題とともに続いていてたと言う事と、共産党政権崩壊後に共産党員は力を失い、代わりにロシアン・マフィアたちが力を持ち財界で台頭しているって言う事を前提に見るとなんとなく分かります。<br />
+フランス映画なのですが、滑稽な役回りは全員フランス人以外のロシア人や東欧ジプシーの人なので、だいじょぶか？と思いながらも笑えてしまいます。<br />
+ロシアや東欧の厳しい現状を明るく笑ってしまうところが、いさぎいいです。<br />
+いろいろとニヤリとする小細工が散りばめられているので空きませんでしたし、ドタバタと対照的に美人バイオリニスト役の人が冷たい感じの美人なのは、狙い通りにはまってます。<br />
+<a href="http://www.amazon.co.jp/gp/product/B003ZUZ0XY?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003ZUZ0XY"><img src="http://ec2.images-amazon.com/images/I/41e5ShiRKJL._AA300_.jpg" alt="オーケストラ！" width="300" height="300"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B003ZUZ0XY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+そして最後は感動の演奏でハッピーエンドとなるので、それだけでも堪能できると思います。ばらばらだったみんなの気持ちがまとまるのが気持ちが良いです。<br />
+これでバイオリニストの人が本物だったら、迫力あったんだろうなあとは思いますが、まあそこは仕方ないですね。<br />
+オーケストラの迫力の演奏と、爆笑よりニヤリという笑いをお好みの方にはおすすめです。</p>

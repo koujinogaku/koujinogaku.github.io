@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: 咳
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 135
+wordpress_url: http://localhost/wordpress/?p=135
+date: !binary |-
+  MjAwNi0wOC0yMCAyMzozODoxMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wOC0yMCAxNDozODoxMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>もう一ヶ月以上、咳がでてます。結構体力を消耗します。しゃべってるのがさえぎられたり、他の人の話が咳で邪魔になったりしないようにしたいんですが、なかなか難しいです。また治らないまま一週間が始まってしまいますt。なんとかしないと。</p>

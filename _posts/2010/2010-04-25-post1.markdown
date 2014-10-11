@@ -1,0 +1,64 @@
+---
+layout: post
+status: publish
+published: true
+title: 第9地区みました。見ごたえがあって引き込まれました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 283
+wordpress_url: http://localhost/wordpress/?p=283
+date: !binary |-
+  MjAxMC0wNC0yNSAxMzowNTozOCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wNC0yNSAwNDowNTozOCArMDkwMA==
+categories:
+- 映画
+tags: []
+comments:
+- id: 90
+  author: しんきち
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAxMC0wNC0yNiAwMToyMDoyNyArMDkwMA==
+  date_gmt: !binary |-
+    MjAxMC0wNC0yNSAxNjoyMDoyNyArMDkwMA==
+  content: ! 'おもしろかったですか！
+
+    なんだかTVのCMで見かけただけで気になってたんです。
+
+    早くレンタルしないかなー
+
+'
+- id: 91
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAxMC0wNC0yNiAwODozNjo1MSArMDkwMA==
+  date_gmt: !binary |-
+    MjAxMC0wNC0yNSAyMzozNjo1MSArMDkwMA==
+  content: ! 'そうなんですよー。おもしろいです。
+
+    アメリカだとDVD/Blu-rayとっくに出てるんですけど、日本ではまだ映画館公開されたばかりです。日本でレンタルになるのはまだ先ですねぇ。
+
+'
+---
+<p>先日の「<a href="http://www.ustream.tv/channel/cinesc-ust">生シネスク(http://www.ustream.tv/channel/cinesc-ust)</a>」で紹介されていて、本家「シネマスクランブル」もチェックしてとても見たく仕方なかった「第9地区」、とうとう見ました。<br />
+評判通りの見ごたえのある、のめり込む映画でした。<br />
+有名な映画俳優はまったくいませんし主人公もイケメンではありません。そいうところが余計に映画の中に引き込まれる要因なんではないでしょうか。それぞれの人物が少ない描写でちゃんとわかってきます。<br />
+物語はエイリアンものでも宇宙ものでもありません。難民キャンプを舞台にした話なのですが、その難民キャンプの住人が宇宙人というわけです。<br />
+社会の業（ごう）と人の業。それぞれいろいろあるよねという事で。映画的には、それを超えた情（じょう）が最後に来てを終わるわけです。<br />
+映画の中で「何かの能力を得るためにその能力を持つものを食べる」という迷信を信じるというところが出てきます。食べたって仕方がないことは本人もわかっているのに、そうしてしまうという人の業を見て切なくなります。<br />
+映画は最初は言葉が多すぎて追いつくのが大変なのですが、雑然としたその雰囲気からだんだんと物語が進行して盛り上がってくると、話の中にどんどんと引き込まれていって無理な設定などどうでもよくなってしまいます。<br />
+CGもよくできていてとても自然なので、グロテスクというか衝撃的シーンがリアルです。ですから人間の破裂するところとか無理な方は見ないほうがいいかな。<br />
+「第9地区」はっきり言えます。絶賛です。<br />
+<a href="http://www.amazon.co.jp/gp/product/B0036VO2RW?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0036VO2RW">第9地区 [DVD]</a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0036VO2RW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<a href="http://www.amazon.co.jp/gp/product/B0036VO2RW?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0036VO2RW"><img src="http://ec2.images-amazon.com/images/I/51xyFSj3msL._SL500_AA300_.jpg" alt="第9地区 [DVD]" width="300" hight="300"><br />
+</a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0036VO2RW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/d6PDlMggROA?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/d6PDlMggROA?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object><br />
+次回の「<a href="http://www.ustream.tv/channel/cinesc-ust">生シネスク(http://www.ustream.tv/channel/cinesc-ust)</a>」放送予定は4/28(水)夜9時からです。</p>

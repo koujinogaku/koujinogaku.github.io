@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: 駅釜きしめん
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 119
+wordpress_url: http://localhost/wordpress/?p=119
+date: !binary |-
+  MjAwNi0wNi0wOCAwNzo0NDo1NCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wNi0wNyAyMjo0NDo1NCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments:
+- id: 67
+  author: こ
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNi0wOCAyMDowOTowMiArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNi0wOCAxMTowOTowMiArMDkwMA==
+  content: ! 'お、気に入っていただけたようで何よりです。＾＾
+
+'
+- id: 68
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNi0wOCAyMTozOToxNyArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNi0wOCAxMjozOToxNyArMDkwMA==
+  content: ! 'ありがとね。
+
+'
+---
+<p>駅釜きしめん<br />
+”きしめんは駅のホーム”という僕のねじれた常識を正すことにしました(笑)<br />
+同僚に連れられて入ったのは駅のホームではなくて、名古屋駅の中にある、｢駅釜きしめん｣。<br />
+結構な人気のお店でした。お店の外に列が絶えません。確かにおいしい。<br />
+でもお昼を食べるということで、天ぷらつけちゃったのはもったいなかったかなぁ。<br />
+やっぱし、「かけきしめん」が一番おいしいよねぇ。<br />
+<IMG src="/blog/img/20060608.jpg"></p>

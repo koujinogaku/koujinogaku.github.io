@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 定休日
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 178
+wordpress_url: http://localhost/wordpress/?p=178
+date: !binary |-
+  MjAwNy0wNi0yNyAyMDo0MzowNiArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wNi0yNyAxMTo0MzowNiArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>癒されようと、ケーキを買って帰ろうと思いながら電車を降りました。<br />
+初めて地元のケーキ屋さんでケーキを買うんだと、僕としてはかなり思い切ったつもりだったのです。<br />
+でも到着すると・・・。<br />
+<a href="/blog/img/200706271954.jpg" target="_blank"><img src="/blog/img/200706271954.jpg" alt="" border="0"></a><br clear="all"><br />
+定休日という落ちでした。<br />
+癒されませんでした(泣)</p>

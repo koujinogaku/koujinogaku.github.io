@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 県庁の星
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 240
+wordpress_url: http://localhost/wordpress/?p=240
+date: !binary |-
+  MjAwOS0wMS0zMSAyMzozMzo0MyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMS0zMSAxNDozMzo0MyArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>久しぶりに休みを休みました。<br />
+そしてDVD借りてきました。１枚目はこれ。<br />
+織田裕二がぁ、キタ━━━━(゜∀゜)━━━━ッ!!<br />
+県庁の星です。<br />
+<a href="http://hb.afl.rakuten.co.jp/hgc/093e8c3e.cf377d26.093e8c3f.3a25b2b1/?pc=http%3a%2f%2fitem.rental.rakuten.co.jp%2fdvd%2fpr%3daffili-inc1%2f1002485%2f%3fdev%3ddafl1002485&m=http%3a%2f%2fm.rakuten.co.jp%2f" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fimage.rental.rakuten.co.jp%2fdata%2f30%2f05%2f1002485_m.jpg&m=http%3a%2f%2fimage.rakuten.co.jp%2fcom%2finc%2fdirectory-afl%2fshare%2fimg%2ficn%2fdefault_mobile_banner.gif" border="0"></a><br />
+織田裕二さんかっこいいと思います。はまり役でした。<br />
+結果的に良いことでも、悪いことでも、自分の信じることをこれだけ真剣に出来るのなら、幸せです。<br />
+でもこれは優秀な人にしかまねが出来ません。<br />
+生活がかかっていると一生懸命にはなれない・・・ってなにか逆説的に聞こえますが、実際にはそうだと思います。それが凡人です。<br />
+織田裕二さんみたいにかっこよくて優秀だったら、僕だって信じることをやりたかった。でも結局それをやめてからのほうが、うまくいったのは現実で、でもその付けが今回ってきて、身動き取れなくなっているのも事実です。<br />
+世の中にいるしあわせな人たちは、一体どうやってきたのだろうか？不思議でなりません。</p>

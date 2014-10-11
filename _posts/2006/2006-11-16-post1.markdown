@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: 今週
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 145
+wordpress_url: http://localhost/wordpress/?p=145
+date: !binary |-
+  MjAwNi0xMS0xNiAyMDozNToxMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0xMS0xNiAxMTozNToxMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 71
+  author: みーやん
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMS0yMSAwMDozNDoyOSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0yMCAxNTozNDoyOSArMDkwMA==
+  content: ! 'なんだか忙しそうですね(;o;)
+
+    倒れちゃいますよー　気をつけて！！
+
+    私はスローライフが今月で終わりそうです。。。
+
+'
+- id: 72
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMS0yNiAxMzoxNjo1NyArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0yNiAwNDoxNjo1NyArMDkwMA==
+  content: ! 'ありがとう。
+
+    スローライフ卒業おめでとう(^-^)/(でいいのかな？)
+
+    スロースタートできるといいね。
+
+'
+---
+<p>今週の平均睡眠時間は2時間です。<br />
+今日は0時間になりそう。。。</p>

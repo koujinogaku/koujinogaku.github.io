@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 遅れます。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 154
+wordpress_url: http://localhost/wordpress/?p=154
+date: !binary |-
+  MjAwNi0xMi0zMCAyMTo0NTowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0xMi0zMCAxMjo0NTowMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20061230214500.jpg" alt="20061230214500" align="left" border="0"><br clear="all">ごめんなさい。<br />
+年賀状、今出してきました。<br />
+届くの遅れます。</p>

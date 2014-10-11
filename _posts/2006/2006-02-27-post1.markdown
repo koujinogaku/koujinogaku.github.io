@@ -1,0 +1,86 @@
+---
+layout: post
+status: publish
+published: true
+title: あと一つ足りません
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 112
+wordpress_url: http://localhost/wordpress/?p=112
+date: !binary |-
+  MjAwNi0wMi0yNyAwMDo1MzowMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wMi0yNiAxNTo1MzowMyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 59
+  author: しんきち
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMi0yNiAyMzo1MzozOSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMi0yNiAxNDo1MzozOSArMDkwMA==
+  content: ! 'えっ？短く自分で切ったらいかが？
+
+    私はいつもそうしてますけど・・・・・。
+
+'
+- id: 60
+  author: mi-yan
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMi0yNyAwMjoyMToyMiArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMi0yNiAxNzoyMToyMiArMDkwMA==
+  content: ! 'うらやましい悩みですね。
+
+    いっそ、太って身体をジーンズに合わせてみるとか(笑)
+
+'
+- id: 61
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMy0wMSAxNToyMDo1MSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMy0wMSAwNjoyMDo1MSArMDkwMA==
+  content: ! 'しんきちさん＞切れない仕様なんです（小力じゃないよ）
+
+    mi-yanさん＞やっぱ小力ふうに(笑)。鍛えて筋肉で太くなりたいモンですね。
+
+'
+- id: 62
+  author: こ
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNi0wOCAyMDoxMTo0OCArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNi0wOCAxMToxMTo0OCArMDkwMA==
+  content: ! '学生時代に細すぎて困っていたヤツが、「俺はビールを飲んで太るんだー」って言ってましたっけ。間違ってますね。
+
+    ジーンズを腰ではいてみる、という発想もありかもですよ？（無責任発言）
+
+'
+---
+<p>あと一つぶんなんですけどねぇ。あとひとつ足りないだけなんです。<br />
+先週ジーンズと一緒に、隣にあったベルトを買っていたんですけど、Mサイズで80数センチって書いてありました。ジーンズに合う気に入ったベルトでは、それが一番センチ数が短かったから、あんまり考えずに買ってきました。<br />
+その場ではちゃんと確認せずに、普段している調整できるベルト(綿パンにしてる普通の細さのやつね)と同じつもりで切ればいいやと思って買って帰ったんです。<br />
+・・・・、やっぱり「ちゃんと確認しなきゃ」ですよね。<br />
+切って調整できないってことに、帰ってから気が付きました。そんでもって穴１つぶん長いんです。<br />
+しかたないから、そのままゆるゆるでしています。完全な飾りになっています。<br />
+今日ユニクロさんで聞いてみたけど穴あけは無理って・・・。昔のジーンズ屋さんだったらやってくれたぞぉ。<br />
+僕のウエストで穴の足りるベルトは、ジーンズに合うのがなくって、結局、今日もゆるゆる。<br />
+細いジーンズでよかったぁ。もう一インチ上のサイズのジーンズにしていたら、ずり落ちてました。<br />
+やっぱり、全部買いなおすかぁ。<br />
+まず僕に合うベルトですよね。まあちゃんと穴あけてくれるお店に行ってちゃんとしたベルトを買えばいいんですよね。<br />
+僕に「あと一つ」をくれる店をさがそう(苦笑)</p>

@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Opera Mini 5を入れました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 278
+wordpress_url: http://localhost/wordpress/?p=278
+date: !binary |-
+  MjAxMC0wMy0yOSAxMjo1MzoyNCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wMy0yOSAwMzo1MzoyNCArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments: []
+---
+<p>とっても古いのですが捨てられない便利アイテムってありますよね。<br />
+僕の場合はiPAQ Pocket PC h2210という手のひらサイズのポケットPCです。<br />
+無線LANカードを挿してあるので、何かにつけて復活して活躍しています。<br />
+最初は仕事でスケジュールとメールの為に使っていましたが、古くて現役を引退した後は、たとえば旅行先で写真整理に使ったり、Skypeというインターネット電話を使って頻繁に話をするのですが、パソコンを使わずポケットPCを耳に当てて携帯電話のように使っている時があります。<br />
+でもWebブラウザとしてはいまいちでした。NetFrontというソフトやOperaの旧バージョンを入れてもどうも使いづらくて実用には耐えません。<br />
+それが今の時代、iPhoneのおかげで携帯端末のブラウザに対する考え方がずいぶん変わったのでしょう、OperaというWebブラウザがしばらく見ないうちにずいぶん進化していました。<br />
+Opera Mini 5はとっても使いやすく小気味よく動きます。<br />
+しかも7年か8年も前の機械にインストールしているのに、するするとスクロールしぬるぬるとページがめくられます。<br />
+普通、7年前のパソコンに今のソフトをインストールしたら重たくて使い物にならないでしょ？<br />
+やればできるんです。いまのパソコンのソフトウェアは本当はもっと軽量化できるんではないでしょうか？<br />
+以下はOpera Mini 5の宣伝ビデオです。慣性スクロールでぬるぬる動く感じがわかります。<br />
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/joBaCW8abNE&hl=ja_JP&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/joBaCW8abNE&hl=ja_JP&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></p>

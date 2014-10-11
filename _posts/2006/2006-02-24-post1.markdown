@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: 集中できますように
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 111
+wordpress_url: http://localhost/wordpress/?p=111
+date: !binary |-
+  MjAwNi0wMi0yNCAxMDo1MzoyMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wMi0yNCAwMTo1MzoyMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>いつものように朝遅くなってしまい小走りで出勤しているさなか、おばあさんにがこっちに向かってきます。<br />
+見るとおばあさんは、白髪がボサボサで大変な事になっています。<br />
+そしてとても丁寧な言葉づかいで、道を聞いてきました。<br />
+僕が目的地の方角を指し示したあと、「その道を曲がったほうが・・・」と、おばあさんにとって数メートル戻った、僕にとっては前方の道を指しました。<br />
+孫が受験で来るのだそうです。<br />
+僕も急いでいるので、そそくさと進み始めると、教えた道を曲がらずについてくるじゃありませんか。<br />
+受験なら人がいるから大丈夫でしょ、とかいって振り切ってしまいました。<br />
+当日の姿が目に浮かびます。<br />
+孫が心配での行動なのでしょうけど、もっと孫のことを考えてあげて欲しいなぁ。<br />
+明日受験に来るお孫さん。集中して試験が受けられることを祈っていますよ。</p>

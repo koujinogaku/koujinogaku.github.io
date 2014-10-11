@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: 価値観
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 156
+wordpress_url: http://localhost/wordpress/?p=156
+date: !binary |-
+  MjAwNy0wMS0yOCAyMDo1OTozOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wMS0yOCAxMTo1OTozOCArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments: []
+---
+<p>パソコンのCPU買ってきました。Celeron2.0GHzからPentium4 2.4GHzになりました。<br />
+このパソコンを組み立てた当時は多分2～3万円位だったのですが7000円で入手となりました。最初からその程度が適正価格ですよ。<br />
+メモリーは予想外の値段に納得がいかず、遅いメモリーのままなのでアンバランスな状態なのですが、気分の問題でもう満足してしまいました。<br />
+たまぁ～にカクってＤＶＤがとまる事があったのがとまらなくなったのでこれで十分でしょう。<br />
+とあるベンチマークソフト(性能を評価するソフト)で結果を比較すると12%向上という結果ですから実はそんなに速くないんですけどね。<br />
+知っている人なら、最初に作るときに何でまたそんなにケチったの？と思うCPU(CeleronというPentium4の廉価版)を使っていたわけですが、どうしてもこのPentium4というCPUが嫌いだったんです。<br />
+ちから技で無理やり速度を早くしようとしている構造で、何GHzという数字を早くすることだけを考えて作られているんです。<br />
+だからその前のPentiumⅢというCPUと比べても効率が悪くて何GHzという数字が高くてもその分速くなっていないんです。<br />
+実際にベンチマークソフトで計ると会社で使っているノートパソコンのPentiumM(Pen3を継承した構造)1.8GHzの方が、Pentium4 2.4GHzに変えたいまの僕のパソコンより20%以上、Celeron2.0GHzと比べれば35%近く高い数字が出ています。Celeronは仕方ないにしても差がありすぎです。<br />
+結局このPentium4の構造は失敗に終わり、元のPentiumⅢの後継となる構造に戻って最近ではCore 2という構造のCPUが出てきました。ちからずくっていうのはうまくいくもんじゃありませんよね。<br />
+値段の問題じゃなくて納得をいかない物に対して、売り上げ貢献をしたくなかったのが、ケチった理由です。<br />
+新しいCPUにあわせて周りの部品が安定してきたら、ちゃんとしたのを作りたいな。<br />
+・・・でも、これ以上いいパソコンにする理由が今のところ見つからないですけどね。</p>

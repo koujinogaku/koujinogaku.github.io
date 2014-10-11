@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 自作ＯＳ：MicroWindows移植計画　かっちょい～（苦笑）
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 293
+wordpress_url: http://localhost/wordpress/?p=293
+date: !binary |-
+  MjAxMC0wOS0zMCAxNzo0MTo0MyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wOS0zMCAwODo0MTo0MyArMDkwMA==
+categories:
+- 自作OS
+tags: []
+comments: []
+---
+<p>何とか滑り込みで、9月にアップロードできました（笑）<br />
+ほったらかし自作ＯＳを久しぶりにいじりました。<br />
+だいぶ経ったのでおさらいです。<br />
+コンピューターのソフトっていろいろあって、とっても基本的なことをするものをオペレーティングシステム（ＯＳ）というのですが、そのよく知られているのがWindows(ウィンドウズ)。<br />
+それを買ってくるんじゃなくて自分でつくっちゃおうというのが、自作ＯＳなのです。<br />
+ＯＳのさらに基本的な部分であるカーネルは作ったのですが、ノリノリで使うためには触れるかっこいい画面がいるのでウィンドウシステムというのを手がけ始めたらもう大変でそう簡単には出来ないんです。<br />
+それでほったらかしになったというわけ。<br />
+で、すでに出来てる種みたいなのをもってきて、それを使って作ろうという移植という方法でオリジナルじゃないけど動けばいいじゃんというノリになり、このほどMicroWindowsというものを移植しようとくわだてています。<br />
+長い道のりの最初の一歩は、四角の表示です！なんとすばらしい（苦笑）<br />
+<a href="/blog/img/helloscreenshot20100930-small.jpg" target="_blank"><img src="/blog/img/helloscreenshot20100930-small.jpg" alt="" border="0" width="320" height="264" /></a><br />
+なんでも、ものを作るって言うのは大変なことです。<br />
+コンピュータに詳しい方は、ちゃんと単独で動く32bit OSカーネルのソースコードをぜひご堪能ください。<br />
+ダウンロードサイトはこちら<br />
+<a href="http://koujinogaku.wiki.fc2.com">こうじのがく まとめ(自作OS、ホームページ作成)</a><br />
+<a href="http://koujinogaku.wiki.fc2.com">http://koujinogaku.wiki.fc2.com</a><br />
+<a href="http://koujinogaku.wiki.fc2.com"><img src="/blog/img/koujinogakuwiki.jpg" alt="こうじのがく まとめ(自作OS、ホームページ作成)" border="0" width="320" height="275"></a></p>

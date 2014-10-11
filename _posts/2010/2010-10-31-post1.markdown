@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: トロンレガシーに期待しつつ祈る思い
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 294
+wordpress_url: http://localhost/wordpress/?p=294
+date: !binary |-
+  MjAxMC0xMC0zMSAyMzowMzoxMSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0zMSAxNDowMzoxMSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>ハロウィンも最高潮ということで、あと１時間しないで今月終了なので急いで投稿です。<br />
+でも、プログラミングも進まず書くことが無いから、１２月上映「トロン・レガシー」の映像を貼り付けてみました。<br />
+予告編を見ている限りでは、スターウォーズとマトリックスを足したような雰囲気。<br />
+内容もダースベーダーとルークスカイウォーカーの戦いとなっているようです。<br />
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/BEndyAOpI8A?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/BEndyAOpI8A?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object><br />
+とっても期待なのですが、まさかの肩透かしの心配も無いことは無く、どちらにしても早く公開にならないかとやきもきしているのです。<br />
+３０年前につくられた初代トロンは世界初の全編ＣＧ映画でその当時は凄かったといっても、その当時のことなわけで、そこに敬意を表するのは分かるのですが引っ張られすぎないないで～って思います。エンターテイメントとして楽しませてくれる事を期待しているのですが、画面からはいまだにチップチューンな香りが濃厚です。<br />
+２日前の最新映像はこちら。<br />
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/LY4Uao1YF3o?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/LY4Uao1YF3o?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object><br />
+がんばれディズニー！</p>

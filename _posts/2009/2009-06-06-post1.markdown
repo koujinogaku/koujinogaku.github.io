@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: I'm Alive
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 259
+wordpress_url: http://localhost/wordpress/?p=259
+date: !binary |-
+  MjAwOS0wNi0wNiAxMzowMzoyOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wNi0wNiAwNDowMzoyOCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>元気でました。<br />
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/PhPoGqC_LPo&hl=ja&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PhPoGqC_LPo&hl=ja&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object><br />
+I'm Alive. ちょっと違う方向で。</p>

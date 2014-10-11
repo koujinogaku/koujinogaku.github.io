@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: さ～っむい
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 209
+wordpress_url: http://localhost/wordpress/?p=209
+date: !binary |-
+  MjAwOC0wMy0zMCAxNTowNjo0NiArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMy0zMCAwNjowNjo0NiArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20080330150646.jpg" alt="20080330150646" align="left" border="0"><br clear="all">久方ぶりに近所の大きな公園に来ました。<br />
+昨日ダメだったので今日が桜も見納めと思い来てみたんですが。<br />
+なんとも寒くて花見の人はまばらです。<br />
+遠くに見えるバーベキューソーンも焚火にあたっていて帰りじたくをする家族も多いようです。<br />
+桜は昨日の風でだいぶ吹き飛んだようで満開にしてはスカスカな感じです<br />
+。<br />
+その上調度今工事中でなんとも残念なかぎりです。<br />
+雨もぱらついてきて今年の花見はこれで終了です。</p>

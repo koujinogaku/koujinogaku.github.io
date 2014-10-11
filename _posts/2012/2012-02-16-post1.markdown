@@ -1,0 +1,112 @@
+---
+layout: post
+status: publish
+published: true
+title: GALAXY Player 3.6 (YP-GS1) いつの間にか買えるようになってた
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 321
+wordpress_url: http://localhost/wordpress/?p=321
+date: !binary |-
+  MjAxMi0wMi0xNiAxMjozMjo1MSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0wMi0xNiAwMzozMjo1MSArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments: []
+---
+<p>去年の暮れにamazon.co.ukでGalaxy S Wifi 3.6 MP3 Playerが販売開始された瞬間に品切れになっているのを見てみんな待っていたんだなぁと思ったのですが、いつの間にか本家の韓国でも買えるようになっていたんですね。<br />
+まあ当たり前といえば当たり前なのです。<br />
+たまたま検索したら出てきて今年の1月16日韓国でも発売開始だそうです。<br />
+韓国にはAmazonが無いので一般人には分からないんですよね。韓国のネットショップとか知らないし。。。。<br />
+という事で日本でも買える韓国系マーケットプレイスへ見に行くとありましたよ、<br />
+GALAXY Player 3.6。<br />
+<a href="http://px.a8.net/svt/ejp?a8mat=1U17EV+D4Q73M+1RSE+BW8O2&a8ejpredirect=http%3A%2F%2Flist.qoo10.jp%2Fitem%2F%25E3%2582%25B5%25E3%2583%25A0%25E3%2582%25B9%25E3%2583%25B3%25E9%259B%25BB%25E5%25AD%2590-SAMSUNG-GALAXY-PLAYER-YP-GS1-8GB%2F404472030%3Fjaehuid%3D200000138" target="_blank">GALAXY Player 3.6 ( YP-GS1 ) 8GB/16GB</a><br />
+<img border="0" width="1" height="1" src="http://www14.a8.net/0.gif?a8mat=1U17EV+D4Q73M+1RSE+BW8O2" alt=""><br />
+<a href="http://px.a8.net/svt/ejp?a8mat=1U17EV+D4Q73M+1RSE+BWGDT&a8ejpredirect=http%3A%2F%2Flist.qoo10.jp%2Fitem%2F%25E3%2582%25B5%25E3%2583%25A0%25E3%2582%25B9%25E3%2583%25B3%25E9%259B%25BB%25E5%25AD%2590-%25E9%2580%2581%25E6%2596%2599%25E7%2584%25A1%25E6%2596%2599-SAMSUNG-GALAXY-PLAYER-YP%2F406009356%3Fjaehuid%3D200000138" target="_blank"><br />
+<img border="0" alt="" src="http://gd.image-gmkt.com/mi/122/883/413883122.jpg"></a><br />
+<img border="0" width="1" height="1" src="http://www10.a8.net/0.gif?a8mat=1U17EV+D4Q73M+1RSE+BWGDT" alt=""><br />
+UK版と名前が微妙に違うんですね。<br />
+韓国語がまったくわからないので苦心して見つけた韓国本場のネットショップでは8GB版で20万ウォン(14000円ぐらい)前後で各ショップが売っています。<br />
+今日のUKアマゾンだと￡163.18(約2万円)ですし、上の海外輸出ショップでも19000円ですから、やっぱり輸送料が高いんでしょうか？マージンが高いんでしょうか？<br />
+ただし、iPod touchに比べるとスペックに差が出ます。<br />
+http://www.samsung.com/global/microsite/galaxyswifi/gs3/gs3_spec.html<br />
+2Mピクセルのカメラ、GPS内蔵(iPodは0.3Mピクセル相当、GPSなし)。<br />
+Display3.65inch解像度480x320(iPodは3.5inch解像度960x640)<br />
+その他のCPUなどは大差無しと思います。<br />
+Displayは荒いですが、カメラの解像度が実用に耐える所まで上がっているのと、気休めでもGPSが付いているのは魅力的です。<br />
+見た目の美しさより実用面を選択した感じです。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/6bFgSP7RBno" frameborder="0" allowfullscreen></iframe><br />
+OSはAndroid 2.3でAndroid Market対応ですから、現在発売中のAndroid携帯と同じで今のところ不便はないと思います。バージョンアップの早いAndroidですから、既に4.0が出ているのもあってAndroid2.3の機種が今年一年持つのか分かりませんが。<br />
+Geekな人たちにとっていまさらAndroid 2.3？という人もいるのでしょうね（苦笑）<br />
+2万円という価格がちょっと気になるのですが、未だにスマホを持つ気がしない僕にはモバイル端末として結構欲しかったりします。<br />
+iPod touch買ったばかりだし悩みます。。。<br />
+-- 追記 --<br />
+情報の信頼性は定かではありませんがさらに詳しいスペックがこちらにありました。<br />
+http://www.speedbusiness.net/shop/products/detail_757.html<br />
+仕様：Galaxy S Wifi 3.6 MP3 Player<br />
+■サイズ/重量<br />
+　* 高さ: 115.9mm、幅: 62.4mm、厚さ: 9.65mm<br />
+　* 重量: 107g<br />
+■ディスプレイ<br />
+　* 3.65" HVGA (480x320)<br />
+　* Super Clear LCD タッチスクリーン, 16万色<br />
+■カメラ<br />
+　* 前面: 0.3M VGA (640x480) カメラ<br />
+　* 背面: 有効画素数約200万画素 AF LED フラッシュ<br />
+■容量<br />
+　* Flash Memory 8/16GB<br />
+　* DRAM 512MB<br />
+　* MicroSD スロットあり(未搭載)<br />
+■プロセッサ<br />
+　* 1GHz プロセッサ<br />
+■センサー<br />
+　* 加速度センサー<br />
+　* 環境光センサー<br />
+■通信方式<br />
+　* 3G なし<br />
+　* GSM/EDGE なし<br />
+　* Wi-Fi (802.11 b/g/n)<br />
+　* Bluetooth (Ver.3.0)<br />
+　* GPS<br />
+■バッテリー<br />
+　* Lithium-ion 1,500mAh<br />
+■ポート<br />
+　* イヤホンジャック<br />
+　* MicroUSB ポート<br />
+■OS<br />
+　* Android 2.3<br />
+http://www.edepot.com/iphone.html<br />
+仕様：iPod touch 4G<br />
+■サイズ/重量<br />
+　* 高さ：111.0 mm、幅：58.9 mm、厚さ：7.2 mm<br />
+　* 重量：101 g<br />
+■ディスプレイ<br />
+　* 3.5インチ（対角）ワイドスクリーンマルチタッチディスプレイ<br />
+　* 960 × 640ピクセル解像度、326ppi<br />
+■カメラ<br />
+　* 前面: 0.3M VGA (640x480) 静止画、最大30fps オーディオ入り ビデオ撮影<br />
+　* 背面: 0.7M (960 x 720) 静止画、720p HD（最大30fps、オーディオ入り）ビデオ撮影<br />
+■容量<br />
+　* Flash Memory 8/32/64GB<br />
+　* DRAM 256MB<br />
+■プロセッサ<br />
+　* Apple A4(Cortex-A8) 800MHz プロセッサ<br />
+■センサー<br />
+　* 3軸ジャイロ<br />
+　* 加速度センサー<br />
+　* 環境光センサー<br />
+■通信方式<br />
+　* Wi-Fi 802.11b/g/n（802.11nは2.4GHzのみ）<br />
+　* Bluetooth 2.1 + EDR<br />
+　* Nike+に標準対応<br />
+■ポート<br />
+　* 30ピンDockコネクタ<br />
+　* 3.5mmステレオヘッドフォンジャック<br />
+■OS<br />
+　* iOS 5.0</p>

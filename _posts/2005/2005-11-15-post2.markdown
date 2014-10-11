@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: こだま
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 79
+wordpress_url: http://localhost/wordpress/?p=79
+date: !binary |-
+  MjAwNS0xMS0xNSAyMzowMDowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0xMS0xNSAxNDowMDowMCArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p>最近静岡に来ることが重なってたびたび「こだま」に乗っています。<br />
+「こだま」って結構混んでいるんですね。先週は外人の団体さんとか小グループでいっぱいで、<br />
+今日はおじちゃんおばちゃんの団体さんでいっぱいでした。<br />
+こないだも今日も浜松を基点に行動していたのですけど、結局うなぎにはありつけず、今日は京都に移動します。<br />
+<img src="/blog/img/20051115-1.jpg" alt="20051115-1.jpg" width="120" height="160" /></p>

@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 雨は降ったんだ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 223
+wordpress_url: http://localhost/wordpress/?p=223
+date: !binary |-
+  MjAwOC0wNy0yNiAwMTo0ODozOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wNy0yNSAxNjo0ODozOCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>フロントガラスが濡れています。<br />
+そっかぁ、雨は降ったんだ～。</p>

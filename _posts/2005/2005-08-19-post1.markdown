@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: 佐世保バーガー
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 61
+wordpress_url: http://localhost/wordpress/?p=61
+date: !binary |-
+  MjAwNS0wOC0xOSAwNzoyNTowNCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wOC0xOCAyMjoyNTowNCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments:
+- id: 25
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0xOCAxNToxNzoxMSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0xOCAwNjoxNzoxMSArMDkwMA==
+  content: ! 'じゃぁ、緑モスの匠バーガーもお試しー
+
+    あとフレッシュネスのバーガーもねー
+
+    どっちも旨いっすよー
+
+    でもボリュームじゃ佐世保バーガーに負けるっす
+
+'
+---
+<p>引き続き食べ物ゲットは、「佐世保バーガー」です。<br />
+今、僕の周りではやっているんですが、とうとう昨日食べることができました。<br />
+なんとこれがおいしいんですよ。<br />
+手作りって感じがとってもよくて、あましょっぱい濃い味が癖になる感じです。<br />
+塩コショウで濃い目の味でバーベキューソースがかかってて、ハンバーグとベーコンとエッグ、そしてあふれるトマトとレタス！<br />
+８／２３まで新宿南口の高島屋で売ってまーす。<br />
+<img src="/blog/img/20050819.jpg" alt="20050819.jpg" width="160" height="120" /></p>

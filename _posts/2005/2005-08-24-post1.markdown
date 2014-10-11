@@ -1,0 +1,56 @@
+---
+layout: post
+status: publish
+published: true
+title: 緑モス
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 63
+wordpress_url: http://localhost/wordpress/?p=63
+date: !binary |-
+  MjAwNS0wOC0yNCAwMDo0MTozOSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wOC0yMyAxNTo0MTozOSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 26
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0yMyAxNToxNjowMiArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0yMyAwNjoxNjowMiArMDkwMA==
+  content: ! 'じゃ、匠十段で！！
+
+    http://www.mos.co.jp/spotlight/050316/takumi_ju.html
+
+    1000円だよー
+
+    どこの緑モスでも提供しているわけではないって
+
+    ところが匠十段のすごさだー
+
+    新宿ならココ
+
+    http://www.mapion.co.jp/c/f?uc=4&pg=1&grp=MOS&ino=BA347671
+
+    14時から発売だよー
+
+'
+---
+<p>駅前のモスバーガーが改装中だなぁと思ったら、緑になって新装開店しました。<br />
+もともとカジュアルな感じの店だったのでまったく違和感が無くて、確か前は赤かったような・・・というぐらい、緑がしっくりきています。<br />
+モスバーガーを意識したといえば、はるか昔、人で暮らし始めたすぐくらいの頃だったと思います。子供の頃はなぜかライスバーガーのイメージしかなかったのですが、ハンバーガー談義をしているのを横で聞いていて、どうもモスバーガーは美味しいらしいと。<br />
+前に住んでいたところで、ふらっと店に入ってオーダーしたのがその名も「モスバーガー」。タマネギとトマトとデミグラソース系ハンバーグ・・・マクドナルドやロッテリア甘んじていた僕にとっては、初めてそれとして意識し食べ、シンプルでおいしく同時に感慨深いものがありました。二階のガラス張りの止まり木のような席から、目の高さの電車のホームと行きかうバスの屋根を見下ろして、自分は自由になったんだなぁと。<br />
+今住んでいる所にもたまたまモスバーガーがります。カジュアルな雰囲気が前からありました。今は店舗をカジュアルにイメージチェンジする緑の改装を各地でやっているんですね。<br />
+ちなみにフレッシュネスバーガーも店の雰囲気好きだし美味しいですよねぇ。<br />
+で、匠バーガーですか？<br />
+まだ食べたことが無いので、今度食べてみますねぇ。<br />
+<img src="/blog/img/20050824.gif" alt="緑モス" width="160" height="120" /></p>

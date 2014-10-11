@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 親不知
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 260
+wordpress_url: http://localhost/wordpress/?p=260
+date: !binary |-
+  MjAwOS0wNi0wOSAxOTozMDowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wNi0wOSAxMDozMDowMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>おやしらず抜きました。<br />
+前に下の歯を抜いた時、その流れで上を抜けば良かったのですが、2年間空いてしまいました。<br />
+これでやっと4本全部なくなりました。<br />
+全部真横に生えてうっとうしかったので念願叶いました。抜けないので手術です。取れたあと、もうちょっと頑張ってね、と言われたのですが何の事か分からなく、あとから話の様子でどうやら出血が凄かったみたいです。血が苦手な僕なので知らなくて良かったです(苦笑)。<br />
+やればいいのに、なかなか踏ん切りがつかない事っていっぱいありますよね。<br />
+今抜いたところを縫ってあるので、抜糸するまでもう少しの辛抱です。</p>

@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 自作OS ウィンドウシステム
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 228
+wordpress_url: http://localhost/wordpress/?p=228
+date: !binary |-
+  MjAwOC0wOC0yNCAxODo0MTowMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wOC0yNCAwOTo0MTowMyArMDkwMA==
+categories:
+- 自作OS
+tags: []
+comments: []
+---
+<p>やっとウィンドウシステムがサーバーとして動き出しました。<br />
+ウィンドウシステムとウィンドウアプリケーションが分離されています。<br />
+っといっても見た目じゃ分かりませんが・・・。<br />
+写真は２つウィンドウアプリケーションを実行しているところです。クリックすると後ろに隠れたウィンドウが前に出るようにしています。<br />
+<a href="http://koujinogaku.web.fc2.com/helloworld/" target="_blank"><img src="/blog/img/helloscreenshot20080824-small.jpg" alt="クリックしてGo!" border="0" /></a><br />
+だいぶ形になってきましたね。</p>

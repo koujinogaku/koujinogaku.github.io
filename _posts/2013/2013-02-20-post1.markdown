@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: ゼロ・ダーク・サーティ見ました。男泣きです。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 341
+wordpress_url: http://localhost/wordpress/?p=341
+date: !binary |-
+  MjAxMy0wMi0yMCAyMjo1MDozNyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMy0wMi0yMCAxMzo1MDozNyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>なんかすごいらしいという話は聞こえてきていたのですが、実際に見てすごかったです。<br />
+これは男泣きする映画ですね。<br />
+<a href="http://www.amazon.co.jp/gp/product/B00AZRHQXW/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00AZRHQXW&linkCode=as2&tag=koujinogakuse-22"><img border="0" src="/blog/img/20130220b.jpg" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B00AZRHQXW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+あらすじや物語の設定に関しては、題材が題材なだけに文字としては書きづらいです。<br />
+変に検索に引っかかってしまいたくないので。<br />
+物語の設定に関しては、公式サイトなどを参照してください。<br />
+http://zdt.gaga.ne.jp/<br />
+公式サイトで内容を見ていただければわかると思います。<br />
+アメリカでもあまり絶賛しているわけではないのは、それがしにくい内容だからではないでしょうか。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cAtWcvCxPhc" frameborder="0" allowfullscreen></iframe><br />
+それでも設定がどうであるかとは別の所でも、とても没入感のある映画です。<br />
+一言で言って、僕には執念を描いていると見えました。<br />
+執念はどのようにして生まれ、どうやって育っていったか。そんな風に見えました。<br />
+おそらく、仕事に入れ込んでいる人であればとても共感が出来るのではないでしょうか。<br />
+主人公の女性が、最初にこの仕事を始めたときの姿から、徐々に変わっていき、執念の人に変貌していきます。<br />
+現実にはみんな妥協に流されて生きているわけです。<br />
+それでも中には何かにこだわり自分の全てを賭けている人っていますよね。そういう人っていわゆる仕事の鬼とかではなく、もっと別次元の何かが元になって人生全て賭けちゃっていたりします。<br />
+映画の中でもこころざし半ばで離脱したりさせられたりして、たくさんの人が失脚していきます。その中で主人公は何とか残り執念を燃やすんです。<br />
+そういう人をみると自分はなんて駄目なやつなんだろうと、悔しくなってきます。<br />
+この映画の中で僕が一番泣きそうになったシーンは、主人公とCIA長官が食堂で話しているシーンです。映画の中の主人公この気持ちではなく、見ている自分が様が悔しくて男泣きをしました。もしよかったらそこを注意して見てみてください。<br />
+映画のつくりとしては、爆破シーンがとても重要です。１つ１つの爆破シーンにとても重い意味が込められています。その音圧を映画館で感じて余計にその重さを感じることができたと思います。アクション映画でドッカンドッカン爆発しているのとは意味が違います。<br />
+そうなんですよね。現実にはとても重い意味があるんです。<br />
+上映時間は158分とかなり長いのですが、長いって気付きませんでした。<br />
+ぜひこれは映画館で重さを感じながら見てください。</p>

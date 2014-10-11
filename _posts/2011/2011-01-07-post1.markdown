@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: 500日のサマー見ました。笑わせてもらいました、これ傑作です。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 296
+wordpress_url: http://localhost/wordpress/?p=296
+date: !binary |-
+  MjAxMS0wMS0wNyAyMDoyMTozOCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0wMS0wNyAxMToyMTozOCArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>僕の去年の一番はインセプションだったのですが、そこに出ていたジョセフ・ゴードン＝レビットという役者さんがとてもカッコよかったのです。<br />
+彼が主役の「(500)日のサマー」がずっと気になっていてやっと見ることに。<br />
+<a href="http://www.amazon.co.jp/gp/product/B0047CPJBW?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0047CPJBW">（500）日のサマー [Blu-ray]</a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0047CPJBW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<a href="http://www.amazon.co.jp/gp/product/B0047CPJBW?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0047CPJBW"><img src="http://ec2.images-amazon.com/images/I/51bIKBEgP2L._SL500_AA300_.jpg" width="300" height="300" border="0" alt="（500）日のサマー [Blu-ray]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0047CPJBW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+やぁぁっ大当たりです。笑わせてもらいました。とは言ってもコメディという訳ではありませんが、なんとも軽快にトントンと展開させて笑わせてくれます。<br />
+内容は男性に向けたラブストーリーです。<br />
+おとなしそうな草食系男子トムがサマーという名の女性に恋をして勝手に一人で振り回される５００日間のお話です。<br />
+普通はラブストーリーっていうのは女性客を主なターゲットにして作ってあるので、僕ら男性陣はなかなか乗り切れないところが出てくるのですが、この映画は男性客のために作ってあって、すっかりはまってしまいました。<br />
+最初は日本語版の予告編を見て、サマーをかわいく映してそこを中心に描いているありきたりのかと思ってそんなに期待度は高くなかったのですが、見てみるとまったく違う印象でした。<br />
+トムの心の浮き沈みが話のすべてです。そう「すべて」です。むしろトムの性格をいかにかわいく描いてあるかがこの映画の見所です。<br />
+この表現方法がとてもよくて、ジョセフ・ゴードン＝レビットの主人公へのなりきり具合がすごいのもありますが、こころの上がり下がりを表現するために自然にではなく分かりやすく音楽の使い、絵を使い、へたくそに歌う歌の入れるというのが絶妙で、踊っちゃったりするのもあるのですが、あの演出もあれが正解です。<br />
+トムの友人２人も本当にいいやつで、いいアシストをしてあげているところもホッコリとしてしまいますし、トムの妹のキャラクターも最高です。ちなみに妹は公開中の映画キック・アスの子だそうです。<br />
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/PsD0NpFSADM?fs=1&amp;hl=ja_JP"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PsD0NpFSADM?fs=1&amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object><br />
+これを女性が見て笑えるのか？笑いどころが分かるか？は、僕にはまったくわからないのですが、男性であれば、見て楽しめないという事はまずないと思います。<br />
+絶対お勧めです。</p>

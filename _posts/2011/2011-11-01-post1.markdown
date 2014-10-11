@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 軍用ヒューマノイドPETMANの進化に驚き
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 314
+wordpress_url: http://localhost/wordpress/?p=314
+date: !binary |-
+  MjAxMS0xMS0wMSAxMjoyNzo1OSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0xMS0wMSAwMzoyNzo1OSArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>突然目の前に出された動画に驚きました。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/mclbVTIYG8E" frameborder="0" allowfullscreen></iframe><br />
+米国Boston Dynamics社のPETMAN最新型です。<br />
+初期バージョンのPETMANは雑な歩きしかできなかったのですが、これはかなり安定しています。比べてみると一目瞭然。<br />
+初期バージョンはこちらです。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/67CUudkjEG4" frameborder="0" allowfullscreen></iframe><br />
+日本で人間型二足歩行ロボットで有名なのはアシモ(ASIMO)くんなのですが、見る限りでは基本的な考え方が違うように感じます。<br />
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Q3C5sc8b3xM" frameborder="0" allowfullscreen></iframe><br />
+アシモくんの方はとてもおしとやかに歩いたり走ったりしていますが、今の延長線上では蹴っ飛ばされたら倒れそうです。<br />
+Boston Dynamics社といえばネット上ではとても有名なBigDogやAlphaDogを開発している会社なので今後の動向が気になります。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/VNRtL8exd14" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/SSbZrQp-HOk" frameborder="0" allowfullscreen></iframe><br />
+僕が最初に回路設計して自分で半田ゴテもってくみ上げたコンピュータは６本足ロボットの制御用なんです。<br />
+ここに到達できなかったのは今でも悔しいですね。<br />
+その頃のフレームや駆動装置の技術から相当進歩してるし、コンピュータのCPUクロックも1000倍以上で性能は何倍になったのか想像もつきません。<br />
+だから当時できないのは当たり前としてもこの道に進めずコンピュータの世界に流されてしまったのは自分の力の無さを改めて思い知らされます。</p>

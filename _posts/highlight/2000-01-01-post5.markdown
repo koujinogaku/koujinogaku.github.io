@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "PHPプログラミング"
+date:   2000-01-01 00:00:05
+categories: highlight
+image:  php.png
+link: /php/
+---
+PHPでプログラム書いたときのメモを置いておきます。
+
+[詳しくはこちら]({{ site.baseurl }}/php/)

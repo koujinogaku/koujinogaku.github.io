@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: ブラック・スワン見ました。いたっ！い゛～たたたっ！
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 305
+wordpress_url: http://localhost/wordpress/?p=305
+date: !binary |-
+  MjAxMS0wNS0yMiAxMzoyNjozNSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0wNS0yMiAwNDoyNjozNSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>話題だったブラック・スワンが日本で公開されたので見てきました。<br />
+<a href="http://www.amazon.co.jp/gp/product/B004N3B96E/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B004N3B96E"><img src="http://ec3.images-amazon.com/images/I/51ujj-2qGlL._SL500_AA300_.jpg" width="300" height="300" alt="ブラック・スワン (ナタリー・ポートマン 主演) [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=&l=as2&o=9&a=B004N3B96E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+去年すでに見ていた友人から、かよわい女性の痛々しい姿を見るのはどうも苦手という感想を聞いていたので、予告編を見て、ナタリーポートマンがいじめに合いながらがんばる話かと完全に誤解していました。<br />
+僕はそういう悲劇映画で救いの無いへこみドラマは、見た後に気持ちが立ち直るのに時間がかかるからだめなんですよね。<br />
+でも見てみたらまったく違うもので、ホラー映画でした。しかも限度を超えた怖いやつではなく、ぎりぎりのところを攻めてくるいい感じの怖さというか痛さの映像でした。<br />
+その痛さっていうのが生々しくて、予告編であるとおり、むしって血がにじんできたりそういう痛さなんです。血しぶきとか頭爆発とかそういう派手なやつではなく、いかにもそれ痛いってばぁっていう感じで、もう、い゛～って歯を食いしばってしまいます。ずっとハンカチタオルを握り締めてみていました（苦笑）<br />
+ブラック・スワンといえばナタリーポートマンがアカデミー賞をとったわけで、その役への入り込み方は半端ないです。<br />
+ストーリーは精神的に芯の弱いけど優秀なバレリーナが大役をまかされて、精神的に追い詰められて舞台稽古を続けて公演にいたるまでの話なのですが、その弱さがと狂気の二面性がものすごいです。<br />
+<iframe width="560" height="349" src="http://www.youtube.com/embed/5jaI1XOB-bs?rel=0" frameborder="0" allowfullscreen></iframe><br />
+あまり複雑なストーリーもなく感動ドラマということでもないので、何をどういったらネタバレせずに言い表せるのか難しいのですが、結局、明かさずに終わるとあるたった１つの設定によってすべてを構成しているので内容は非常に単純です。基本的には主人公の成長の過程を描いているように見せておいて、最後その成長自身がいったいどうだったのか？っていうどんでん返しと僕は受け取ったのですが、そう思うと軽い話としてさらっと終われます。<br />
+だからこそ純粋にホラーと演技力のすごさを楽しむ事をストーリーに邪魔されせず、素直に痛い描写に痛がれます。<br />
+ってこれってネタバレかな(てへっ)<br />
+ひとつだけ物足りなかったといえば、クラシックバレーが題材なのでそういう見せる芸術性で迫力のある映像を期待してしまうのですが、そこがいまいち弱かったです。<br />
+ナタリーポートマンが追い込まれていく内向きの引力が激しいので、派手なはずの狂気の踊りも閉鎖空間の中に閉じ込められた魔物という雰囲気の怖さです。<br />
+ホラーとして捕らえれば閉じた館の中で展開される見えない恐みたいな、そういう雰囲気の演出なのでとてもそれが効果的に働いていたのですがね。ちなに恐怖の館は出てきませんがそういう雰囲気ということです。<br />
+めちゃくちゃ痛いけど後に残らず、さらっと頭を切り替えられる良作でした。</p>

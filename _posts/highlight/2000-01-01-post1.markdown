@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Amazon EC2の使い方"
+date:   2000-01-01 00:00:08
+categories: highlight
+image:  amazon-ec2.gif
+link: /amazon-ec2/
+---
+初心者が、試行錯誤をしながら、何とか動くまでに行なったさまざまな作業と、気づいた点をまとめていきます。
+
+[詳しくはこちら]({{ site.baseurl }}/amazon-ec2/)

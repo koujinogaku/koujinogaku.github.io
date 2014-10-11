@@ -1,0 +1,88 @@
+---
+layout: post
+status: publish
+published: true
+title: Zend Framework版OpenIDのGoogle＆Mixi対応
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 298
+wordpress_url: http://localhost/wordpress/?p=298
+date: !binary |-
+  MjAxMS0wMi0wNyAxODo1MTozMyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0wMi0wNyAwOTo1MTozMyArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments:
+- id: 92
+  author: raj
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAxMS0wOC0yMyAxMjozMDoyOCArMDkwMA==
+  date_gmt: !binary |-
+    MjAxMS0wOC0yMyAwMzozMDoyOCArMDkwMA==
+  content: ! 'zendでmixiの対応ありがとうございます。助かります。こうじのがくのをつかってfacebookも使えるようにしました。anandwebtech.wordpress.com
+
+'
+- id: 93
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAxMS0wOS0xMCAxOTo1MDoyMCArMDkwMA==
+  date_gmt: !binary |-
+    MjAxMS0wOS0xMCAxMDo1MDoyMCArMDkwMA==
+  content: ! '使って頂いてありがとうございます。お役に立ててうれしいです。
+
+'
+---
+<p>とっても申し訳ないとは思いますが、今日はプログラムとか分からない人には、全くわからない内容を書いちゃいます。<br />
+そんなの知らんよ！という方は、読み飛ばしてください。こういう話が分かる人って、この日記には来ないよなぁ（笑）<br />
+さて、プログラマーの皆さん！よく知られていることですが、Zend FrameworkのOpenIdクラス群はGoogleやMixiなどのXRI/Yadis環境のOpenId認証には対応できません。(今日現在は、ねっ)<br />
+普通は、Open ID Library( http://www.janrain.com/openid-enabled )を使うようなのですが、これがどうも分かりずらい。<br />
+ワーニングがでまくるしうまく動作しません。みんな一発で動いているなんてすごいですね。<br />
+それで、中のコードを読んで対応しようとするのですが、どーもコードが汚い。<br />
+いい加減いやになり、Zend FrameworkのほうをGoogleに対応させる事にしました。<br />
+最初はAkeem Philbertさんのページ(http://ak33m.com/?p=71)のパッチを当てて動いて感動したのですが、どうもGoogleだけでは物足りなくてもうひとつ動かない代表格のMixiにも対応させて見ました。<br />
+その結果Akeem Philbertさんのコードが跡形もなくなってしまったのですが、一応改変版です。<br />
+対応方法は・・・<br />
+・Yadisもどき<br />
+　　・x-xrds-locationヘッダーに反応します。<br />
+　　・metaタグのx-xrds-locationに反応します。<br />
+・XRIもどき<br />
+　　・content-type: application/xrds+xmlに反応してXRDSを認識します<br />
+　　・x-xrds-locationされたらXRDSを取りに行きます。<br />
+・OpenID 2.0のauth request対応<br />
+　　・identifier_selectに対応します。<br />
+・Mixiパッチ<br />
+　　・OpenID 2.0でも、HMAC-SHA1を許しました。<br />
+・AX対応<br />
+　　・Googleに加えて、Yahoo.co.jp、Yahoo.com、Mixi.jpにも対応しました。<br />
+・・・といったところです。<br />
+一応、見た目上は動いているサーバーは以下のとおり。<br />
+・https://www.google.com/accounts/o8/id<br />
+・https://me.yahoo.co.jp<br />
+・https://me.yahoo.com/<br />
+・http://www.yahoo.co.jp<br />
+・http://mixi.jp<br />
+そしてOpenID 1.xへ悪影響はないかと調べたかったのですが、はてなサーバで試したところ動いているようです。<br />
+・http://www.hatena.ne.jp/ユーザーID<br />
+詳しい話とパッチのダウンロードはこちらからどうぞ。<br />
+<a href="http://koujinogaku.wiki.fc2.com/wiki/PHP%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%2528PHP)"><br />
+こうじのがく まとめ<br />
+</a><br />
+phpのパスの通ったところに展開してください。<br />
+使い方は、サンプルコードもつけてあるので、Zend Frameworkが分かる人ならすぐ分かります。<br />
+これらは、Zend Frameworkのマニュアルに載っているサンプルを動かすものです。<br />
+- openid_form.php<br />
+- openid_request_handler.php<br />
+- openid_verify_response.php<br />
+これはAXで属性を取ってくるサンプルを動かすものです。<br />
+- test_consumer_ax.php<br />
+良かったら使ってみてください。</p>

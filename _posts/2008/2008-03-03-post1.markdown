@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: うめ梅
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 200
+wordpress_url: http://localhost/wordpress/?p=200
+date: !binary |-
+  MjAwOC0wMy0wMyAwMDoxOTowOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMy0wMiAxNToxOTowOCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><a href="/blog/img/20080303001907.jpg"><img src="/blog/img/20080303001907s.jpg" alt="20080303001907" align="left" border="0"></a><br clear="all">梅！発見です。<br />
+今週は風邪をひいて熱を出しダウンしてしまったのですがやっと治って、気分も良いです。<br />
+暖かくなってきて梅も咲いてなんだかいい感じで散歩ができました。</p>

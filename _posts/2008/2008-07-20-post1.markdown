@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 世界で一番おひめさま。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 222
+wordpress_url: http://localhost/wordpress/?p=222
+date: !binary |-
+  MjAwOC0wNy0yMCAyMToyNTo0NyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wNy0yMCAxMjoyNTo0NyArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>仕事から逃避してぶらぶらしていると、ガツンとぶつかってしまいました。<br />
+ずいぶん前に、合成音声が歌っているのを聞いてすげーいう話を書きましたが、今、とんでもなく進化しています。<br />
+シャウトしています。もうここまでくると人間とかわらないじゃないですか！<br />
+「ワールドイズマイン　唄：初音ミク」<br />
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/yeGtANAcED8&hl=ja_JP&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yeGtANAcED8&hl=ja_JP&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object><br />
+この曲を作っている人たちのぜったい歌わせるっていう執念を感じます。<br />
+ぼくは逃げてるのに。。。</p>

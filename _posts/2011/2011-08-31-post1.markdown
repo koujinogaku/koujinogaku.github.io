@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: ダークナイト見ましたよ。初代の良さが帰ってきたね
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 311
+wordpress_url: http://localhost/wordpress/?p=311
+date: !binary |-
+  MjAxMS0wOC0zMSAxNToxNDo0NSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0wOC0zMSAwNjoxNDo0NSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>ずっと見るのを封印していたバットマンシリーズでしたが、TSUTAYA100円セールのお世話になり、この間とうとう見ました「ダークナイト」。<br />
+ちなみに日記を書いていなかったので更新日付は捏造です(苦笑)<br />
+<a href="http://www.amazon.co.jp/gp/product/B001AQYQ1M/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001AQYQ1M"><img src="http://ec2.images-amazon.com/images/I/51Ee-EBYKHL._SL500_AA300_.jpg" alt="ダークナイト 特別版 [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=&l=as2&o=9&a=B001AQYQ1M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+何年も前にバットマンシリーズ第一作は、食わず嫌いで見なかった所を、見てみたらすごく良くて、ジャック・ニコルソンのジョーカーの狂い方がもう最高でした。<br />
+それで期待して二作目を見たのですが、あのペンギンおじさんがどうも肌に合いません。ちょっと気分悪くなるぐらいな合わなさでした。<br />
+次のバットマンフォーエバーにいたっては途中でやめてしまうほどでした。それ以降のバットマンシリーズはもういやな感じとうだけでなく、どうでもいいようなものばかりだったので、ずっとバットマンシリーズは封印してきたんです。<br />
+<a href="http://www.amazon.co.jp/gp/product/B003EVW62W/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003EVW62W"><img src="http://ecx.images-amazon.com/images/I/51Ik5ExecHL._AA115_.jpg" alt="バットマン [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=&l=as2&o=9&a=B003EVW62W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.co.jp/gp/product/B003EVW636/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003EVW636"><img src="http://ecx.images-amazon.com/images/I/51v56tU6-RL._AA115_.jpg" alt="バットマン リターンズ [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=&l=as2&o=9&a=B003EVW636" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="http://www.amazon.co.jp/gp/product/B003EVW63G/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003EVW63G"><img src="http://ecx.images-amazon.com/images/I/51sHRre7BoL._AA115_.jpg" alt="バットマン フォーエヴァー [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=&l=as2&o=9&a=B003EVW63G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+でも、この「ダークナイト」は米国でヒットしたらしく面白そうな話ばかり聞くので、何となく気になっていたところ、ダークナイトと同じ監督の「インセプション」が去年公開されたんです。<br />
+これが去年最高に面白かったので、「ダークナイト」はバットマンとしては例外的にみてもいいかなと思ったまま年を越し、やっと見たという感じです。<br />
+こんな経緯ですから、最初から期待値が低く設定されているのが良かったんですかね。良かったですね、まさにダークな感じが渋くてよかったです。<br />
+今回もやはり一番の役者はジョーカーです。本来敵がまたジョーカーでそのキャラクター設定も同じ傾向なのですから、またかよ！となってしまうはずなのですが、途中作品に拒否反応があったので、戻ってきてくれたという感覚になったのも、高評価の要因ではないでしょうか。<br />
+<iframe width="560" height="345" src="http://www.youtube.com/embed/GROmJWb-3wU?rel=0" frameborder="0" allowfullscreen></iframe><br />
+もともとバットマンはヒーローにしては、悪役よりの立ち居地にならざる終えないという後ろ向きなところがかっこよさにつながっていると思うのですが、<br />
+第一作以上に、ダークナイトでは善と悪について、単純なものではないという事がテーマになっているのも、この作品の良さだというのは見終わった人に共通する感想だと思います。<br />
+バットマンはダークヒーローで必要悪みたいな役回り、そして弁護士のハービー・デントがヒーローになっていくのですが、そのヒーローとされている人の立場とか負わされているものとか、悪役であるジョーカーがなぜ悪であると言えるのか、もともとの悪であるマフィア集団の存在理由、選択とは何か、などなどとても深い話です。<br />
+いろいろと起こる理不尽なことを踏まえてのこの世界であるし、そういう事が見えずに裏に隠されて、表に出ない事によって初めてこの世の中が成り立っているんだねと、ずしんとくるものがあります。<br />
+バットマンのマシンや映像関係もかなり進化していて、そういうところもかなり楽しめます。車とかバイクとかかっこよさ倍増です。ちょっと意外だったのは、あのバイクって以外に設定や作りがチャチなのに、まったくそんな感じを思わせないデザイナーのすごさに感心しました。<br />
+<a href="http://www.amazon.co.jp/gp/product/B001C00YEY/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001C00YEY"><img src="http://g-ec2.images-amazon.com/images/G/09/ciu/eb/fd/d7bed0920ea04ceb0d062210.L._AA300_.jpg" alt="【ムービー・マスターピース】 『ダークナイト』 1/6スケールビークル バットポッド"></a><img src="http://www.assoc-amazon.jp/e/ir?t=&l=as2&o=9&a=B001C00YEY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+名演と言ったらやはりジョーカー役のヒース・レジャーという人の狂い方ですね。本作品が遺作だそうで残念です。バットマンはジョーカー役なしでは成立しません。<br />
+あのしたなめずりというか、はっきり聞こえないしゃべり方でありながら、あいまいでない一本筋の通った人物像は、この作品全体を引っ張っていく中心的な力になっています。<br />
+それでいてもちろん主役バットマンや執事、彼女、刑事、弁護士などのそれぞれの役もキャラクターが立っていて、見ていて引き込まれていきました。<br />
+よく一人のセレブ俳優で全体の色が決まってしまうのってあるじゃないですか。そういう違和感がほぼ無いっていいですよね。<br />
+僕の信条としては善は悪の裏返しであって善人と思われている人も実は、正義感から作り上げられる悪の存在によって成り立つと思っているんです。<br />
+でもそんな単純化できない入り組んだものの存在を見せ付けられる作品でした。<br />
+ふかーく哲学したい時に、おすすめの作品です。</p>

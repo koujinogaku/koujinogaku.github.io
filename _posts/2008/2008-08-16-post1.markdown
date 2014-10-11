@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 自作OS バッチファイル
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 227
+wordpress_url: http://localhost/wordpress/?p=227
+date: !binary |-
+  MjAwOC0wOC0xNiAxMjozNTowNCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wOC0xNiAwMzozNTowNCArMDkwMA==
+categories:
+- 自作OS
+tags: []
+comments: []
+---
+<p>複数のコマンドを順番に自動的に実行できるように、バッチファイルという仕組みを作りました。<br />
+これで、マウスドライバを起動してからウィンドウシステムを実行するという操作を１つのコマンドで実行できるようになりました。<br />
+というより、ウィンドウシステムを実行した後、ウィンドウアプリを実行するということをしようとしたときに、前のままではウィンドウアプリを実行することが出来なかったのでそれを出来るようにしたかったというのが、本当の狙いです。<br />
+う～むぅ。難しい話ですよね。<br />
+画面の見た目も変わらないの画面の写真も省略です。<br />
+地味な改造ですみません。</p>

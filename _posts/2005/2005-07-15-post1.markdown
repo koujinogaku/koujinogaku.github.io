@@ -1,0 +1,55 @@
+---
+layout: post
+status: publish
+published: true
+title: シャッフル
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 52
+wordpress_url: http://localhost/wordpress/?p=52
+date: !binary |-
+  MjAwNS0wNy0xNSAwMToxMzoxMiArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wNy0xNCAxNjoxMzoxMiArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 5
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0xOCAxNToyMzo0MyArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0xOCAwNjoyMzo0MyArMDkwMA==
+  content: ! '神田にある慈和堂って足ツボが最高でーす
+
+'
+- id: 6
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNCAwNToyMjo0OSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMyAyMDoyMjo0OSArMDkwMA==
+  content: ! 'むむ。検索すると、神田は見つからないけど台湾に見つかっちゃいました、慈和堂。
+
+'
+---
+<p>かなりやばいです。<br />
+とっくに限界を超えててんぱっています。<br />
+こんな時って集中が切れると体が仕事を拒絶しちゃうんですよね。<br />
+ちょっとした資料に5時間かかった(ToT)。<br />
+そんな状態で明日の朝は健康診断。<br />
+結果が悪いのみえみえです。<br />
+ああぁ。<br />
+今日はiRiverがあってよかったと思いました。<br />
+<a href="http://www.amazon.co.jp/exec/obidos/redirect?link_code=as2&path=ASIN/B0006U31FU&tag=koujinogakuse-22&camp=247&creative=1211"><IMG src="http://images-jp.amazon.com/images/P/B0006U31FU.09._OU09_PE0_SCMZZZZZZZ_.jpg"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0006U31FU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+ストレスにはシャッフルモードが効きますね。ずっと使っているんですがもっと早く気がつけばよかった。<br />
+もっと癒しをさがさないと・・・。</p>

@@ -1,0 +1,21 @@
+{% if page.collection %}
+  {% comment %} Collection can not inherit page property. {% endcomment %}
+  {% assign header = site.collections[page.collection] %}
+{% elsif page.type == "blog" %}
+  {% assign header = site.blog %}
+{% else %}
+  {% assign header = page %}
+{% endif %}
+{% if header.header_disable %}{% else %}
+<div class="jumbotron">
+  <div class="container">
+  {% if header.title %}
+    <h1>{{ header.title }}</h1>
+    <p>{{ header.description }}</p>
+  {% else %}
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  {% endif %}
+  </div>
+</div>
+{% endif %}

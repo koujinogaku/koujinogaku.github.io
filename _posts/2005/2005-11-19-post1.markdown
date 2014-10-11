@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: ぐったり
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 83
+wordpress_url: http://localhost/wordpress/?p=83
+date: !binary |-
+  MjAwNS0xMS0xOSAyMzowMDowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0xMS0xOSAxNDowMDowMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>会社の憂鬱な飲みで心身ともに疲れました。<br />
+まったく動けずにぐったりです。<br />
+最近はストレスたまり気味なので土日はほとんど動けないのですがこれほど疲れたことは無いです。<br />
+この先どうなることか。</p>

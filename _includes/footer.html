@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <p>{{ site.title }}({{ 'now' | date: "%Y" }}) All rights reserved. </p>
+  <ul class="list-inline">
+    <li><a href="/about/">About</a></li>
+    <li><a href="/sitemap/">Sitemap</a></li>
+  </ul>
+  <ul class="list-inline">
+    {% if site.email %}<li>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </li>{% endif %}
+    {% include services/github-follow.html %}
+    {% include services/twitter-follow.html %}
+  </ul>
+</footer>

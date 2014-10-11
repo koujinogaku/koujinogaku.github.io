@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: ますたにラーメン
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 237
+wordpress_url: http://localhost/wordpress/?p=237
+date: !binary |-
+  MjAwOS0wMS0wMSAyMTozOTo0MiArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMS0wMSAxMjozOTo0MiArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p>もうひとつ書き溜まったままの日記をアップしておきましょう。<br />
+僕はどちらかというと、人よりラーメンは食べないほうです。<br />
+以前、新千歳空港で時計台ラーメンで間に合わせる時か、出先で遅くなりどこも開いていない時ぐらいです。少なくとも一年以上食べていませんでした。<br />
+でも世間ではラーメン好きは多く、ラーメンの好みで話が盛り上がる光景にたまに出会います。自分のオススメ店の話を聞かされたりして…。<br />
+そんな中、仕事のお客さんに薦められたラーメン屋にまだ行っていない事がばれて、ヒガミ口調で冗談で指摘されてしまいました。<br />
+そして今日、早い時間に仕事を切り上げて、いつもと違う食事でもしたいなと思った次の瞬間に気付きました。そうラーメンだよね。<br />
+薦められていたラーメン屋は、慶應大学三田校舎の近くにある「ますたにラーメン」。<br />
+メニューは、ラーメンとチャーシューメンのみ。トッピングや作り方の調整をいろいろしてくれる事で、お客さんの好みに対応しています。<br />
+標準的な組み合わせっぽいものを選んで頼むと、チャーシューとネギがのったしょうゆとんこつっポイ感じのラーメンが出てきました。<br />
+スープは濃厚でいて口あたりはさっぱりしていて後からピリッと辛さが来ます。確かに美味しい。<br />
+ただラーメンを食べ慣れない僕はすぐお腹いっぱいになってしまい、結局あとでお腹がすいてしまいました。<br />
+ここは後から調べると、京都発祥のチェーン店。豚骨ではなくて鶏がらだそうです。<br />
+僕の入ったのは田町店のようです。<br />
+写真は恥ずかしくて取れなかったのでこちらで。<br />
+http://ramen.gnavi.co.jp/shop/jp/g525100n.htm<br />
+<a href="http://ramen.gnavi.co.jp/shop/jp/g525100n.htm"><img src="http://ramen.gnavi.co.jp/shop/img/photo/g5251001.jpg"></a></p>

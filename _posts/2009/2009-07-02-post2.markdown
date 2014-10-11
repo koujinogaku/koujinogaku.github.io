@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 穴場発見
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 262
+wordpress_url: http://localhost/wordpress/?p=262
+date: !binary |-
+  MjAwOS0wNy0wMiAyMDowMDowMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wNy0wMiAxMTowMDowMyArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p><img src="/blog/img/1246532402b.jpg" alt="1246532402-090702_191645.JPG" align="left" border="0"><br clear="all">国内便ではクレジットカード会社の特典の空港ラウンジを使い倒したのですが成田空港では今まで使った事がなかったので調べて見るとありますよね。ここ第一ターミナルは5階にありました。クレジットカードのゴールドカードを持っている方は試してみてくださいね。<br />でも残念ながら出国審査を通過してしまいました。中には航空会社のラウンジしかありません。僕はもう航空会社ゴールドエリートのランクとは無縁です。<br />時間を持て余していると搭乗口近くのラウンジへ上がる階段の横に降りる階段があるじゃありませんか！<br />「Public Lounge」と書いてあり、広い空間にほとんど人がいなくて、なんと端にはリクライニングシートが並んでいます。<br />旅慣れたカップルが任天堂DSしながらくつろいでいました。</p>
+<p>今は空港関係者の若いお姉さんたちがグダグダ寝転んで携帯をいじったり電話したり…（しかも関西弁で）。<br />飲み物食べ物は置いていませんが、これは穴場ですね。</p>
+<p>まったくの一人でないと散策の余裕は出来ないなと。<br />混雑時期で無い方はお試しを。</p>

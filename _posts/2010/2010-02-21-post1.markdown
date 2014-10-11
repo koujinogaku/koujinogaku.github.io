@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: エコな最新３Ｄ環境ATI HD5670が１万円を切りました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 275
+wordpress_url: http://localhost/wordpress/?p=275
+date: !binary |-
+  MjAxMC0wMi0yMSAxMzo1MjowNSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wMi0yMSAwNDo1MjowNSArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments: []
+---
+<p>ケチな僕が買っちゃおうか最後のワンクリックというところまで来ています。<br />
+<a href="http://www.amazon.co.jp/gp/product/B0034UB0RU?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0034UB0RU&m=AN1VRQENFRJN5"><img src="http://ecx.images-amazon.com/images/I/41egLzxbjGL._SL160_AA160_.jpg" alt="SAPPHIRE ビデオカードSAPPHIRE HD5670 512M GDDR5 PCI-E HDMI/DVI-I/VGA 11168-02-20R"  width="160" height="160" border="1"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0034UB0RU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<a href="http://www.amazon.co.jp/gp/product/B0034UB0RU?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0034UB0RU&m=AN1VRQENFRJN5">SAPPHIRE ビデオカードSAPPHIRE HD5670 512M GDDR5 PCI-E HDMI/DVI-I/VGA 11168-02-20R</a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0034UB0RU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+Amazonで2010/02/21現在で<strong>「9945円送料無料」</strong>となってきました。<br />
+最新３Ｄ規格対応のグラフィックカードがここまで下がれば、３Ｄも普及してくるでしょうか？<br />
+（すみません、今回もとってもマニアックな話になるので、なるべく平たく書きます。）<br />
+パソコンで３Ｄのグラフィックを表示するゲームとか、セカンドライフ（っていう仮想空間で楽しんじゃう奴）なんかをやるには、グラフィックカードという部品は必須アイテムなのですが、お気に入りがずっと出ていなくて待っていたんです。<br />
+ゲーマーではない僕は普段はそんなものは必要ないんですけど、たまにはやりたいじゃないですか。そういう人にとって高機能のグラフィックカードはちょっと厄介です。<br />
+というのは、エコじゃない！電気食うんですよ。ぼーっとしてパソコンつけてあるだけで電気食っていくのは勿体無いじゃないですか。「ＭＯＴＴＡＩＮＡＩ」はいま大事なエコなんです。<br />
+３Ｄバリバリのフル稼働じゃないときの電力が低くてしかも最新の３Ｄ技術が使えて、しかもお手ごろ価格っていうのをずっと待っていたんです。<br />
+最新規格じゃないとか省電力版じゃないとか、省電力化したのがでたとおもったらとっても古いものをベースにしていたりとか・・・。<br />
+うだうだと、僕のパソコンは３Ｄの無い状態のまま１年以上経過して（・・・てそれならいらないんじゃ？）やっと出てきたのがＡＴＩというメーカーのHD5000シリーズ。最新規格の採用が早く今回はDirectX 11.0搭載で、しかも省電力！<br />
+シリーズということで最高級品から普及版まで徐々にリリースということで、中堅クラスが今年１月に出て、３Ｄ処理性能はそんなに高くない普及版がつい先日で出てきました。<br />
+その中堅クラスのグラフィックカード用のＧＰＵというやつがHD5670です。それを搭載したカードが出たばっかりという時の価格から、落ち着いてきて１万円を切るようになりました。<br />
+Amazon.co.jpで検索すると今日現在１万３千円と出るんで、そのまま買っちゃうと高いんです。<br />
+ちゃんと見ると9,945円（今日現在）という文字がみえます。そっちから買えばいいんです。<br />
+たとえばここをクリックするれば、9,945円のページに直接飛びます。<br />
+<a href="http://www.amazon.co.jp/gp/product/B0034UB0RU?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0034UB0RU&m=AN1VRQENFRJN5">SAPPHIRE ビデオカードSAPPHIRE HD5670 512M GDDR5 PCI-E HDMI/DVI-I/VGA 11168-02-20R</a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0034UB0RU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+パソコン（自作）を新しいのに変えて以来まあいいや、と思ってグラフィックカードをさしていなかったんです。<br />
+３Ｄ環境が僕にも戻ってくるかも。</p>

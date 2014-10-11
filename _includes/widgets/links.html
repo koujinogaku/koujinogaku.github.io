@@ -1,0 +1,10 @@
+<div class="widgetwrapper widget-links">
+  <h4>{% if include.caption %}{{ include.caption }}{% else %}Links{% endif %}</h4>
+  <ul>
+    {% for link in site.data.widgets.links %}
+      <li>
+        <a href="{{ link.url }}">{{ link.caption }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,11 @@
+<div class="widgetwrapper widget-recentposts">
+  <h4>{% if include.caption %}{{ include.caption }}{% else %}Recent Posts{% endif %}</h4>
+  <ul>
+    {% for post in site.posts limit:10 %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

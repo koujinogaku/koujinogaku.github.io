@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: ダ・ビンチ・コード
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 190
+wordpress_url: http://localhost/wordpress/?p=190
+date: !binary |-
+  MjAwNy0xMS0yNCAyMDo0MDowOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0xMS0yNCAxMTo0MDowOCArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>ダビンチコード見ました。<br />
+本も読んでいないしキリスト教も知らないのでちょっと難しかったです。<br />
+<a href="http://www.amazon.co.jp/gp/product/B000HWY2JQ?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000HWY2JQ" target="_blank"><img src="http://ec2.images-amazon.com/images/I/51A8KPS3MML._AA240_.jpg" alt="ダ・ヴィンチ・コード デラックス・コレクターズ・エディション" border="0"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B000HWY2JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+なんでそんなにそれが大事なことなのか、わからないまま話が進んでしまいました。<br />
+でも世界中の多くの人は何かしらの宗教を重視しているから、大変なことなんでしょう。映画が公開禁止になった国もあるとかないとか。キリスト教はとくに多数派ですからあの変の話に反応する人も多いのでしょう。<br />
+僕なんてキリスト教で神様と救世主キリストさんとどっちが大事なの？一神教じゃなかったの？みたいなまるで訳が分かっていないので論外なんでしょう。<br />
+僕は何を信仰しているかと言えば自然科学でしょうね。<br />
+別に科学技術第一という意味ではなくて、自然には逆らえないし時には導いてくれる教えともなると思っているだけです。でも自然科学に真理なんてなくて時代とともに変わっていきます。<br />
+日本の神話の場合は伝わっていくうちに変わっていくだろうと僕らは分かっていますが、聖書は絶対と思っている人たちは多いようですね。<br />
+唯一無二の神がいる人たちがこの辺をこだわり過ぎていて争いごとが絶えないのは悲しいですね。この映画の中でも神がいる限り殺し合いは終わらないというような意味のことを言っていました。<br />
+物語はどちらかといえば、そんなにこだわるなよ！というメッセージに聞こえたので、僕には心地よく感じました。<br />
+無理なことなのかもしれませんが、できればみんな仲良くやってもらいたいものです。<br />
+<script type="text/javascript" src="http://www.assoc-amazon.jp/s/link-enhancer?tag=koujinogakuse-22&o=9"><br />
+</script></p>
+<noscript>
+<img src="http://www.assoc-amazon.jp/s/noscript?tag=koujinogakuse-22" alt="" /><br />
+</noscript>

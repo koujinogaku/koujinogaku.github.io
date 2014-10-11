@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 引越し
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 98
+wordpress_url: http://localhost/wordpress/?p=98
+date: !binary |-
+  MjAwNi0wMS0wNCAyMzo1OTozMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wMS0wNCAxNDo1OTozMCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>日記のサーバーを引っ越しました。<br />
+カレンダーがうまく使えていなかったんで、ご近所さんの生協の白石さんやご近所で有名なサイトを見るとみんなカレンダー使ってなかったんです。あと僕の環境のせいなのですが携帯から投稿できなかったり、管理画面のレスポンスが結構遅かったりといろいろあって、思い切って引越してしまいました。<br />
+データの移行も背景のカスタマイズも大変で昨日から今朝までかかってしまいましたが、そのおかげでだいぶ勉強になりました。MT形式(MovableType)というのもいろいろ癖があってそう簡単にはデータ移行が出来ないんです。あと画像のURLの移行とかもめちゃくちゃ大変でした。<br />
+テンプレートのカスタマイズもやってみましたが、拝借したオリジナルテンプレートをみようみまねで工夫してみました。だいぶ思うようになってきて無事完成です。<br />
+カレンダーも使えるし携帯電話からの投稿もできるし、このサーバーのほかのサイトとも違って最新コメントの表示が見やすくなってます。サイドのメニューのLinkのところに「携帯でこうじのがく」として付けたので、携帯からもお試しあれ。<br />
+んで、携帯からさっそく投稿するねたを探しに外に出たのですが、とくに見つからず衝動買いを２つして、先ほどのモスバーガのお店に入ったのでした。<br />
+二つの衝動買いは、また明日。</p>

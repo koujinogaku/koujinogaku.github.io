@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 草なぎさん
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 254
+wordpress_url: http://localhost/wordpress/?p=254
+date: !binary |-
+  MjAwOS0wNC0yNCAwMTozOTo1MCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0yMyAxNjozOTo1MCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 85
+  author: しんきち
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0yNSAyMjoyNTo1NiArMDkwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0yNSAxMzoyNTo1NiArMDkwMA==
+  content: ! '追い詰め方が気に入らないです。
+
+    マスコミは神にでもなった気ですか。
+
+    弱者にも温かい社会でいて欲しいですね
+
+'
+- id: 86
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0yNyAyMTozNjo1MCArMDkwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0yNyAxMjozNjo1MCArMDkwMA==
+  content: ! 'お久しぶりです～。テレビみました。もう僕の見た時はだいぶ落ち着いて危機管理の専門家という人が、謝罪会見を評価してました。いろんな形でいじられてますね。
+
+    それにしても草なぎさんにとって休養になるならある程度休み取れていいんじゃないかと。
+
+'
+---
+<p>電車のニースで見かけ、携帯で検索しました。<br />
+そんなに辛かったんだね。そう思ってしまいます。<br />
+もちろん切り取られた、ほんの少しの情報から何が分かる訳では無いのですが。<br />
+それにしても今の社会は人を追い詰める事をなんとも思っていませんね。<br />
+人は淘汰され強い者だけが生き残る……。<br />
+日本の自殺者は3年間万人という数字もどこかで見かけました。<br />
+人がそのように淘汰され、ダーウィン的に言えば進化するなら、人の未来に平和なんてありえるのでしょうか？<br />
+そんな事を僕が考えても仕方ありませんね。<br />
+でも逮捕しちゃうか～。これも淘汰だなぁ。</p>

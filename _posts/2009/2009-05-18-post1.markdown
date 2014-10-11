@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 瞳をとじて
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 256
+wordpress_url: http://localhost/wordpress/?p=256
+date: !binary |-
+  MjAwOS0wNS0xOCAwMToyMDoxMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wNS0xNyAxNjoyMDoxMyArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>一年以上前のVOCALOID作品ですが、久しぶりに聞いて癒されました。なので載せてしまいます。<br />
+感情を込めて歌っているみたいな、そんな風に感じてしまいます。<br />
+音声合成もすごいけど、原曲もすごいんですよね。平井堅ってすごいです。<br />
+瞳をとじて　作詞／作曲：平井堅　歌：KAITO<br />
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gB-PKhLdmRg&hl=ja&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gB-PKhLdmRg&hl=ja&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>

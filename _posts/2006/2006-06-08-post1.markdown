@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: あんずの記憶
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 120
+wordpress_url: http://localhost/wordpress/?p=120
+date: !binary |-
+  MjAwNi0wNi0wOCAyMTozNjowNCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wNi0wOCAxMjozNjowNCArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p>久々に長野に行って来ました。長野って、ほんと便利になりましたね。<br />
+そういえば、ちと言えないほどかなり昔に長野によく来ていたのですが、今からは考えられない遠いところでした。<br />
+峠を越える機関車をつないで列車のサスペンションを切ってゴロゴロと走っているのは、いかにも「これから峠を越えるんです。がんばっているんです。」って列車が言っているようでした。そして、長野駅に近づいてくると線路沿いの一面のあんずの花が狂ったように花吹雪を散らしている光景を今でも思い出します。<br />
+今では新幹線ですぐに着いて、駅前も立派になって高級ホテルがデンと構えています。とても現代的な都市です。<br />
+って、もしかしたらあの頃の僕がちゃんと見てなかっただけなのかもしれませんね。<br />
+当時、僕は15000行のプログラムがすっぽり頭に入っていて、ひと部屋ぶんある構造物から残像ブラウン管に出力される図形を見て何が起きているのかをすべて頭の中でシュミレーションしていました。<br />
+そんな僕が上を向いて歩く必要は無く、きれいな駅前も目に映っていなかったのかもしれません。<br />
+あんずは覚えているんですけどね。</p>

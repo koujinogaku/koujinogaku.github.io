@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 餃子ライス２
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 90
+wordpress_url: http://localhost/wordpress/?p=90
+date: !binary |-
+  MjAwNS0xMi0wOCAyMzowMDowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0xMi0wOCAxNDowMDowMCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p>今日も宇都宮で餃子ライスです(苦笑)<br />
+しかも焼き餃子と水餃子。進歩がないと思うんだけどしかたないかな。<br />
+もっと時間がほしいなぁ。</p>

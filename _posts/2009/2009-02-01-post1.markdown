@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: ザ･マジックアワー
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 243
+wordpress_url: http://localhost/wordpress/?p=243
+date: !binary |-
+  MjAwOS0wMi0wMSAxOToxNTozMSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMi0wMSAxMDoxNTozMSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>見終わってみると、楽しい映画でした。<br />
+あまりに無理な状況設定で、なかなか見ていてしっくり来なかったのですが、えらい長い時間かかって、最後のほうになってこの狂気の世界にはまっていくと、最後はすっきりとした気分で見終えることが出来ました。みんなであほになれぇ～！！<br />
+ちなみにマジックアワーとは、実際の夕暮れの一瞬ではなく、人生における最高のお膳立てという風に捕らえたほうが良いんでしょうね。ちゃんとその時を逃さずに自分を演じることが出来るのが一番良いんですが、なかなかそうはうまくはいきません。その時が来るまで地道にがんばりましょうってことです。実際にこの映画の中には夕暮れとしてのマジックアワーは出てきません。<br />
+三谷幸喜さんのコメディ映画特有の”芝居しています”というお芝居がそのまま映画に活かされているのがよかったですよね。<br />
+最初我慢ですがそれを乗り切って映画の中と一体になれるならお勧めです。<br />
+<a href="http://hb.afl.rakuten.co.jp/hgc/093e8c3e.cf377d26.093e8c3f.3a25b2b1/?pc=http%3a%2f%2fitem.rental.rakuten.co.jp%2fdvd%2fpr%3daffili-inc1%2f1037512%2f%3fdev%3ddafl1037512&m=http%3a%2f%2fm.rakuten.co.jp%2f" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fimage.rental.rakuten.co.jp%2fdata%2fd4%2f94%2f1037512_m.jpg&m=http%3a%2f%2fimage.rakuten.co.jp%2fcom%2finc%2fdirectory-afl%2fshare%2fimg%2ficn%2fdefault_mobile_banner.gif" border="0"></a></p>

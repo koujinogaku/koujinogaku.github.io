@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: でんじろう先生の発熱実験キット
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 338
+wordpress_url: http://localhost/wordpress/?p=338
+date: !binary |-
+  MjAxMi0xMS0yOSAxMjoyNzoxNyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0xMS0yOSAwMzoyNzoxNyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>今月、何も書いていないのであわてて更新。<br />
+おもしろいものをゲットしました♪<br />
+「でんじろう先生の発熱実験キット」<br />
+http://www.breaththermo.com/present/<br />
+<a href="/blog/img/20121129.png" target="_blank"><img src="/blog/img/20121129.png" alt="20121129.png" border="0" width="219" height="269" /></a><br />
+これが何かというと、ブレスサーモっていう発熱する繊維の実験キットです。<br />
+ミズノがあったかい下着とかいろんなのを出しているあれです。<br />
+ユニクロのヒートテックが有名ですが、僕は仕事で柳井正氏が大嫌いになりでユニクロはこんりんざい買いませんと決めていたというのもあって、ヒートテックなんて詐欺だと思ってました。<br />
+それと似たような話な代物なわけです、この「ブレスサーモ」・・・・。<br />
+しかーーーーし！<br />
+実験キットを使ってみるとびっくり！<br />
+この綿に水をかけると、暖かいどころか、熱いぐらい発熱するんです。<br />
+水蒸気を吸着するのではなく、水をぶっ掛けて、びしょびしょにすると発熱するんです。<br />
+何かの科学反応が起きて発熱しているような、そんな感覚です。<br />
+すごかった。<br />
+ビデオでは、かなり控えめですがこんなもんじゃない。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/93J5IXYnqtM" frameborder="0" allowfullscreen></iframe><br />
+説明がいまいち納得のいかないハッキリしないものになっています。<br />
+これに対して、ヒートテックをぐぐってみると、水蒸気を吸収して水になるときに、気化熱の逆で、発熱するんだって書いてあるところがほとんどです。<br />
+プレスリリースでも水分ではなく水蒸気と言っています。<br />
+http://www.uniqlo.com/jp/corp/pressrelease/2008/11/110715_08heattech.html<br />
+でも、実際に僕がやった実験では、水蒸気ではなく、液体の水を綿にぶっかけて、びちょびちょになった綿が発熱しているんです。<br />
+ヒートテックの原理では説明できませんよね。<br />
+調べてみると、ブレスサーモの商品というのは、ヒートテックの４倍ぐらいの価格がするようで、かなり高価な品物のようです。<br />
+ブレスサーモとヒートテックはまったく別の原理で発熱すると言っているのではないでしょうか？どうなんだろう？<br />
+買うなら、ヒートテックよりブレスサーモのほうが絶対いいと思いました。</p>

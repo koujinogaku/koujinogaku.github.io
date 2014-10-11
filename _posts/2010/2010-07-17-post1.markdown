@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: いやぁ、やっぱりAm*z*nににらまれちゃいました(笑)
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 288
+wordpress_url: http://localhost/wordpress/?p=288
+date: !binary |-
+  MjAxMC0wNy0xNyAyMjozOToyNSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wNy0xNyAxMzozOToyNSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>そうじゃないかなぁと思っていたのですが、やっぱりそうでした。<br />
+それにしても、世界中の人に影響があるようなやり方で返してくるとは大胆な。<br />
+僕たちなんて、ひねりつぶそうと思えばつぶせるのに正当な方法で挑んでくるって怖いです。<br />
+試算すると、今までタダだったものが年間で$315,360かかるってそんな馬鹿な(爆)<br />
+ライバルと２～３桁規模がちがうんだものあたりまえです。<br />
+タダだからって無茶な使い方をしている私たちのほうが悪いわけで・・・・。<br />
+とにかく何とかしなければなりませんねぇ。<br />
+世の中って簡単ではありません。</p>

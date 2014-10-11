@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 文無し
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 234
+wordpress_url: http://localhost/wordpress/?p=234
+date: !binary |-
+  MjAwOC0xMi0xMyAxODo1OTozMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0xMi0xMyAwOTo1OTozMyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>びっくりです。<br />
+クリーニング屋さんでいつもどうり、おばちゃんと特に意味のない話をしながら代金を払おうとしたら、財布にお札が入っていません。残り259円。<br />
+全く気付いていませんでした。<br />
+よく昨日一日が無事に終わっていたと、怖くなりました。とにかく洗濯代を払わなくちゃいけないのでＡＴＭでお金をおろすと、残金が10万円を切っていました。カードの引き落としは終わっているはずだけど今月これで足りるのでしょうか（笑）<br />
+なんの使い道も見いだせないお金だけど、あまりに無頓着だと、いつの間にか無くなってしまうのですね。<br />
+それにしても何に使ったのかな？全くわかりません。今月末は口座触るのよさないと。</p>

@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: あかつき
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 60
+wordpress_url: http://localhost/wordpress/?p=60
+date: !binary |-
+  MjAwNS0wOC0xNyAyMTo1NzoxNCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wOC0xNyAxMjo1NzoxNCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments:
+- id: 22
+  author: mi-yan
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0xNyAwODoxNjo1MyArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0xNiAyMzoxNjo1MyArMDkwMA==
+  content: ! 'モモー＼(^o^)/モモー♪
+
+    コメントありがとございます。桃おいしいですよね～。
+
+    皮をむいてタッパで冷蔵庫にいれてたら、黒くなっちゃいました(^-^;　ハハハ　美味しければいいかなっって(笑)
+
+'
+- id: 23
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0xOCAxMzoxNTowMSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0xOCAwNDoxNTowMSArMDkwMA==
+  content: ! 'コメントありがとー。
+
+    僕も３つめ食べるとき、ちょこっと黒くなっているところが出始めていてぎりぎりでした。皮はむいてなかったんですけどねぇ（微）
+
+    ナイフを使わずに皮がつるっとむけて、甘さ倍増だったので、結果オーライでした。（笑）
+
+'
+- id: 24
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0xOCAxNToxNTowOCArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0xOCAwNjoxNTowOCArMDkwMA==
+  content: ! 'おれは梨派ー
+
+    今年は21世紀梨を食べるぜー
+
+'
+---
+<p>書いていませんでしたけど、桃ゲットしました。<br />
+こないだ売り切れていた「白鳳」を食べたかったんですけど、もう時期が終わってしまったらしく「あかつき」っていう品種（実は初耳）です。買ってきたのは福島産でした。<br />
+テーブルの上に置いてあるだけで甘い香りでいっぱいになります。<br />
+あまりキンキンに冷やさないで適度なところで頂きました。おいしかったですよー。<br />
+それにしても、最近は品種とか産地とかちゃんと書いてあるんですよね。<br />
+農家の人の写真まで出てるっていうスーパーマーケットもありますよね。<br />
+そういう作り手の責任感とか誇りって言うのが本当は大事なんですよねぇ。<br />
+それに比べてアメリカ産牛肉ってどうなんでしょうか？告発ビデオとか見ちゃったりしました・・・・（泣）。肉に限らずアメリカ製品ってどうなんでしょうか？売ることには全力を入れるんですけどねぇ。たずさわる自分としては心が痛いところがあります。<br />
+僕は今がどうであっても、また製造者に戻ったら職人の気持ちに戻れる部分を残したいなぁ。<br />
+なんにせよ、桃はうまかったです。<br />
+<img src="/blog/img/20050817.jpg" alt="20050817.jpg" width="160" height="120" /></p>

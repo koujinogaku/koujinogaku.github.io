@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: カントリーホーム
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 210
+wordpress_url: http://localhost/wordpress/?p=210
+date: !binary |-
+  MjAwOC0wMy0zMCAyMjowNDoxNyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMy0zMCAxMzowNDoxNyArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p>今日は久しぶりにたくさん歩きました。<br />
+公園から家に帰る気が起こらず反対方向へ歩き始めました。途中お団子を食べたりして。<br />
+<a href="/blog/img/20080330-1.jpg" target="_blank"><img src="/blog/img/20080330-1.jpg" alt="" border="0" /></a><br clear="all" /><br />
+<a href="/blog/img/20080330-2.jpg" target="_blank"><img src="/blog/img/20080330-2.jpg" alt="" border="0" /></a><br clear="all" /><br />
+何年も住んでいるのに、こっちのほうはまるで歩いていないんですね。<br />
+<a href="/blog/img/20080330-3.jpg" target="_blank"><img src="/blog/img/20080330-3.jpg" alt="" border="0" /></a><br clear="all" /><br />
+雨が本降りになり手がかじかむ寒さだったのですが、有名な場所や歴史的な場所も含めいろいろな所を通っていくことが出来よい気分転換になりました。昔、都内のいろいろな所を散歩して回ったときに引き戻されたようでも、またそれとは違うようでもあります。<br />
+<a href="/blog/img/20080330-4.jpg" target="_blank"><img src="/blog/img/20080330-4.jpg" alt="" border="0" /></a><br clear="all" /><br />
+まったく知らないところで先の見えない散策をしていると、行く先を見極めるのに必死なのと新しい景色を新鮮に感じられるのとで、昨日まで置かれている現実とは別次元に逃避できるのが、無計画な散策のいいところです。<br />
+<a href="/blog/img/20080330-5.jpg" target="_blank"><img src="/blog/img/20080330-5.jpg" alt="" border="0" /></a><br clear="all" /><br />
+具体的には書きづらいのですが、あるスポーツの競技上があってゲームが終わり、桜の下をホームカラーを身にまとって大行列で帰っていくところに出くわしました。<br />
+ゲームが終わったばかりの大勢の高揚した気持ちが伝わってきます。それまで一人で歩いてきた僕とは対照的な集団に、まだまだ手の届かない世界を感じました。<br />
+<a href="/blog/img/20080330-6.jpg" target="_blank"><img src="/blog/img/20080330-6.jpg" alt="" border="0" /></a><br clear="all" /><br />
+集団に混じって最寄り駅まで歩いていくと、なんとマクドナルドのホームチームバージョンがありました。カラオケや居酒屋もどこもホームチームカラーになっているんですけどね。町ぐるみで楽しそうです。<br />
+<a href="/blog/img/20080330-7.jpg" target="_blank"><img src="/blog/img/20080330-7.jpg" alt="" border="0" /></a><br clear="all" /><br />
+僕の家からなんとも遠い駅まで来てしまい、電車でぐるーっと遠回りをして帰ることにしましたが、もう遅くなっていたので、隣の駅で途中下車です。<br />
+以前に店の前を通って気になっていたステーキ屋さんで夕食をとろうと言う訳です。<br />
+店に入るとなんとも落ち着いた気持ちになりました。別に静かというわけではないんですよ。カントリーミュージックがかかっているんです。ステーキハウスではよくありますよね。<br />
+さて出てきたのは焼けた鉄板に乗った生の牛肉。自分で好きに焼いて食べてくださいと。これまた久しぶりのことでこういういい加減な感じのステーキを食べました。<br />
+<a href="/blog/img/20080330-8.jpg" target="_blank"><img src="/blog/img/20080330-8.jpg" alt="" border="0" /></a><br clear="all" /><br />
+そして落ち着く音楽。僕はどうしたことか、カントリーミュージックがとても懐かしく感じるんです。別に歌を知っているわけでも何でもありません。<br />
+でも、言えるのは、とある田舎のホテルで暮らしていたときテレビもほとんど映らずラジオからいつもカントリーが流れていました。町はたいした繁華街もなく規模の大きい海と山にはさまれ、みんなの山歩きとサーフィンを楽しむ生活とカントリーミュージックが、暗黒から解放された直後の若い僕にとって落ち着ける最初の故郷のようになっていたのだと思います。<br />
+話は飛んだけど、一日歩いて最後にカントリーホームに帰ってきた感じ。<br />
+今日の散歩は良かった。本当に。</p>

@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 自作OS マウスドライバー
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 226
+wordpress_url: http://localhost/wordpress/?p=226
+date: !binary |-
+  MjAwOC0wOC0xMCAxMTo0MjozMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wOC0xMCAwMjo0MjozMyArMDkwMA==
+categories:
+- 自作OS
+tags: []
+comments: []
+---
+<p>自作OSのマウスドライバーを書きました。<br />
+マウスでぐりぐりする為にも、それようのプログラムを作っておかないといけないんです。<br />
+見栄えがちょっと良くなってきましたね。<br />
+<a href="http://koujinogaku.web.fc2.com/helloworld/" target="_blank"><img src="/blog/img/helloscreenshot20080810-2-small.jpg" alt="クリックでGo" border="0" /></a><br />
+といっても、このウィンドウっぽい見栄えは、まだ絵です。ウィンドシステムのエンジンだけではこんな画面はでませんからね。<br />
+自作OSづくりはまだまだ続きます。</p>

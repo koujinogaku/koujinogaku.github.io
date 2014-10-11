@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: いちごメロンパン
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 244
+wordpress_url: http://localhost/wordpress/?p=244
+date: !binary |-
+  MjAwOS0wMi0wMyAyMDoyMDozNSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMi0wMyAxMToyMDozNSArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20090203202033.jpg" alt="20090203202033" align="left" border="0"><br clear="all">いちごなのかメロンなのか？！<br />
+一目見て可笑しくなって買ってしまいました。<br />
+食べたらいちご味なんですが、食感がメロンパンで甘さの種類もメロンパン！<br />
+ところでメロンパンは、夕張メロンパンが出現するまでメロン味じゃありませんでしたよね。<br />
+メロンパンってなんでメロンって言うのでしょうね？？</p>

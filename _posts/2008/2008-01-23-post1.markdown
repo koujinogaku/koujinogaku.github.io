@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: シュークリーム
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 193
+wordpress_url: http://localhost/wordpress/?p=193
+date: !binary |-
+  MjAwOC0wMS0yMyAxNzo0NzoyMSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMS0yMyAwODo0NzoyMSArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p><a href="/blog/img/20080123174721.jpg"><img src="/blog/img/20080123174721s.jpg" alt="20080123174721" align="left" border="0"></a><br clear="all">久しぶりにbeard papaでシュークリーム買い食いです(笑)<br />
+こんな事してる場合じぁないのですが…。<br />
+まる二日間遅れてます。さて、急いでやらないと。</p>

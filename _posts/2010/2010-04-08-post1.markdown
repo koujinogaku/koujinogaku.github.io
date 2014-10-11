@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: googleでamazon.com抜いて1位になりました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 280
+wordpress_url: http://localhost/wordpress/?p=280
+date: !binary |-
+  MjAxMC0wNC0wOCAxMjoyMDoxMCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wNC0wOCAwMzoyMDoxMCArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments: []
+---
+<p>活動中の例サイトが「amazon.com price watch」というキーワードで検索すると、突然google.co.jp(日本)で1位、google.com(米国)で7位になってきました。<br />
+google.co.jpではありますが本家amazon.comを越えているってのがなんとも気持ちいですね。<br />
+yahoo.comで、ずっと上位にいたのですが急に下がってきて、どうしようかなぁと思っていたところ、<br />
+200位以下で低迷していたgoogle.comであがってくるって皮肉なものです。<br />
+検索エンジンってなぞですねぇ。<br />
+<a href="/blog/img/20100408.jpg" target="_blank"><img src="/blog/img/20100408s.jpg" alt="" border="0" width="142" height="150" /></a><br />
+明日には転落しているでしょうが（苦笑）</p>

@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: ツラガマエ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 140
+wordpress_url: http://localhost/wordpress/?p=140
+date: !binary |-
+  MjAwNi0xMC0wNCAxMjo0NzoyMSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0xMC0wNCAwMzo0NzoyMSArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20061004124721.jpg" alt="20061004124721" align="left" border="0"><br clear="all">各地に行って、いつもまじましと見上げるのが、駅正面の駅名です。<br />
+その土地の何かを表している気がします。<br />
+・・・そっか、啄木なんだ。賢治じゃないんだ。</p>

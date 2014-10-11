@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: かもめの玉子
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 113
+wordpress_url: http://localhost/wordpress/?p=113
+date: !binary |-
+  MjAwNi0wMy0xNiAxNzowOToyMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wMy0xNiAwODowOToyMyArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20060316170924.jpg" alt="20060316170924"><br clear="all">白石蔵王からの帰り、車中でかもめの玉子なるものを食べてます。<br />
+お菓子なんですけどね。<br />
+知らなかったけど有名なようです。</p>

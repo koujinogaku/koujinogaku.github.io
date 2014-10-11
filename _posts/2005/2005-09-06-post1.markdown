@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: あとかたもない
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 65
+wordpress_url: http://localhost/wordpress/?p=65
+date: !binary |-
+  MjAwNS0wOS0wNiAwMzowOToyOCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wOS0wNSAxODowOToyOCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>ニューオリンズがすごい事になっています。<br />
+見覚えのある場所がいっぱい映って、みんなすごい事になっています。<br />
+バーボンストリートが、カジノが、大聖堂が、遊覧船の待合所がぁ。<br />
+スーパードームがあんなふうに使われて・・・。<br />
+これジャクソン・スクエア裏です。絵葉書じゃないよ。<br />
+<img src="/blog/img/20050906.jpg" width="160" height="120" /><br />
+跡形も無い・・・。</p>

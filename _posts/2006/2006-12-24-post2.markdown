@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 朝食
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 151
+wordpress_url: http://localhost/wordpress/?p=151
+date: !binary |-
+  MjAwNi0xMi0yNCAwMDoxOTozOSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0xMi0yMyAxNToxOTozOSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>今週は昼食と夕食(深夜だけど)をとるタイミングがなくて、外出先のコーヒー屋で朝食をとっていました。こないだは一日フォカッチャ一つ。これが結構高くついて千円弱かかります。<br />
+僕が昔、新入社員研修で工場にいた頃、朝食は数十円もしなかった気がします。少なくとも今は20倍の朝食をとっている事になります。それでも成り立っているのがなんだか切なくなります。ちなみに物価は今のほうが安いと思います。<br />
+格差社会が広がったなどと言っているのは中産階級と呼ばれる人たちのひがみに過ぎません。<br />
+何をうらやむ？朝食の値段？</p>

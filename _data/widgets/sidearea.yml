@@ -1,0 +1,11 @@
+### Side Area
+widgets:
+  - { widget: google-cse }
+  - { widget: links, caption: "リンク" }
+  - { widget: categories, caption: "日記カテゴリー" }
+  - { widget: recentposts, caption: "最近の日記" }
+  - { widget: subscribe, caption: "RSSフィード" }
+  #- { widget: search, caption: "Search" }
+widgets2:
+  - { widget: search, caption: "Search" }
+  - { widget: links, caption: "Links" }

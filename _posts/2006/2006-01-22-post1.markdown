@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: とけちゃいました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 106
+wordpress_url: http://localhost/wordpress/?p=106
+date: !binary |-
+  MjAwNi0wMS0yMiAxNjozOToxMiArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wMS0yMiAwNzozOToxMiArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20060122163911.jpg" alt="20060122163911"><br clear="all">みつけた雪だるま、解けちゃいました。<br />
+昨日、携帯電話、持って出掛ければよかったな。</p>

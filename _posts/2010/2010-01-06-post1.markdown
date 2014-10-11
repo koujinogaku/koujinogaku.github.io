@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 鋼の錬金術師 FULLMETAL ALCHEMIST
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 270
+wordpress_url: http://localhost/wordpress/?p=270
+date: !binary |-
+  MjAxMC0wMS0wNiAwMDowNjoyNSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wMS0wNSAxNTowNjoyNSArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>相変わらずテレビを見ずにネットに頼っているのですが、Ｇｙａｏがなくなって見るものがなく娯楽がなくなってしまいました。<br />
+そんな中、新Ｇｙａｏに引き継がれていたアニメの「鋼の錬金術師」が１２月から再放送を始めていたので、最新話まで全部見ました。前のシリーズも見たので比較してしまうと変な感じですが、でも面白くて結構好きです。<br />
+で、このアニメは、世界２０カ国以上で同時配信ということをやっているらしく、それはアニメ制作上珍しいことのようです。不正コピーがインターネット上で先に流れてしまうと、その後放映が始まる国では、商業上のダメージがあるって事で世界同時配信なんだそうです。映画で世界同時上映を始めたのも同じ理由ですよね。<br />
+ネットの普及は進化ではあるけれども、すなわちそれは変化でもあるのが、おじさんたちのミケンにしわを深くきざませる原因なわけで、このアニメのように変化を受け入れる人と拒む人との違いが出てくるのでしょう。<br />
+ネットはさておいて、僕はどうかといえば、変化を受け入れようとしても、その器がなかったって事でしょう。拒めないものを受け入れられないとどうなるか・・・。なんてことはまあいいですね。<br />
+そして、この曲すきです。英語版もいいですね。なんか早回しですが・・・。<br />
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/CxHA7oGlW4s&hl=ja_JP&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CxHA7oGlW4s&hl=ja_JP&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object><br />
+アニメの内容に触れなくてすみません(笑）<br />
+僕も結構アニメずきですから、アニメの話でも書こうかな。</p>

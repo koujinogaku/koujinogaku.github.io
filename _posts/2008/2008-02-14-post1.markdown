@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 偏頭痛
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 199
+wordpress_url: http://localhost/wordpress/?p=199
+date: !binary |-
+  MjAwOC0wMi0xNCAwMDoxNTo1MSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMi0xMyAxNToxNTo1MSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>寒すぎです！何なんですか！この寒さは！<br />
+今週、偏頭痛で苦しいのにこの寒さの追い討ちで切れそうです。<br />
+暖かくなあれ！</p>

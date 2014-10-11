@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: さーたーあんだぎー
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 57
+wordpress_url: http://localhost/wordpress/?p=57
+date: !binary |-
+  MjAwNS0wOC0wNiAxNDo0Mjo1NCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wOC0wNiAwNTo0Mjo1NCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments:
+- id: 15
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wOCAxNToyMjo1MSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wOCAwNjoyMjo1MSArMDkwMA==
+  content: ! '黒の独特の香りってどんな？
+
+'
+- id: 16
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0xMCAwNzozMDoyNSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wOSAyMjozMDoyNSArMDkwMA==
+  content: ! 'わぁ。「黒」じゃなくて「黒糖」ね。
+
+    黒糖ってクンクン匂いをかいでも分らないけど、食べると香りが広がりますよね。
+
+'
+- id: 17
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0xMCAxNDo1MToxOCArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0xMCAwNTo1MToxOCArMDkwMA==
+  content: ! 'そうそう！！
+
+    黒糖はコクがあってって洒落じゃないけど、
+
+    味に深みと独特の香りが出てきて美味しいっす
+
+    因みに、家では黒糖を水で溶かして片栗粉でプルプルに固めて、冷蔵庫で冷やして食べるのが夏の定番になっていまーす
+
+    黒糖ってなんか疲れも癒してくれるんだなぁ(^.^)
+
+'
+---
+<p>待ち人来たらずなので、つれづれなるままに、先日の補足を。<br />
+飲んだ泡盛はうる覚えですが「久米島」ってやつです。もう一杯は「宮の華」<br />
+。<br />
+<A href="http://www.okinawa-awamori.or.jp/brewery/p16.html"><IMG src="http://www.okinawa-awamori.or.jp/brewery/img/brew_16_b1.jpg" width="122" height="150"></a><A href="http://www.okinawa-awamori.or.jp/brewery/p33.html"><img src="http://www.okinawa-awamori.or.jp/brewery/img/brew_33_b2.jpg" width="122" height="150"></a><br />
+お酒の事はよく分からないけどさっぱりしておいしかったですよ。<br />
+そして、あの「さーたーあんだぎー」ですが、なんと昨日、コンビニで見つけてしまいました。<br />
+ミニストップで、売ってます。<br />
+<img src="/blog/img/20050806.jpg" width="160" height="120" /><br />
+お菓子好きな人はお試しあれ。基本的にドーナツなんですけど食べると黒糖の独特の香りが広がります。<br />
+--<br />
+追記：黒じゃなくて黒糖ね。訂正しました。</p>

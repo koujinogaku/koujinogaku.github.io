@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: VANS
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 170
+wordpress_url: http://localhost/wordpress/?p=170
+date: !binary |-
+  MjAwNy0wNC0yOSAxMTozNjoyNCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wNC0yOSAwMjozNjoyNCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><a href="/blog/img/20070429.jpg" target="_blank"><img src="/blog/img/20070429.jpg" alt="" border="0"></a><br clear="all"><br />
+スニーカー買って来ました。一本しか持っていないジーンズをはいて行ったのでVANSのスタンダードとなりました。<br />
+皮のカジュアルシューズばかりだったので何年ぶりかわからなぐらい久しぶりです。<br />
+今日はこれはいてどこいこうかな。</p>

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: スパイダーマン3
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 192
+wordpress_url: http://localhost/wordpress/?p=192
+date: !binary |-
+  MjAwNy0xMi0xOSAxMDo1OToxNiArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0xMi0xOSAwMTo1OToxNiArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>この週末がレンタルビデオ屋の半額レンタル日だったのでなんとなく借りてしまいました。<br />
+『スパイダーマン3』<br />
+<a href="http://hb.afl.rakuten.co.jp/hgc/06d6571f.5a4b0c20.06d65720.914e0369/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fbook%2f4492153%2f&m=http%3a%2f%2fm.rakuten.co.jp%2fbook%2fi%2f12107370%2f" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fbook%2fcabinet%2f4547%2f4547462044990.jpg%3f_ex%3d128x128&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fbook%2fcabinet%2f4547%2f4547462044990.jpg%3f_ex%3d80x80" border="0"></a><br />
+腕っ節は強いのに意志が弱いという珍しいヒーローですよね。<br />
+情けないヒーローで見ていてヤキモキしてしまいます。<br />
+悪役もほんとに悪じゃないし、しかも悪になった原因は、ほとんど主人公が原因だったりして。<br />
+スパイダーマンの赤いスーツは自分で手縫いのコスプレっていうシリーズ第１作もすごい設定でした。<br />
+僕は現実世界での正義をかかげている人が大嫌いです。悪人っていうのは多くの場合は善人の傲慢が無ければ生まれてこないって思います。<br />
+でもこのスパイダーマンシリーズを見ていると、正義の見方も心底悪いやつだけではなく単に気が弱かったり優柔不断だったり不器用だったりするだけの人もいるかもねと思わせるそんな映画でした。</p>

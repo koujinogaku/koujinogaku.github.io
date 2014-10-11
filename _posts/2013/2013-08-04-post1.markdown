@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: 終の信託 死に至らない苦しみ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 345
+wordpress_url: http://localhost/wordpress/?p=345
+date: !binary |-
+  MjAxMy0wOC0wNCAxNzoxNzozNSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMy0wOC0wNCAwODoxNzozNSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>最近映画館でもＤＶＤでも全く映画を見ていません。<br />
+久しぶりに借りてきたのがこれ。<br />
+同じような雰囲気に同じようなキャストの映画が立て続けに出ていた頃の一本。「終の信託（ついのしんたく）」です。<br />
+時期が悪かったですね。今頃見ました。<br />
+<a href="http://www.amazon.co.jp/gp/product/B00B7WGCAC/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00B7WGCAC&linkCode=as2&tag=koujinogakuse-22"><img border="0" src="http://ecx.images-amazon.com/images/I/41ABe4a9-mL._SL500_AA300_.jpg" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B00B7WGCAC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+ちょっと予告編の作りも悪かったし、役者陣も好みじゃなかったしね。<br />
+でも話の内容だけに集中して見ると、かなり興味深い話になっていました。<br />
+<iframe width="560" height="315" src="//www.youtube.com/embed/OWa0bxconN0" frameborder="0" allowfullscreen></iframe><br />
+見ていくとわかりますが、人が死ぬ姿を語っている部分が出てきます。言葉の選び方が真に迫っていました。<br />
+一言でいえば、尊厳死の話です。<br />
+でも、一般に言われる法律上で争われている尊厳死と、ほんとに人を尊重して死なせることとは、大きく隔たりがあります。<br />
+「生きていればこそ」なんて無責任な事を言う人たちがたくさんいます。<br />
+でもそれは声高に正義を振りかざしてくる暴力的な言い分だと昔から思っていました。<br />
+でもこれは重い病気の話だけではありません。<br />
+人は生きたいのではなくて、幸せになりたいはずです。<br />
+耐え難い苦しみから逃れられない人だって沢山います。生まれながらに苦痛を背負っている人だって沢山います。<br />
+そういう人たちが苦しみから解放されようとすることを、苦しみが理解できない人たちが、強引に押さえつけて拷問を続けているのが現在の世の中だろうと思っています。<br />
+昔は介錯人のいう考え方がありました。<br />
+農民や庶民と違って、武士に限られますが、切腹が認められる場合がったわけで、苦しまないように介錯人が止めを刺してあげるんですね。情けをかけるというのはそういうことです。<br />
+情け容赦の無い現在ではそんなことはまず無理です。<br />
+形式上の正義に基づいた親切や思いやりだけが良しとされます。<br />
+しかもこの正義は明文化されたものだけではありません。<br />
+万人の総意がつくりだす常識というあいまいなものであったりもします。<br />
+本当にそれは常識でしょうか？万人としてまとめた時の意見と、個人の中だけに留めている実は共通の意見というものとは、実は全く違うのではないでしょうか？<br />
+みんなが内心間違っていると思っていることでも、表に出ると正しいとしてしまう、そんな集団心理はないでしょうか？<br />
+だいぶ話がずれてしまいました。<br />
+もっと映画という目線での中身についての話は沢山あるんですけど、長くなるのでこれぐらいで。<br />
+終末医療についてどう考えるかだけでなく、もっと長い苦しみについてどう考えるか、身近な人たちに聞くのは、なかなかはばかれるけど、聞いてみたいことの一つを示してくれた話でした。<br />
+見てみてください。ぜひ感想を聞いてみたいです。</p>

@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: トロンレガシー見てきました。IMAXで見てよかったぁ。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 295
+wordpress_url: http://localhost/wordpress/?p=295
+date: !binary |-
+  MjAxMC0xMi0xOSAxMzowODo0NyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0xMi0xOSAwNDowODo0NyArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>公開初日金曜日に見てきましたよ、トロンレガシー・・・・というより浴びてきました。<br />
+「トロンレガシーは浴びるもの」と聞いていたのですが、まさにそのとおりでした。<br />
+そういう理由もあっていつもの映画館ではなく、IMAXデジタル3Dという方式の高画質、高輝度、音響もいい映画館に行ってきました。<br />
+IMAXデジタルは関東だと２３区内にはなくて川崎、菖蒲、南町田、浦和しかありません。ウィキペディアによれば109シネマズかユナイテッドシネマズという系列の映画館の一部でしか採用していないのでなかなかお目にかかれないのですが、それだけに良いものっていうわけです。<br />
+・109シネマズ<br />
+<href a="http://www.109cinemas.net/imax/">http://www.109cinemas.net/imax/</a><br />
+・ユナイテッドシネマズ<br />
+<href a="http://www.unitedcinemas.jp/imax/">http://www.unitedcinemas.jp/imax/</a><br />
+普通の映画と違ってスクリーンが縦にも広いんです。もともとのカメラが違うので視野角が縦に広いらしく普通は映っていないところまで映っているらしいですよ。<br />
+映像はスクリーン面の床まで使いきって投影しています。今回ちょうど前の人が頭ひとつ異常に飛び出していて殴ってやろうかと思いましたが、幸いにも隣の席が空いていたので移って見てました。普通なら映っていない視野角まで映っているから前の人の頭が出ていると下側のその部分がまったく見えないんです。<br />
+ということで、IMAX映画館に行くときの注意なのですが、僕はいつもは視線よりほんのちょっと下の高さがスクリーンの真ん中にくる様に席を狙って予約するのですが、普段より前のほうに座ったほうがよかったかもしれません。最前列かぶりつきとか。<br />
+スクリーンの縦横の端が自分の視野からあふれるぐらいの位置でみる事を想定しているんだろうなぁと思ったわけです。視野の外なら前の人の頭も気にならないですからね（笑）<br />
+なーんて書いてみたものの実はトロンレガシーって普通の３Ｄ映画じゃないから、比べられなかったんですけどね。<br />
+比較できない理由のひとつは全編にわたって夜なんです。風景も人が着てる服も普通じゃないんです。予告編を見たままの世界がほぼ最初から最後まで続きます。出てくる現実世界も夜です。<br />
+というわけでIMAX以外の普通の映画館の３Ｄでみたら、暗くてどうなっていたんだろうって思ってしまいます。<br />
+とくに、ガラス越しの風景とか人物を表現した３Ｄ映像がたくさん出てくるのですが、透明なものがすぐ目の前にあってその向こうに造形があるという、かなりすごい技術だったりするこの表現を、IMAXではない映像で見たらちゃんとみえるのだろうか？と思ってしまいます。もしかしたら気づかないかも。<br />
+と、IMAXの事ばかり書いているのですが、トロンレガシーのほうはどうだったかというと、映画を見たという感覚がほとんどありません。<br />
+あれは「ダフト・パンク」のライブに行ってきたという感じでしょうか。僕は音楽に疎いのですが、ハウステクノ音楽の代表格のアーティストらしいです。<br />
+「ズドドド、ズドドド・・・」という音波にずっと体が振動していました。<br />
+後から気付きましたが、これはバイクのDUCATIが出てきているところからすでに始まっているんですね。<br />
+ダフト・パンクは前回も貼り付けたこちらの予告編兼ミュージックＰＶでもそのまんま出てくるヘルメットの２人組みです。<br />
+映画本編の中身もまったくこのまんまです。予告編を全部見れば、ほぼネタばれしています。いい意味でも悪い意味でも。<br />
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/LY4Uao1YF3o?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/LY4Uao1YF3o?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object><br />
+光のスーツはライブの衣装そのままだし、敵のオレンジ色のほうなんかそのまんまです。<br />
+ついでに白いおねーさんは、こちらのＰＶにでてくる人たちがモチーフかと。<br />
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/s9MszVE7aR4?fs=1&amp;hl=ja_JP"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/s9MszVE7aR4?fs=1&amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><br />
+話としては内容がほぼ想像つく方向にすすんで行きますし、人間系のアクションとかも大した事ないです。<br />
+ようするに、ダフト・パンクのライブに行って、音楽と光の演出を浴びてくることに価値があるということですね。<br />
+映画というところから感覚を離すなら、こちらのライブ映像とほぼ同じ感覚でトロンレガシーには行ってください。<br />
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/x84m3YyO2oU?fs=1&amp;hl=ja_JP"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/x84m3YyO2oU?fs=1&amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><br />
+で、その３Ｄ映像ってどうよという部分なのですが、現代の流行は、現実風景のＣＧ描写による置き換えで非現実を表現するものと思いますが、トロンレガシーでは、見て分かるとおりほぼ暗闇に光の線だけです。<br />
+これは昔にもどったというと語弊があるかもしれませんが、どこまでが実写でどこからがＣＧだかわからないところを目指してきた最新技術のＣＧからみれば、とても原始的な表現です。<br />
+でもそこは、前作同様に最先端を行くトロンなわけで、最新技術が詰まっているわけです。<br />
+とにかく透明ということを徹底的に使いまくっています。これは技術的にはすごいはずです。先ほど書きましたが、自分と登場人物の間にガラスがあって、それ越しに見ているのがわかるんです。部屋、ビル、戦闘機などなど。<br />
+あと流れる光が透明なのもすごいです。バイクで対決しているところが分かりやすいですが光の後ろに光があって複数人で戦っているのでその透明なもの同士の重なりの数がすごいです。<br />
+あと後半に出てくるスターウォーズでいうところのドロイド軍団をよーくみてください。ありえないすごさです。<br />
+そういうの作る系の人たちがみていれば凄いこと満載なのですが、それが万人にすごいと思われるかはなかなかむずかしいですよねぇ。<br />
+ストーリーの中身が大した事ないのも、テクノっぽくていいのですが大衆うけするかどうかは疑問です。<br />
+話題性があるのでそれだけで見に行くと思うのですが、一般うけするかどうかはかなり厳しいとおもいます。前回同様マニア向け作品なのではないでしょうか。<br />
+近くにIMAXの映画館があるならぜったいIMAX版でみることをお勧めします。<br />
+DVDで観てもほぼ伝わらないおそれがあるので映画公開中にぜひどうぞ。</p>

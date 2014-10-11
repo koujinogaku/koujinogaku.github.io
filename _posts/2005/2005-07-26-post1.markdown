@@ -1,0 +1,70 @@
+---
+layout: post
+status: publish
+published: true
+title: 骨密度測定器
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 54
+wordpress_url: http://localhost/wordpress/?p=54
+date: !binary |-
+  MjAwNS0wNy0yNiAyMzo0Mzo0OCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wNy0yNiAxNDo0Mzo0OCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 10
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yNiAxNToyOTo1OSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yNiAwNjoyOTo1OSArMDkwMA==
+  content: ! '咳が止まってよかったですね。
+
+    一度、気管支を診てもらうといいかもしれません。あとアレルギーも。咳の原因って以外に風邪じゃないこともあるんですよ。
+
+    肋間神経痛なら毎日お風呂で温まると改善することが多いですよ。
+
+'
+- id: 11
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNCAwNTowMToyMiArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMyAyMDowMToyMiArMDkwMA==
+  content: ! 'ありがとー。
+
+    そうそう、内科の先生には花粉症とかはないですか？って言われました。ずぼしって感じでした。
+
+'
+---
+<p>台風です。とっとと家に帰ってきてしまいました。<br />
+で、この間の健康診断の結果は今日時点ではまだ届いていないんですが、骨密度検査だけはその場でもらって帰ってきたでした。<br />
+結果は同年齢と比較して６９．９％。要精密検査の判定でした。<br />
+先月の風邪で咳をずっとしていて、風邪が治ってもなんか咳が止まらなかったのが原因らしく、肋骨のあたりが痛かったが復活してしまっていたのもあって、健康診断の翌日に整形外科医に行ってきました。<br />
+医者に聞いてみると「７０％以下は骨粗しょう症です」っていきなりの宣告。<br />
+どんな食生活しているんだと言われてしまいました。ちゃんと食事をしないで間食だけで生活しているとなったりするそうです。<br />
+僕はどちらかといえば間食はしないほうなのですが、そもそもの三度の食事をちゃんと摂っているほうではないと自覚しているので、納得してしまいました。<br />
+そして再度そこで骨密度測定をしてみましょうということで測ってみました。<br />
+骨密度測定の機械というのは、いろんな種類があるんですね。<br />
+健康診断で使っていたのは、こんな感じの足のくるぶしをはさん超音波で測る機械でした。<br />
+<a href="http://panasonic.co.jp/healthcare/products/tool/tl_0005.html"><img src="http://panasonic.co.jp/healthcare/products/tool/img/tl_05_ultrasound.jpg"></a><br />
+整形外科のやつは、腕の時計をする位置を使ってたぶんＸ線で測る機械でした。<br />
+<a href="http://www.iwakiri-hp.jp/sinryo_06.html"><img src="http://www.iwakiri-hp.jp/iwa01_img/X-ray_003.jpg"></a><br />
+こいつは１分間も連続してＸ線あてまくり。弱いんでしょうけどすごいですよね。<br />
+結局、腕で測ると８９％あり、理想値からはだいぶ離れていて問題なんですが、許容範囲内でした。<br />
+足と腕とではこんなに違うんですよね。要するに歩いていないってことでしょ。<br />
+運動しないとねぇ。<br />
+ちなみに胸のほうも、いろいろな角度でレントゲンを取って骨に異常なしだそうです。医者に特定の肋骨を押されると確かに痛いので、肋骨の間の神経が刺激されて痛いらしです。これって肋間神経痛ってやつなのかな？咳が止まって、今はかなり回復してきています。<br />
+まあ重症じゃなくてめでたしめでたしです。<br />
+それにしても内科、健康診断、整形外科とＸ線を浴びまくりの数日間なのでした。</p>

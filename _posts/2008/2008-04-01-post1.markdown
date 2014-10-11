@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 下町の時間
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 211
+wordpress_url: http://localhost/wordpress/?p=211
+date: !binary |-
+  MjAwOC0wNC0wMSAwOTozODo1MSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wNC0wMSAwMDozODo1MSArMDkwMA==
+categories:
+- 散策
+tags: []
+comments: []
+---
+<p>朝から千住大橋というところにいます。<br />
+一時間も早く着いているのでマックで止まり木に落ち着こうと入ってみました。<br />
+さすが下町。<br />
+カウンターにいるのに何か数えており知らん顔。<br />
+数え間違っては可哀相なのでそのまま放置しておきました。<br />
+下町らしい空気です。<br />
+程なく60歳は少なくとも越えていらっしゃるだろうマックの帽子をかぶった大先輩が、 何に致しましょう。<br />
+さすがです。<br />
+いらっしいませなんざぁ、くすぐったくていいません。<br />
+コーヒーをいただいて座ってると、となりで、そう歳もとっていないだろうお婆さんが椅子に正座してピンクの毛糸て編物をしています。<br />
+いい時間が流れています。</p>

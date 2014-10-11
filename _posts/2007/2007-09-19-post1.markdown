@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: じーっと
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 183
+wordpress_url: http://localhost/wordpress/?p=183
+date: !binary |-
+  MjAwNy0wOS0xOSAwMTowMjoxMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wOS0xOCAxNjowMjoxMyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>じっと待つしかありません。でも僕には時間がなくなっているんですけどねぇ・・・。<br />
+NYダウもNASDAQ平均も今日は上向きなのに、僕の関心の対象は下げ止まらないです。<br />
+先週の中頃に手を打ってしまえが高い値段で取引ができたのになぁん。<br />
+きっととあるニュースの影響なんだろうなぁ。<br />
+株って難しいんですねぇ。<br />
+うぅぅっ。うとうとしてしまった。<br />
+今日はだめそうですね。もう寝ましょう。<br />
+おやすみなさい。</p>

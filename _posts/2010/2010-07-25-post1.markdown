@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: ぶぉぉぉ～ん。インセプション見ました。ぶぉぉぉ～ん。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 289
+wordpress_url: http://localhost/wordpress/?p=289
+date: !binary |-
+  MjAxMC0wNy0yNSAxMToxNzozMyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wNy0yNSAwMjoxNzozMyArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>すごかったぁ。<br />
+最初から最後までスクリーンに釘づけで、あっという間に終わってしまいました。<br />
+でもこの映画なんと上映時間148分。それだけ入り込んでしまいます。<br />
+ストーリーは、デカプリオ演じる優秀な企業スパイが最後の仕事を果たすために最高のチームを組んで戦う話です。ただ普通じゃないのは戦う舞台が夢の中というわけです。<br />
+予告編を見て分かるとおり映像と音楽が半端じゃないです。すごい金かかってます。<br />
+ちなみに予告編で出てくる部屋が回るシーンはＣＧじゃないそうだからまた凄いです。<br />
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/b5uEQqzYwrQ&amp;hl=ja_JP&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/b5uEQqzYwrQ&amp;hl=ja_JP&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><br />
+話は難しいというよりも発想が良いです。基本となる人の夢に進入して盗んだり操作したりする所までは思いつくのですが、そこから先のもう一段深く追求している「インセプション」という言葉の意味の深さや広さが見事で、最後に出てくる登場人物たちのそれぞれの立場のそれぞれの表情、特に今回の仕事のターゲットとなった企業のトップの表情なんかをみると、ぞぞぞぉっと来ます。ネタばれ気味ですが、この映画はまだまだそんなもんではなりません。<br />
+また現在の状況の構造（？）が難しいので振り落とされないように（笑）しないといけませんが、そこも工夫されていてそのためになんと６カ国で撮影したそうです。場面ごとの印象の違いで、どれだけ複雑でも一瞬でわかるようになっているのだと思います。そういう所が頭のいい監督さんなんですよね。<br />
+マトリックスとかの難しさを期待するとまったく別物で、むしろ分かりやすいのでそういう期待はしないほうが良いです。<br />
+デカプリオさんが太りすぎな件と渡辺謙さんの英語がアレな件は目をつむりましょう。<br />
+でもデカプリオの演技は良いです。さすがです。他にチームメンバーがいろいろいるのですが僕が好きなのはトム・ハーディーという俳優さんが演じる変装（？）とかできてしまう能力がある人。かっこいいですよね。他にもお茶目なジョゼフ・ゴードン＝レヴィットさん演じる銃さばきが凄い人。この人もかっこいいです。<br />
+映画の時間の長さについてですがまったく問題ありません。<br />
+途中２回ほど座りなおした気がするのですが、いまから思えば用意した水のペットボトルに手をかけることもなく2時間半ものあいだ座っていたのですから、途中でなんかお尻が痛いなと思うのも当たり前。でも見ている間はそれが分からず椅子のせいかと思っていました。<br />
+この映画は長くても飽きさせないのではなく、そもそも長いとは気づかせません。<br />
+アクションシーンが満載って言うのも時間を忘れさせる一つの要因で、後半に行けば行くほどハラハラ感も倍増です。<br />
+時間に関する仕掛けがあって、感覚を麻痺させるのはこれの影響もかなり大きいと思います。それは見てのお楽しみ。<br />
+<a href="http://www.amazon.co.jp/gp/product/B003CN5VYM?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003CN5VYM">インセプション (7/23ロードショー)</a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B003CN5VYM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+<a href="http://www.amazon.co.jp/gp/product/B003CN5VYM?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003CN5VYM"><img src="http://ec2.images-amazon.com/images/I/51yUqVheBrL._SL500_AA300_.jpg" alt="インセプション"　width="300" height="300"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B003CN5VYM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+注意としては絶対に良い映画館で見てください。じゃないとせっかくの大作がもったいないです。<br />
+この映画はおすすめですね。見ないという選択肢はまず無いです。</p>

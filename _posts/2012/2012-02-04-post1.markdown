@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 恵方ロールケーキの悲哀
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 318
+wordpress_url: http://localhost/wordpress/?p=318
+date: !binary |-
+  MjAxMi0wMi0wNCAxODozMToyNSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0wMi0wNCAwOTozMToyNSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>六日のあやめ、十日の菊、そして四日の恵方ロールケーキ。<br />
+とっても恵方ロールケーキ願望があったのですが、さすがにこの売れ残りに手を出す勇気はありません。<br />
+<img src="/blog/img/iphone_20120204181850.jpg"/><br />
+普通のロールケーキだったら、売れ残るって事はなかったんでしょう、、。<br />
+なんとも可哀想なお姿でございます。</p>

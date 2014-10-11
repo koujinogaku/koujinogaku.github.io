@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: ぶらり
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 97
+wordpress_url: http://localhost/wordpress/?p=97
+date: !binary |-
+  MjAwNi0wMS0wNCAxNzowMDowNyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wMS0wNCAwODowMDowNyArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments:
+- id: 49
+  author: Coko
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMS0wNCAyMDo1MjozMSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0wNCAxMTo1MjozMSArMDkwMA==
+  content: ! 'あー、うちね、昨日のお昼モスだったよー＾＾
+
+'
+- id: 50
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMS0wNCAyMjoxODo0MyArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0wNCAxMzoxODo0MyArMDkwMA==
+  content: ! 'Cokoちゃん気が合うねぇ。モスは落ち着くんだな。
+
+'
+---
+<p><img src="/blog/img/20060104170007.jpg" alt="20060104170007"><br clear="all">何も食べてない事、思い出しました。<br />
+そんな時に携帯で初書き込み。<br />
+モスはいいよね。</p>

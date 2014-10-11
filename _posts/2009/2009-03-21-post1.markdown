@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: しゃべれども しゃべれども
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 249
+wordpress_url: http://localhost/wordpress/?p=249
+date: !binary |-
+  MjAwOS0wMy0yMSAwMTo0MTowMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMy0yMCAxNjo0MTowMyArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>DVD見ました。落語家さんの環境を舞台に人が成長する瞬間を描いています。<br />
+なにも共通点の無いようなまったく違う世界の４人が、あつまっている奇妙かな取り合わせが面白いです。<br />
+年齢も職業も違えば、教える側と教わる側という違いも超えて、対等な関係が出来上がっていって思いやりのもっていくようになります。人との関係をうまく築けないという事で主人公の下に集まっているという事がつながりを深くしているのだと思います。<br />
+僕は家族的なものを無いものねだりでうらやましく思ってしまうのですが、そうではなくて友情のようなそういうものも、とても深く思いやりをもって相手と接することも出来るのかもしれないなと思いました。<br />
+主人公が４人のうちの一人である関西人の小学生を叩いてしまい、その子が泣いてしまう場面があるのですが、常に弱いところを見せたがらなかった子が泣いてしまうことが、その子の仲間への信頼を見たようでした。仲間の見守り方も家族的な冷たさではなく、他人的な常識的なかばう対応でもない、深い友情を感じました。映画的に重要なシーンは他にあるのですが、僕には印象に残る一場面です。<br />
+といっても映画の中の作り物の話なのですが。<br />
+最後は切ないながらハッピーエンドで終わります。<br />
+みんな幸せになってほしい。そう思ってしまいます。<br />
+とてもよかった。おすすめです。<br />
+「しゃべれども しゃべれども」<br />
+<a href="http://hb.afl.rakuten.co.jp/hgc/093e8c3e.cf377d26.093e8c3f.3a25b2b1/?pc=http%3a%2f%2fitem.rental.rakuten.co.jp%2fdvd%2fpr%3daffili-inc1%2f1019264%2f%3fdev%3ddafl1019264&m=http%3a%2f%2fm.rakuten.co.jp%2f" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fimage.rental.rakuten.co.jp%2fdata%2f5b%2fb7%2f1019264_m.jpg&m=http%3a%2f%2fimage.rakuten.co.jp%2fcom%2finc%2fdirectory-afl%2fshare%2fimg%2ficn%2fdefault_mobile_banner.gif" border="0"></a></p>

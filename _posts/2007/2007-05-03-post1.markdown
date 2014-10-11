@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 「甘え」の構造
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 171
+wordpress_url: http://localhost/wordpress/?p=171
+date: !binary |-
+  MjAwNy0wNS0wMyAxMToyMTowNCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wNS0wMyAwMjoyMTowNCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>僕は物を捨てるのが苦手です。それでも長い間かけて捨てていてずいぶん部屋の中の物が減ってきました。<br />
+とくに本はどれだけ捨てたかわかりません。それでも優柔不断な僕がどうしても残してしまった本が数冊あります。もう読みもしないのに。<br />
+その中の一冊。<br />
+「甘え」の構造<br />
+<a href="http://www.amazon.co.jp/gp/product/4335651066?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=1211&creativeASIN=4335651066"><IMG SRC="http://g-ec2.images-amazon.com/images/I/51SMJHP2HDL._AA240_.jpg" ALT="「甘え」の構造 [新装版]" border="0"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=4335651066" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+今は新装版とか言うのを売っていますが僕の持っているのは第二版です。一度捨てたのに後悔してもう一度買ってしまったものです。<br />
+昭和４６年初版第１刷発行のとても古い本で文体も古いのですが、一度は目を通してみてください。たったの２００ページとちょっとです。<br />
+前に紹介したなにかの方法論を解説した様な本ではありません。著者が甘えというのは日本人特有の心理であることに気づき、それを基に日本人の心の構造を分析した精神科医の論文のような本です。<br />
+一貫して述べられているのは人間関係が「内」と「外」という概念から成り立っているということです。甘えが生まれるのもそれが起因している・・・もしくは甘えそのものが内と外の起源と解釈しました。僕にとっていろんな場面での「内」とは何か「外」とは何か。著者の言うとおりに当てはまるのか否か・・・。<br />
+僕は二十歳の頃にこれを読んでとても勉強になりました。そして過去にさかのぼって僕の原点になった気がしています。<br />
+この本の使い方は人それぞれ自由です。でもきっと役立つと思います。</p>

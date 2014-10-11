@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 何？
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 173
+wordpress_url: http://localhost/wordpress/?p=173
+date: !binary |-
+  MjAwNy0wNS0xOSAxNzowNTozNiArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0wNS0xOSAwODowNTozNiArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20070519170536.jpg" alt="20070519170536" align="left" border="0"><br clear="all">この花、なに？<br />
+コップ洗いのたわしみたい。</p>

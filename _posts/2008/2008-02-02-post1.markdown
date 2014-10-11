@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: リッチドーナツ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 196
+wordpress_url: http://localhost/wordpress/?p=196
+date: !binary |-
+  MjAwOC0wMi0wMiAxNzowMzowNSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wMi0wMiAwODowMzowNSArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p><img src="/blog/img/20080202170305.jpg" alt="20080202170305" align="left" border="0"><br clear="all">きょうはリッチドーナツの初代と二代目です。そして紅茶。<br />
+和みます。</p>

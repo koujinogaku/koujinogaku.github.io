@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: テレビのあやしいところ。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 276
+wordpress_url: http://localhost/wordpress/?p=276
+date: !binary |-
+  MjAxMC0wMy0yMyAxOToyNjo1MyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wMy0yMyAxMDoyNjo1MyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>すごいです。テレビのNHKの7時のニュースのトップニュースがGoogleの中国撤退でした。<br />
+マスメディアの人にとっては、情報の検閲や言論の自由についてよっぽど興味があるのはわかるのですが、テレビを見ている人にとっては本当にトップニュースに当るのでしょうか？<br />
+コンピューター関係の人にとっては大きなニュースなのですが、経済ニュースとして成立するのでしょうか？<br />
+こういうところが、テレビや新聞の怪しいところだと思います。<br />
+テレビや新聞の人たち、特にジャーナリストと自分のことを呼んでいる人たちは、自分たちは権威というもののトップにいると思っているように僕からは見えてしまいます。<br />
+そもそも権威というものに興味がない人たちにとっては滑稽にしか見えないのですが、世の中のほとんどはそういう訳ではありませんし、僕だって多少影響されるわけですから、思い込みの権威を振り回されては迷惑です。<br />
+インターネット上で情報収集する人たちと違ってテレビや、とくに新聞が一番正確な情報だと思っている人たちに、偏った情報の取捨選択をして提供することだけは、やめてほしいです。人として。</p>

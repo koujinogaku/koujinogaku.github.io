@@ -1,0 +1,68 @@
+---
+layout: post
+status: publish
+published: true
+title: なまけ癖
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 53
+wordpress_url: http://localhost/wordpress/?p=53
+date: !binary |-
+  MjAwNS0wNy0yNSAyMzo0Mzo0OCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0wNy0yNSAxNDo0Mzo0OCArMDkwMA==
+categories:
+- 日記
+tags: []
+comments:
+- id: 7
+  author: 2-2-1
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yNSAxNTozNDozNyArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yNSAwNjozNDozNyArMDkwMA==
+  content: ! 'リサイクルのマークだ
+
+    早速解体で確認ですね
+
+'
+- id: 8
+  author: しんのすけ
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yOSAwODowMjo1NSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yOCAyMzowMjo1NSArMDkwMA==
+  content: ! 'そんなノートPCを衝動買いできるのは、ステキです。
+
+'
+- id: 9
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNCAwNToxNTo1MiArMDkwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMyAyMDoxNTo1MiArMDkwMA==
+  content: ! 'いやいや結構長い間くすぶってたんですよ。いらないのは分かってるのに欲しいから・・・・。
+
+    それをストレス解消の一瞬の快感に使っちゃいました（＾＾；
+
+'
+---
+<p>ノートPCを買ってしまいました。いまそれで書いています。<br />
+レッツノートR4<br />
+<a href="http://www.amazon.co.jp/exec/obidos/redirect?link_code=as2&path=ASIN/B0009MZ6EE&tag=koujinogakuse-22&camp=247&creative=1211"><IMG SRC="http://www.mylets.jp/r4/img/r4_body.gif"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0009MZ6EE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+この間の週末にストレスを紛らわすために、マイレッツ倶楽部という通販でクリック！<br />
+ソフト以外つけられるオプションを全部・・・保険までつけてみました。<br />
+天板はモスグリーン、名前入りです。気が変わって売ることもできない（笑）<br />
+先週土曜にこれが届いて、少しはちゃんと日記をつけるようになるかと思ったら、全然ですね。<br />
+地震があっても初期微動から主要動、そして余震まで冷静に全身で感じながら、テレビで確認すらしていませんでした。<br />
+こんなことだから、あんな骨密度に・・・。</p>

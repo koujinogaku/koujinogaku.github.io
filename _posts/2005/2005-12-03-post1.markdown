@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: スターウォーズⅢ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 89
+wordpress_url: http://localhost/wordpress/?p=89
+date: !binary |-
+  MjAwNS0xMi0wMyAyMzowMDowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwNS0xMi0wMyAxNDowMDowMCArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>スターウォーズⅢみちゃいました。<br />
+あまりいい噂は聞いていなかったのですけど、でもやっかみでしょ？って思っていてそんなに偏見なく見始めたんですけど・・・・。<br />
+途中で寝ちゃいました。残念。<br />
+いやね。最近中身の濃いいい映画を観すぎたんでしょうね。CGとかすごいし音楽もすごいですけど物語を進めるためにどんどん場面が切り替わって置いてきぼりになっちゃいました。<br />
+マニアの人にはそんなに苦じゃないのかも知れないけどね。<br />
+もっと一般向けに作ってほしかったなぁ。<br />
+<a href="http://www.amazon.co.jp/exec/obidos/redirect?link_code=as2&path=ASIN/B0000AIRN3&tag=koujinogakuse-22&camp=247&creative=1211"><img src="http://images-jp.amazon.com/images/P/B0000AIRN3.09._OU09_PE22_SCMZZZZZZZ_.jpg"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0000AIRN3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>

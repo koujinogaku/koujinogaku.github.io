@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 自作OS ウィンドウマネージャ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 229
+wordpress_url: http://localhost/wordpress/?p=229
+date: !binary |-
+  MjAwOC0wOS0xNiAwMDo0MDo1MyArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wOS0xNSAxNTo0MDo1MyArMDkwMA==
+categories:
+- 自作OS
+tags: []
+comments: []
+---
+<p>毎回同じような画面ですみません。中身は少しずつ変わっているんですよ。<br />
+ウィンドウマネージャと呼ばれる部分を作り始めました。<br />
+まずはタイトルバーをクリックしてずりずりすると、ウィンドウが移動します。<br />
+２つのウィンドウともに同じ様に動くのはウィンドウマネージャが一手に引き受けているからです。<br />
+<a href="http://koujinogaku.web.fc2.com/helloworld/" target="_blank"><img src="/blog/img/helloscreenshot20080915-small.jpg" alt="" border="0" /></a><br />
+それでなんですが、久しぶりにVirtual PCというものの上で自作OSを動かしたら、遅くてたまりませんでした。ずっとqemuとうものの上で動かしていたもので自作OSの処理の重さがここまでひどいとは思いませんでした。<br />
+でも、性能の悪いVirtual PCのせいともいえるので、とりあえず今は機能増強に専念しようと思います。</p>

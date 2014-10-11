@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: 腑抜けども、悲しみの愛を見せろDVD見ました。辛すぎた。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 330
+wordpress_url: http://localhost/wordpress/?p=330
+date: !binary |-
+  MjAxMi0wNi0xNiAyMTo1MDoxNyArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0wNi0xNiAxMjo1MDoxNyArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>この映画、視界には入っていたのですが、それほど注目はしていなかったんです。<br />
+でも洋画ばっかりじゃいけないなと思って、何の巡り会わせか見てしまいました。<br />
+<a href="http://www.amazon.co.jp/gp/product/B0011E7YUI/ref=as_li_ss_il?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0011E7YUI"><img border="0" src="http://ec2.images-amazon.com/images/I/318VBH8692L.jpg" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B0011E7YUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+暴力描写よりも辛いです。<br />
+しかもギャグ漫画映画として描こうとしているところが、さらに辛さを深めることになっています。<br />
+どんな苦しみでも家族という箱の中に閉じ込められてしまうと絶対に逃げ出す事ができない。しかも極悪な当人には悪意が全く無い。<br />
+その世界観が見事でした。<br />
+予告編では伝わらないのが残念です。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/5dpjl-Ma-aQ" frameborder="0" allowfullscreen></iframe><br />
+主人公澄伽(佐藤江梨子)のひとでなし加減が半端じゃありません。<br />
+さらに辛さを増しているのは、父や兄が最悪な人間だというところです。<br />
+他人から責められるところを持たず、それでいてひとでなしすぎます。<br />
+そのひとでなしから逃れることはできない家族という環境にいたからこそ、主人公の性格が熟成されていったであろう事は伝わってきます。<br />
+そして最後に妹が締めくくってくれます。<br />
+家族を持たずに育った兄嫁、待子(永作博美)との対比も見事です。劣悪な家庭環境にいるなら、家族など持たないほうがよっぽど真人間になれるという痛烈な皮肉です。それでも待子は家族がいるほうが幸せだと信じ続けている。とても悲しいです。<br />
+この映画、これが現実世界ではどの様になるかといえば、映画の様に人は簡単に死にません。死んで解決しないので真綿で絞められる首は、無限に閉められ続ける事になります。考えると怖いです。現実は怖いです。<br />
+見る前にこの映画への興味を削いでいた理由は、佐藤江梨子さん主演というのは当然ありました。名作に出てくるタイプではないので。<br />
+でもこれが見てみるとはまり役で、本当にそういう人間なんじゃないかと思うほどです。<br />
+後から調べるとこの映画で評価されている女優は永作博美さんなのですが、僕は佐藤江梨子さんだったからこれほどまで出来上がったと思います。演技がどうかは別にして(笑)<br />
+兄の永瀬正敏もすごかった。悪意が全くないままにひとでなしとして出来上がっている様子を見事に演じていました。怒りもなく人を突き飛ばす感じはぞっとしました。<br />
+僕の苦手なジャンルですが、邦画としてかなり見ごたえがあります。<br />
+見るなら、体調のいいときに見てください。</p>

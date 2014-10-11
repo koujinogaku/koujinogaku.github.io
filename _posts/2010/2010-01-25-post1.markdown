@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 鳩山由紀夫 総理からTwitterでフォローしてもらいました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 274
+wordpress_url: http://localhost/wordpress/?p=274
+date: !binary |-
+  MjAxMC0wMS0yNSAwMToyMjoyOCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMC0wMS0yNCAxNjoyMjoyOCArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>Facebookの流れで、例のWebサイトから最新価格を配信できたらと思い調べていたら、Twitterに突き当たりました。<br />
+ブログじゃないしSNSとも違うけど、何かといえば<a href="http://ameblo.jp/nakagawa-shoko/">「しょこたん☆ぶろぐ」</a>？に近いのではないかと思いました。<br />
+「しょこたん☆ぶろぐ」の場合、短いフレーズで大量に投稿するので見ている人は、RSS Feed(っていうのがあるんですよ)みたいので常に監視していて、リアルタイムに反応したりするわけです。<br />
+ブログを書いている中川翔子さんというのは、オタクとして有名なアイドルです。最先端を行っていたって分けですね。ブログはもともとそういう風に作られていないから、「しょこたん☆ぶろぐ」風な使い方専用のシステムとしてTwitterが出来たようです。<br />
+そのTwitterからFacebookへ投稿できるらしいってのが最初にあって、とりあえずTwitterアカウントとって、いろいろ調べていたら、最終的にはTwitter Feedというサービスがあって、それを使うと、RSS FeedからTwitterやFacebookに自動投稿できるってことが分かりました。<br />
+で、Twitterそのものを公の僕自身が発信する事は今のところ無さそうなのですが、いろんな人のTwitterのつぶやきってやつが流れ込んでくるのを見ているのは面白いかなと思って、こうじのがくでアカウントをとりました。URLはこちらです。<br />
+<a href="http://twitter.com/koujinogaku">http://twitter.com/koujinogaku</a><br />
+ついでに、この日記からTwitterへTwitterFeedで投稿できるようにしました。<br />
+なんか難しい話ですみません。<br />
+そんな事はおいといて、Twitterで面白そうなところをのぞきみに行くため、とりあえず有名人とかニュース関係を見るように10個ぐらい登録したんですね。<br />
+そこまでやって、一日たってさっき開けたら、なんとフォロー(読むための登録)した<a href="http://twitter.com/hatoyamayukio">鳩山首相</a>からフォローされてるじゃないですか。<br />
+本人か周りの方か分かりませんが、ちゃんとまめに見てるんですね。さすがです。<br />
+初フォローが鳩山由紀夫さんでなんだか良かったです。ありがとうございます。<br />
+それにしても、大雑把に言ってしまえば、鳩山由紀夫さん、中川翔子さん、二アリーイコールなわけですね。<br />
+<a href="http://twitter.com/hatoyamayukio" target="_blank"><img src="/blog/img/hatoyama_normal.png" alt="yukiohatoyama" border="0" width="48" height="48" /></a>　≒　<a href="http://twitter.com/Strawberry2" target="_blank"><img src="/blog/img/profile_sam_bigger.jpg" alt="shokonakagawa" border="0" width="48" height="48" /></a><br />
+なんだか なごみます。</p>

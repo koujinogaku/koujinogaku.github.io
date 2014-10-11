@@ -1,0 +1,65 @@
+---
+layout: post
+status: publish
+published: true
+title: フラガール見ました。予想外にいがっだぁ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 312
+wordpress_url: http://localhost/wordpress/?p=312
+date: !binary |-
+  MjAxMS0xMC0wOSAxNDoxNDo1NiArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0xMC0wOSAwNToxNDo1NiArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>実は一ヶ月ぐらい前に見てねたとしてメモっていたのですが、なかなか日記にアップできていませんでした。<br />
+<a href="http://www.amazon.co.jp/gp/product/B000MEXAO2/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B000MEXAO2"><img src="http://ecx.images-amazon.com/images/I/51%2Bq3dahBVL._SL500_AA300_.jpg" alt="フラガールスタンダード・エディション [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B000MEXAO2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+正直あまり期待はしてませんでした。たまたま何となく目にとまってしまいまして。<br />
+どうやらスパリゾートハワイアンズ（・・・といいますか「常磐ハワイアンセンター」のほうが分かりやすいわけです）が、震災で休業していて１０月再開に向けての活動とかこのフラガール関連の話題とかがネット上で流れていたらしく、僕はまったく認識していなかったのですが、なにか潜在意識へのすり込みがされていたようです。<br />
+見た後Twitterに書いたらフラガールbotから反応がありました(笑)<br />
+そもそも僕は松雪泰子さんがあまり得意なほうではありません。<br />
+あのてっぱんのＳキャラの印象がいつもついて回って、どうしてもいただけないなぁと言うわけです。<br />
+それであの全面松雪泰子のＤＶＤのタイトルですから、いままで手にしていなかったのですがど、何を思ったか見てしまったのです。<br />
+しかし見てみたら予想外によかったんです。これが。<br />
+<iframe width="420" height="315" src="http://www.youtube.com/embed/FPxcZLe8TMo" frameborder="0" allowfullscreen></iframe><br />
+はじめは邦画によくある棒読みの情景描写ではじまります。ALWAYS 三丁目の夕日ばりに退屈な当時のシュミレーション映像が流れていくのですが、すこし進むと徐々に見ている側の意識が変わってきます。<br />
+フラガールは物語の背景というのが石炭が石油に代わり、各地の炭鉱が消えていく昭和40年初頭の話です。<br />
+高度成長期の最高潮の時代にいながら、移り変わりが激しい時代について行く気がなく、変化を受け入れる事を悪とする人たちと、現実に向き合って変わろうとしている人たちの対立が浮き彫りにされています。<br />
+既得権だけで成り立っていた会社が時代が変わって経営が成り立たないからリストラせざるを得なくなって不当解雇だとかデモになっていたりします。未だに新宿某所あたりで見かけたりします。<br />
+国策に守られていたり時代に守られていたりした人たちが、急に守られなくなると、弱者として取り扱われたり自分を弱者だと主張して、時には現実と向き合って時代とともに変化する人たちを攻撃し始める構図が昔も今も変わらず出来上がっているんですよね。<br />
+そういう印象に強く影響しているのが昔の仁侠映画です。<br />
+ちょうど60年から70年代。新興ヤクザが急成長した大企業をバックに地方にやってきて、新事業を展開する為に地元産業を乗っ取りろうとして地元のヤクザと対立して抗争になり、流れ者のもしくは地元に帰ってきた鶴田浩二や高倉健が、地元を助けてめでたしめでたし・・・というものです。<br />
+日本人の精神の根っこはこの任侠映画の世界観にあるといっても過言ではなく、これをフラガールに当てはめれば地元の産業である炭鉱を閉めて一大レジャー施設を建設しようという新興ヤクザたちと、地元で働く弱き炭鉱員たちの対立という構図なわけです。<br />
+<a href="http://www.amazon.co.jp/gp/product/B000EMH5OS/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B000EMH5OS">明治侠客伝 三代目襲名 [DVD]<br><img src="http://ecx.images-amazon.com/images/I/31NZ512KTWL._AA115_.jpg" alt="明治侠客伝 三代目襲名 [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B000EMH5OS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+ところが、その古き良き日本人の精神をどうしても許せない・・・といつも潜在意識の片隅で思っている新世代の人間が僕たちのようにいて、見事にそこのくすぶりをつついてきてくれたわけです。<br />
+主人公の流れ者役である松雪泰子は、新興ヤクザ側で登場します。レジャー施設のかなめであるフラダンスを教える大先生という役どころです。<br />
+そして新興ヤクザは地元民の一部を寝返らせ仲間に引き入れて、弱者である炭鉱員たちを苦労しながらも打ち負かして勝利するのです。たとえ方は悪いかもしれませんがそういうことです。<br />
+最初からわかっていて見ている訳ですはありますが、スカッとしました。<br />
+現代の同じような人たちを重ね合わせて日本人本質に怒りを掻き立てられながら、すっかり術中にはまってしまったというわけですね。<br />
+結局そして最後まで見入ってしまいました。<br />
+ネタとして仕込まれているのは富司純子(というか寺島純子)の登場です。そうです明治侠客伝とかにも出てきますが仁侠映画では有名なあの「緋牡丹お竜」です(当時藤純子)。<br />
+<a href="http://www.amazon.co.jp/gp/product/B000066AEC/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B000066AEC">緋牡丹博徒 [DVD]<br><img src="http://ecx.images-amazon.com/images/I/21RB5PF6X4L._AA115_.jpg" alt="緋牡丹博徒 [DVD]"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B000066AEC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+炭鉱の町の住人側でレジャー施設に敵対心を抱いていた緋牡丹お竜が最後に・・・という、あのくだりはとても象徴的なシーンだと思います。<br />
+もうこれは完全に任侠映画のシナリオとの対比を意識しているでしょう。<br />
+<iframe width="420" height="315" src="http://www.youtube.com/embed/amaRd367fCw" frameborder="0" allowfullscreen></iframe><br />
+もう一方の見方でよかったのは、蒼井優さんでしょう。これは誰もが同じ感想だと思いますが存在感がすごい。<br />
+主役はいったいどっちなのか分からなくなる程です。この人を見たのは「人のセックスを笑うな」の、えんちゃんで、イイー・・って思ったのですが、やはりこの人いいですね。<br />
+で、本人のダンスよかったと思うんですけど、映画ですからやっぱり吹き替えにしてさらに情熱的に踊ってくれたほうがもっと良かったもなぁと持ったりする部分もあります。<br />
+ちなみに、クライマックスのダンスはフラダンスというよりポリネシアンダンスに見えてしまいますね。<br />
+ワイキキの町をぶらぶらと散歩しているとホテルやお店でフラダンスを踊っているのですが、実際にはあんなリズムはほとんどなくて、もっとゆっくりでぜんぜんリズムが違います。<br />
+本場のフラダンスは太極拳と日本舞踊が混ざったような、スローで奥ゆかしい踊りを見せてくれます。<br />
+常磐ハワイアンセンターでのフラダンスはどんな感じなのでしょうか。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/KA8Q3FmAkpI" frameborder="0" allowfullscreen></iframe><br />
+さてこの映画ダンサー中心に意識が行ってしまいがちですが、時代背景を考えながら、炭鉱の人の考え方やリゾート施設立ち上げの為にがんばる人たちも同じ重みで、全体を見る事をおすすめ。<br />
+日本映画のいつものお涙頂戴と見るか、旧人類へのうさばらしと見るか、あなた次第ってことですが。<br />
+おりしも、スパリゾートハワイアンズは営業を再開しましたし、原発縮小で石炭液化複合発電なども本気で考えられるようになってきたり、東京電力会社と周辺企業での大量リストラが間近に迫っているなど、関係することの多い旬な映画だと思います。<br />
+蒼井優さん見るだけでも価値があります。是非どうぞ。<br />
+（松雪泰子さんって僕の見るＤＶＤに良く出てくるような・・・実は趣味があってるのかな）</p>

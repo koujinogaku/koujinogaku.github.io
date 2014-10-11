@@ -1,0 +1,9 @@
+<div class="widgetwrapper widget-doc-list">
+{% if include.caption %}<h2>{{ include.caption }}</h2>{% endif %}
+{% assign collection = include.collection %}
+  <ul>
+  {% for doc in collection %}
+    {% if doc != page %}<li><a href="{{ doc.url }}">{{ doc.title }}</a></li>{% endif %}
+  {% endfor %}
+  </ul>
+</div>

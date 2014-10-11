@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: 紀州南高梅
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 213
+wordpress_url: http://localhost/wordpress/?p=213
+date: !binary |-
+  MjAwOC0wNC0xMiAwMDowNTozOSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOC0wNC0xMSAxNTowNTozOSArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments:
+- id: 81
+  author: みーやん
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wNC0xMiAxNjo1NToxOCArMDkwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNC0xMiAwNzo1NToxOCArMDkwMA==
+  content: ! '梅干し、1個60円とは！！
+
+    きっと高級梅干しなんですね♪美味しそう～
+
+'
+- id: 82
+  author: こうじのがく
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wNC0xMyAxMjozMDo0MSArMDkwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNC0xMyAwMzozMDo0MSArMDkwMA==
+  content: ! 'ついつい・・・っね。でもこれ、おいしいですよ～。２個もあれば十分だったに沢山入ってるのしかなかったら、「せいのっ！」って言ってから買いました（笑）
+
+'
+---
+<p><img src="/blog/img/20080412000539.jpg" alt="20080412000539" align="left" border="0"><br clear="all">先週から梅干しが食べたくてしょうがなかったんです。<br />
+でもちょっとだけっていうのがなくて我慢してたんですが、とうとう帰りにスーパーによって買ってきてしまいました。<br />
+何千円もするもんじゃありませんが600円。1個60円だから饅頭1個と同じぐらいって事ですね。<br />
+うめ～（笑）。。。やっちゃった。</p>

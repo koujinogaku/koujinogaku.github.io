@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: iPod touch 4th White 買いました。当分楽しめそう(笑)
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 313
+wordpress_url: http://localhost/wordpress/?p=313
+date: !binary |-
+  MjAxMS0xMC0yMyAxNjoyMDoyMiArMDkwMA==
+date_gmt: !binary |-
+  MjAxMS0xMC0yMyAwNzoyMDoyMiArMDkwMA==
+categories:
+- コンピュータ
+tags: []
+comments: []
+---
+<p>iPhoneじゃないです。iPod touchですなんですが安くなって当分パージョンアップも無さそうなので買っちゃいました。<br />
+もともと使っていたPDAであるiPAQ h2210の半額以下というのが驚きです。<br />
+届いた時からiOS5っていう最新OS(基本ソフト)が入っています(えへっ)<br />
+2011/10/23現在でAmazonで15,883円(ホワイト) 15,960円(ブラック)ですが、すでにホワイトは売り切れ中です。<br />
+<a href="http://www.amazon.co.jp/gp/product/B005SYOQDU/ref=as_li_ss_tl?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B005SYOQDU"><img src="http://ec2.images-amazon.com/images/I/411u5SGSOaL._AA300_.jpg" alt="Apple 新商品 iPod touch 8GB"></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B005SYOQDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+Apple 新商品 iPod touch 8GB<br />
+早速いじり始めてメールを読めるようにしたのですが、なんか変ですね。<br />
+メールが届いたらすぐに知らせる仕組みiOSの用語でプッシュというようですが、これがどうも変です。<br />
+iPhoneをずっと使っている人にとっては当たり前の事だとおもいますがいわゆるプッシュメールの設定をメモとしてまとめておきました。<br />
+★Gmail設定について<br />
+Gmailは標準設定ではプッシュできません。これはAndroid vs iPhoneという構図があるのでAppleがわざと機能を実装していないようです。最短でも15分おきの着信確認になってしまいます。<br />
+GmailのIMAPサーバー側では実はIDLEというコマンドをサポートしていますからできるはずなのに・・・。<br />
+しょうがないのでネットを検索まくってみると、Exchangeとして設定することでプッシュができるようにしたようです。<br />
+http://www.google.com/mobile/sync/<br />
+Googleカレンダーやアドレス帳も同期されるので便利です。<br />
+具体的には<br />
+「設定」アイコン ⇒「メール/連絡先/カレンダー」⇒「アカウントを追加」⇒「Microsoft Exchange」で設定画面が表示されたら、<br />
+「メール」⇒ Gmailのメールアドレス<br />
+「ドメイン」⇒ 空白<br />
+「ユーザー名」⇒ Gmailのメールアドレス<br />
+「パスワード」⇒ Gmailのパスワード<br />
+「説明」⇒ 適当な説明としてGmailと入れておきましょう<br />
+とココまで入れて次へを押すと、「サーバー」という設定項目が現れます。この項目にGoogle Syncのサーバー名であるm.google.comを入れます。<br />
+「サーバー」⇒ m.google.com<br />
+これで設定完了です。<br />
+標準でデータの取得方法が「プッシュ」になっているので一応確認しておきましょう。<br />
+「設定」アイコン ⇒「メール/連絡先/カレンダー」⇒「データの取得方法」で設定を見るとプッシュが有効になっている<br />
+「プッシュ」⇒　オン<br />
+さらにこの設定画面の一番下の「詳細」から各メールアカウント毎の設定が見れます。<br />
+そこを「プッシュ」にしておきましょう。<br />
+これでGmailでも、メールが送られてきた瞬間に着信通知されるようになります。<br />
+★その他のメールサービス<br />
+YahooメールとHotmailは標準で「プッシュ」が設定可能になっていました。<br />
+YahooやHotmailを使っている人はわざわざ流行だからといってGmailを取らなくてもいいと思います。<br />
+★iCloudのメールサービス<br />
+それで、iOS5の目玉機能であるiCloudのアカウントをせっかく作ったので、iCloudのメールアカウントもxxxxx@me.comというのを取得したのですが、これがなぜかプッシュメールの設定をしたのに着信通知がされません。<br />
+これについてはMobile Meという前のバージョンから変だったようですね。どうせ使わないから放置です。<br />
+と、ここまでやってメール着信を手元で確認できるなと思ったら、結局時間がたつと表示が消えてしまうので近くに置いてあるだけでは分からないんですね。<br />
+iPAQやその他のPDAではメール着信やスケジュール通知などが発生したときのイベント通知をLEDの点滅などで知らせてくれるのですがこれが無いんですね。<br />
+・・・・・って僕の持っているのはiPodなので音楽プレーヤーだからそんな配慮がなくてもしかたないですね。<br />
+なんとiPhoneでも通知LEDはなくてカメラフラッシュ用のLEDを代用するようにiOS5からなったそうです。いったい今まではどうしていたのでしょう？？？<br />
+この通知LEDはもともとアメリカ製のPDAで実装されていたものを日本の携帯電話がまねしているのに世間では日本の携帯電話特有のニーズだと誤解されているようです。<br />
+結局iPhoneが音楽プレーヤー出身だというのがダメなところなんでしょうね。<br />
+ワンセグとかお財布携帯の機能とかとごちゃ混ぜにせず、まず初めにもともとのPDAの機能をちゃんと実装するのが今のスマートフォンに求められる事だとおもいます。<br />
+とか言いつつもこのiPod touchくん、おもちゃとして当分遊べそうです。</p>

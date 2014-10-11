@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: こんばんは、かりーやみゅやみゅです
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 320
+wordpress_url: http://localhost/wordpress/?p=320
+date: !binary |-
+  MjAxMi0wMi0xMiAyMjozNzoyMCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0wMi0xMiAxMzozNzoyMCArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p>この一言を書きたい為だけに、何年かぶりにココイチカレーに行きました(笑)<br />
+<img src="/blog/img/iphone_20120212221941.jpg"/><br />
+グランドマザーカレーを美味しく頂きました。<br />
+ヤムヤム(^^)</p>

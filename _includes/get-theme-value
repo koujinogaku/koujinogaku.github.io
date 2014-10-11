@@ -1,0 +1,1 @@
+{% if site.appearance[include.name] %}{% if site.appearance[include.name] != "none" %}{{ site.appearance[include.name] }}{% endif %}{% elsif site.data.themes[site.appearance.theme][include.name] %}{{ site.data.themes[site.appearance.theme][include.name] }}{% endif %}

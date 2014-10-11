@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: VOiCE【３DPVっぽい何か】
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 241
+wordpress_url: http://localhost/wordpress/?p=241
+date: !binary |-
+  MjAwOS0wMi0wMSAxMjozMzowMCArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMi0wMSAwMzozMzowMCArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>最近VOCALOIDに興味がわいてニコニコ動画をみるようになったのですが、また紹介したいものを見つけました。(下のリンクは一般的なyoutubeに転載されているほうですが・・・。わかる方は是非高解像度でご覧ください)<br />
+3Dのショートビデオとしてよくできていて感動しました。アマチュアの動画といえばFlush Movieがネットの世界ではやったのですが、レベルが変わってきているようです。これはVOCALOIDの曲に映像をつけたのですが、高度な作品を作るの中でこんな風に新技術が使われていったらいいな。<br />
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/wyIOUJjWCbM&hl=ja&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wyIOUJjWCbM&hl=ja&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object></p>

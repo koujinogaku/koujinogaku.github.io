@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: マルコムX DVD見ました
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 349
+wordpress_url: http://localhost/wordpress/?p=349
+date: !binary |-
+  MjAxMy0xMS0wMyAxOTowMToxNCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMy0xMS0wMyAxMDowMToxNCArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>一昨日「リンカーン」はDVDでちゃんと見直してからと書きましたがDVDはすでに出ているんですね。<br />
+でもその前に見たくなってしまったマルコムXです。<br />
+「42」の主人公と同じ年代にいて、まったく違う生き方をした人の話です。<br />
+<a href="http://www.amazon.co.jp/gp/product/B000HKDEVU/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B000HKDEVU&linkCode=as2&tag=koujinogakuse-22"><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/41iEab6XYTL._SL500_AA300_.jpg" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B000HKDEVU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+思想的、宗教的に過激で濃い内容だと分かっていたので、どうしてもハードルが高くてずっと見ていませんでした。<br />
+「42」を見てどうしても、釈然としない気持ちで落ち着かなかったので、見るなら今しかないなと思ったんです。<br />
+この映画も実話ベースで実在の黒人活動家の生涯を描いたお話なのです。<br />
+<iframe width="560" height="315" src="//www.youtube.com/embed/AORfZGxy4Hw" frameborder="0" allowfullscreen></iframe><br />
+本当に紆余曲折の人生なので、何をあらすじとしたらいいのか分からないのですが、「マルコムX」という人はすでに知っていてネタばれではないとすれば一言で言うなら、街のチンピラが有名な黒人解放運動の指導者になる話です。<br />
+この映画3時間以上あるんですが、まったく集中が切れることがありませんでした。古さもまったく感じません。<br />
+音楽やダンスや色使いなど冒頭からエンターテイメント性をちゃんと考えて作ってありますし、時代を前後取り混ぜてうまく作っているのもすごいですね。<br />
+もちろんデンゼル・ワシントンという俳優のすごさを見せ付けられたってところもあります。<br />
+しかしそんな事より、そもそもこの人の人生自体が普通じゃなく、映画の世界みたいなものなので、ハードボイルドからスリルとサスペンスにサクセスストーリー的なところまで、演出としては何でもできるめちゃくちゃな人生なんです。<br />
+まあ、ほんとうにものすごいものを見ました。<br />
+字幕と吹き替えで見たので6時間以上というかまる1日かかりました。もう１周英語で見る体力はありませんでした(笑)<br />
+で、感想はというと、これがまたコメントしにくいです。<br />
+結末は本当に無念で悔しくてしかたないのですが、一昨日の気持ちがすっきりして、釈然とすることができました。<br />
+この映画の中でもちゃんと「42」の主人公であるメジャーリーガーのジャッキー・ロビンソンが触れられています。そしてその存在に対して別の考え方をちゃんと示しています。そしてその別の考え自身が正しいのかどうかとう事すら最後に吹き飛ばしてしまっています。<br />
+それが僕にとって釈然といった理由の一つでもあります。<br />
+物事ってそんなに美しく解決できないんだと僕は思っています。<br />
+今の時代は偽善と欺瞞だらけです。でもそれは騙す方の問題というより、騙されると言うか流される大衆がいるから起きていると、自責しなければならない事を、改めて確認させられました。<br />
+このDVDを手に取るのは、なかなか難しいとは思いますが、何かのきっかけ・・・たとえば「42」を見てしっくりいかないとか、そういうことがあったら是非見てみてください。<br />
+何かの解決になるかもしれません。</p>

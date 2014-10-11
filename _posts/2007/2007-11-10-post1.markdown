@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 多古久
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 189
+wordpress_url: http://localhost/wordpress/?p=189
+date: !binary |-
+  MjAwNy0xMS0xMCAxMzoxOToyMyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0xMS0xMCAwNDoxOToyMyArMDkwMA==
+categories:
+- おいしいもの
+tags: []
+comments: []
+---
+<p>寒くなってきました。その上今日は雨です。出かけるのが億劫です。<br />
+そんでお腹すいてテレビを見ていたら、いきなり昔に引き戻される名前が出てきました。<br />
+おでん屋さんの「多古久」。<br />
+http://gourmet.yahoo.co.jp/0000744826/P000418/<br />
+「たこきゅう」と読みます。<br />
+老舗の店だそうで、何度か行ったのですがもう何年も前のことです。ほんとおいしかったので行きたくなってしまいました。<br />
+でもおでんって結構高くて、でも値段を確かめず（たしかメニューには載っていなかったような）友達と総額の値段当てをして負けて払ったんじゃなかったかな。<br />
+ああ、あったかいもの食べたくなりました。</p>

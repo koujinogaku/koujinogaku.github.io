@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: ものすごくうるさくて、ありえないほど近い DVD見ました。
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 336
+wordpress_url: http://localhost/wordpress/?p=336
+date: !binary |-
+  MjAxMi0wOS0wOSAxMzo0OTowOCArMDkwMA==
+date_gmt: !binary |-
+  MjAxMi0wOS0wOSAwNDo0OTowOCArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>全く思っていたものと違っていました。<br />
+実は映画の設定といい出演者の構成といい、あざとすぎて触手が動かなかったんです。<br />
+そんな理由で映画館へは見に行かなかったのですが、見てみたらとてもいい映画でした。<br />
+<a href="http://www.amazon.co.jp/gp/product/B006HYN2RQ/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B006HYN2RQ&linkCode=as2&tag=koujinogakuse-22"><img border="0" src="http://ec2.images-amazon.com/images/I/51pxzSbtNVL._SL500_AA300_.jpg" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B006HYN2RQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+難しいですよね。見る前に泣きの要素が完璧に整ってしまっていると引いちゃう人って多いと思うので、そういう点では企画的には損しちゃっているかなぁと。<br />
+でも、9･11の取り扱い方とか子役の使い方とかトムハンクスの出方とか、すべてにおいて想定される規定路線をくつがえしてくれます。<br />
+ようするにそういった事が邪魔にならないというか、そもそもそこじゃないといえば、そこではない話になっています。<br />
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Z_quK9SEGYE" frameborder="0" allowfullscreen></iframe><br />
+と言う事で、あらすじを説明することが先入観となって邪魔になってしまうので、ここで書きません。<br />
+で、これを言うとほぼネタばれなのですがあえて書くと、人それぞれの苦痛はあって、しかも他人とは辛さを共有できない事が一番辛いんだよね、という事です。<br />
+この映画のどこに引っ掛かりを感じて、なぜ引っかかりを感じたかは、人それぞれみんな違って、しかもそれは他人と話をすべきことではない事だからこそ、心打たれてさまざまな感情を高ぶらせる、というのがこの映画です。<br />
+・・・なーんだ、どれも映画ってそういうものだよというかもしませんが、見れば意味がわかると思います。<br />
+僕の場合は途中から徐々に切なくなり次第にどんどん泣けてきました。でもそれを自分にも説明できずにいました。これも人それぞれだと思います。決して泣きの映画ではありません。<br />
+映画を見た後に感想を語り合う相手が欲しいと思うのが普通ですが、おそらく良かったねぇとかいっても本当に響いた『何か』は語り合えないのではないでしょうか。<br />
+目の前の人にも自分にも、共感を求められない事を誰でも持っている、って事をわかった上で、人と付き合っていきたいですね。<br />
+映画のつくりとしては説明的な部分がほとんどなく、意味がわからくておいて行かれてしまう部分がいくつかありました。でもそれはそのほうがいいと思います。<br />
+ここでは無理やりこじつけて考えるのは無粋な事です。この長いタイトルをいろいろ詮索する事すら無粋なのではないかと思います。<br />
+映画館で見ることが出来ずDVDとなったのですが、僕にとっては結果としてよかったと思います。泣いても恥ずかしくなかったから(笑)<br />
+一人で部屋でご覧ください。おすすめです。</p>

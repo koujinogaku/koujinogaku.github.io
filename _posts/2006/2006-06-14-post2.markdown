@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 追い討ち
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 124
+wordpress_url: http://localhost/wordpress/?p=124
+date: !binary |-
+  MjAwNi0wNi0xNCAyMjoxNTo0MyArMDkwMA==
+date_gmt: !binary |-
+  MjAwNi0wNi0xNCAxMzoxNTo0MyArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>家に帰ると郵便が来ていました。<br />
+ふと見ると封筒に変な張り紙が・・・・。<br />
+　　この郵便物は、運送中湿潤して到着しましたので、当局で乾かしました。<br />
+　　お詫び申し上げます。<br />
+　　　　　　成田国際空港郵便局<br />
+<img src="/blog/img/20060614-2.jpg" alt="" border="0"><br />
+・・・・(-_-ﾒ)。</p>

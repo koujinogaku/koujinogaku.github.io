@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: 凶悪
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 346
+wordpress_url: http://localhost/wordpress/?p=346
+date: !binary |-
+  MjAxMy0wOS0zMCAxMzoxOTo1MSArMDkwMA==
+date_gmt: !binary |-
+  MjAxMy0wOS0zMCAwNDoxOTo1MSArMDkwMA==
+categories:
+- 映画
+tags: []
+comments: []
+---
+<p>ポスターがものすごく怖くて、映画「凶悪」を見てしまいました。<br />
+暴力描写が激しいので、見れない人は見ないほうがいいです。<br />
+僕も苦手なのですが。<br />
+<a href="/blog/img/20130930kyouaku.jpg" target="_blank"><img src="/blog/img/20130930kyouaku.jpg" alt="20130930kyouaku.jpg" border="0" width="200" height="283" /></a><br />
+ストーリーは、凶悪犯で死刑囚の告白を基に雑誌記者が共犯者を追い込むという話です。<br />
+ポスターと予告編だけで、そのほかの事前情報は全く無しで見ましたが、あとで調べると、原作の小説は実際にあった事件を基にしているんですね。<br />
+でもそういう事を知らないで見ても十分にリアルです。<br />
+<iframe width="560" height="315" src="//www.youtube.com/embed/bJH2_SvXT0Y" frameborder="0" allowfullscreen></iframe><br />
+何が怖いって、よくある暴力描写って狂気を伴なって表現されるじゃないですか。<br />
+でもそうじゃなくて、至極冷静なんです。目的がハッキリしていて手段として冷静に実行してしかも楽しんでいるんです。<br />
+その姿を見せられるとぞーっとしてきます。ああ、これが商売なんだって。<br />
+これが演技なんだから役者ってすごいです。<br />
+この映画を宣伝するならたぶん暴力描写をとりあげるのが正攻法で予告編もそうなっているのですが、映画を実際に見ると、もっと怖いです。<br />
+あぁ、そっちかぁ、と落ち込んできます。<br />
+一つは家庭の問題。もう一つは善悪の問題です。<br />
+どちらについても、いろんな方向に対して追求していて一つではありません。<br />
+その矛先はこの映画を作っていること自体をそもそも否定している内容だったりするんです。<br />
+その中の一つについての僕の思いは、前に見たドキュメンタリー映画「死刑弁護人」を思い起こさせます。この弁護士の方には悪いとは思いますが、とても違和感を覚えました。<br />
+人間の生きる権利はどこにあるのか。それを思うと苦しくなってきます。<br />
+そしてそう思う自分のほうがよっぽど凶悪なのではないかと。<br />
+分別のつかない人は絶対に見て欲しくないし、誠実な人にもおすすめは出来ないのですが、自分を見返す為に見る価値はある映画だと思います。</p>

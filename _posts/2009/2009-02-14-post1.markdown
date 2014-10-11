@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: ダブルラリアット
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 245
+wordpress_url: http://localhost/wordpress/?p=245
+date: !binary |-
+  MjAwOS0wMi0xNCAxMzowNTozMSArMDkwMA==
+date_gmt: !binary |-
+  MjAwOS0wMi0xNCAwNDowNTozMSArMDkwMA==
+categories:
+- ネット
+tags: []
+comments: []
+---
+<p>昨日の夜は強風でしたが、南からの冷たくない春がくるような季節風でした。<br />
+おかげでうちに帰るなり花粉症の症状がとうとう出てきました。<br />
+で、変わりかけた季節にこんな曲を見つけました。先週聞いて、グゥーっとしみてしまいました。<br />
+とぼけた絵とタイトルなのですが、歌詞に聞き入っていくうちに泣けてきます。<br />
+ちゃんとできる人として振舞っているのは好き好んでやっているわけじゃないのに、そうせざるを得ないからやっていくうちに、どんどんエスカレートしてしまってしていって、そうやっていないといけなくなってしまいます。<br />
+手足を振り回してぐるぐると回って、高いところに上っていっているのをやめたとき、何が待っているのか。<br />
+落ちていく自分を受け止めてくれる人がいるのか。<br />
+そういう人、沢山いると思います。僕も。<br />
+この曲、今週になったら、ニコニコ動画ランキング１位になっていました。<br />
+「ダブルラリアット」<br />
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/EJMpcvua_EE&hl=ja&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/EJMpcvua_EE&hl=ja&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object><br />
+動画を見れない方はこちらから音声だけ聞けます。またほかにも、心にしみてなきそうになる曲が沢山あるので聞いてみてください。<br />
+<a href="http://piapro.jp/agoaniki">ダブルラリアットほかMP3 [http://piapro.jp/agoaniki]</a></p>

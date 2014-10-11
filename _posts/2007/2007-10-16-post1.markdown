@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: むげんプチプチ
+author:
+  display_name: koujinogaku
+  login: koujinogaku
+  email: ''
+  url: ''
+author_login: koujinogaku
+wordpress_id: 184
+wordpress_url: http://localhost/wordpress/?p=184
+date: !binary |-
+  MjAwNy0xMC0xNiAxNzoxNToyMSArMDkwMA==
+date_gmt: !binary |-
+  MjAwNy0xMC0xNiAwODoxNToyMSArMDkwMA==
+categories:
+- 日記
+tags: []
+comments: []
+---
+<p>うむむむぅ。<br />
+やばいです！これ欲しくなってきました。<br />
+<a href="http://www.amazon.co.jp/gp/product/B000SKIJ50?ie=UTF8&tag=koujinogakuse-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000SKIJ50"><img src="http://ec2.images-amazon.com/images/I/31Qv2n1GExL._AA280_.jpg" alt="ムゲンプチプチ ホワイト" border=0></a><img src="http://www.assoc-amazon.jp/e/ir?t=koujinogakuse-22&l=as2&o=9&a=B000SKIJ50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />
+10/22発売開始らしいですが、ネットオークションで売っていたりします。<br />
+たまたま見つけてしまいましたが、世の中的には有名なんでしょうか？<br />
+うぉ～！どんなんだろ～。<br />
+<script type="text/javascript" src="http://www.assoc-amazon.jp/s/link-enhancer?tag=koujinogakuse-22&o=9"><br />
+</script></p>
+<noscript>
+<img src="http://www.assoc-amazon.jp/s/noscript?tag=koujinogakuse-22" alt="" /><br />
+</noscript>
