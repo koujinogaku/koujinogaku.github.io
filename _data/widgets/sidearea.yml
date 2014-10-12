@@ -1,5 +1,6 @@
 ### Side Area
 widgets:
+  - { widget: free-area, name: area1 }
   - { widget: google-cse }
   - { widget: links, caption: "リンク" }
   - { widget: categories, caption: "日記カテゴリー" }
