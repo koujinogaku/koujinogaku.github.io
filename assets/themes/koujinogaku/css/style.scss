@@ -141,10 +141,11 @@ h6, .h6 { font-size: 16px; }
 		color: #333333;
 	}
 }
+/* Fix fb-like troubles */
 .fb-like>span {
 	vertical-align: baseline !important;
 }
-/** BOOTSTRAP BOX-SIZING **/
+/* Fix box-sizing troubles */
 .reset-box-sizing,
 .reset-box-sizing *,
 .reset-box-sizing *:before,

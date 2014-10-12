@@ -11,6 +11,10 @@
     {% for category in post.categories %}
       <a href="{% include get-category-url category=category %}"><span class="label label-default">{{ category }}</span></a>
     {% endfor %}
+    {% if site.blog.comment %}
+      {% capture url %}{{ site.url }}{{ post.url }}{% endcapture %}
+      {% include widgets/comment-count.html url=url %}
+    {% endif %}
   </p>{% endif %}
   {% if site.blog.comment and post.comments.size > 0 %}<div class="post-comments">
     <h4 class="post-comment-title">Comment:</h4>

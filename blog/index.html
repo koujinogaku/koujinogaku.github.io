@@ -20,18 +20,10 @@ type: blog
 <!-- This loops through the paginated posts -->
 {% for post in site.categories.pinup limit:site.paginate %}
   {% include post.html post=post %}
-  {% if site.blog.comment %}
-    {% capture url %}{{ site.url }}{{ post.url }}{% endcapture %}
-    {% include widgets/comment-count.html url=url %}
-  {% endif %}
 {% endfor %}
 {% for post in paginator.posts %}
   {% if post.categories contains "pinup" %}{% else %}
     {% include post.html post=post %}
-    {% if site.blog.comment %}
-      {% capture url %}{{ site.url }}{{ post.url }}{% endcapture %}
-      {% include widgets/comment-count.html url=url %}
-    {% endif %}
   {% endif %}
 {% endfor %}
 

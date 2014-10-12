@@ -36,7 +36,7 @@ paginate: 5
 paginate_path: "blog/page:num/" # DON'T TOUCH THIS PATH.
 blog:
   header: "header.html"
-  title: "こうじのがく : ネット、コンピュータ、旅行、おいしいもの"
+  title: "こうじのがく : 映画、コンピュータ、旅行、おいしいもの"
   description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
   title_position: article
   enable_author: true
@@ -52,9 +52,6 @@ navbar:
         - { caption: "オリジナルOS作り", link: "/os-dev/"}
         - { caption: "EC2/S3の使い方", link: "/amazon-ec2/"}
         - { caption: "その他プロジェクト概要", link: "/projects/"}
-        - { separator: "divider" }
-        - { caption: "miscellaneous", separator: "dropdown-header" }
-        - { caption: "ダウンロード", link: "#"}
     - { caption: "日記", link: "/blog/" }
     - { caption: "Sitemap", link: "/sitemap/" }
     - { caption: "About", link: "/about/" }
@@ -74,7 +71,6 @@ collections:
     share: true
     #comment: true
   web-craft:
-    header: "header.html"
     title: "ホームページ作り(ホムつく)"
     description: "ホームページ作りをはじめました。"
     output: true
