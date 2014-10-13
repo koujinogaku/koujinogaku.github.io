@@ -1,10 +1,9 @@
 ---
 layout: document
-title: 開発環境(自作OS)
+title: メモリーマップ(自作OS)
 upper_section: index
 previous_section: history
 ---
-### メモリーマップ
 <pre>
 FFFF:FFFF ----------------------
            割り込みテーブル(未使用)

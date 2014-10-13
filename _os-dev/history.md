@@ -1,6 +1,6 @@
 ---
 layout: document
-title: 開発環境(自作OS)
+title: 開発の履歴(自作OS)
 upper_section: index
 previous_section: dev-tools
 next_section: memory-map

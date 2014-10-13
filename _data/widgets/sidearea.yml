@@ -2,10 +2,11 @@
 primary:
   widgets:
     - { widget: free-area, name: side }
-    - { widget: links, caption: "リンク" }
-    - { widget: categories, caption: "日記カテゴリー" }
-    - { widget: recentposts, caption: "最近の日記" }
-    - { widget: subscribe, caption: "RSSフィード" }
+    - { widget: free-area, name: menu }
+    #- { widget: links, caption: "リンク" }
+    #- { widget: categories, caption: "日記カテゴリー" }
+    #- { widget: recentposts, caption: "最近の日記" }
+    #- { widget: subscribe, caption: "RSSフィード" }
     #- { widget: search, caption: "Search" }
 secondary:
   widgets:

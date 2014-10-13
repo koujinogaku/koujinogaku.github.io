@@ -48,14 +48,17 @@ blog:
 ### Navigation Bar
 navbar:
   menu:
-    - caption: "書庫"
+    - { caption: "オリジナルOS作り", link: "/os-dev/"}
+    - { caption: "EC2/S3の使い方", link: "/amazon-ec2/"}
+    - { caption: "ホームページ作り", link: "/web-craft/"}
+    - { caption: "PHP", link: "/php/"}
+    - { caption: "Android", link: "/android/"}
+    - caption: "その他"
       menu:
-        - { caption: "オリジナルOS作り", link: "/os-dev/"}
-        - { caption: "EC2/S3の使い方", link: "/amazon-ec2/"}
-        - { caption: "その他プロジェクト概要", link: "/projects/"}
-    - { caption: "日記", link: "/blog/" }
-    - { caption: "Sitemap", link: "/sitemap/" }
-    - { caption: "About", link: "/about/" }
+      - { caption: "その他プロジェクト概要", link: "/projects/"}
+      - { caption: "日記", link: "/blog/" }
+      - { caption: "Sitemap", link: "/sitemap/" }
+      - { caption: "About", link: "/about/" }
 
 ### Document collections
 collections:
@@ -84,7 +87,7 @@ collections:
     share: true
     #comment: true
   android:
-    title: "Androidアプリ(Android)"
+    title: "Android-SDK(Android)"
     description: "Android-SDKをちょっと触ってみたかっただけです。"
     output: true
     share: true

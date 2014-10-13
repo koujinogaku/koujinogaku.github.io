@@ -1,4 +1,48 @@
 ### Free Area
+menu: ! '
+<ul class="nav nav-pills nav-stacked">
+  <li>クラウドコンピューティング</li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      EC2/S3の使い方<span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="/amazon-ec2/">EC2/S3の使い方</a></li>
+      <li><a href="/amazon-ec2/administrator-console.html">管理者PC環境の準備</a></li>
+      <li><a href="/amazon-ec2/pricing.html">料金とサイトの確認</a></li>
+      <li><a href="/amazon-ec2/registration.html">アカウント登録</a></li>
+      <li><a href="/amazon-ec2/security-credentials.html">セキュリティ証明書の理解</a></li>
+      <li><a href="/amazon-ec2/choose-os-image.html">OSイメージ選び</a></li>
+      <li><a href="/amazon-ec2/generate-key-pair.html">Key pair生成</a></li>
+      <li><a href="/amazon-ec2/create-instance.html">インスタンス作成</a></li>
+      <li><a href="/amazon-ec2/whats-amazon-s3.html">Amazon S3とは</a></li>
+      <li><a href="/amazon-ec2/whats-amazon-s3.html">AWSアクセス証明書の取得</a></li>
+      <li><a href="/amazon-ec2/management-client.html">管理クライアントの用意</a></li>
+      <li><a href="/amazon-ec2/backup-destination.html">バックアップ場所の登録</a></li>
+      <li><a href="/amazon-ec2/backup-os-image.html">OSイメージバックアップ</a></li>
+      <li><a href="/amazon-ec2/launch-os-image.html">バックアップイメージからの起動</a></li>
+    </ul>
+  </li>
+  <li class="divider"></li>
+  <li>プログラミング</li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      オリジナルOS作り<span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="/os-dev/">オリジナルOS作り</a></li>
+      <li><a href="/os-dev/dev-tools.html">開発環境</a></li>
+      <li><a href="/os-dev/history.html">開発の履歴</a></li>
+      <li><a href="/os-dev/memory-map.html">メモリーマップ</a></li>
+    </ul>
+  </li>
+  <li><a href="/php/">PHPプログラミング</a></li>
+  <li><a href="/android/">Android-SDK</a></li>
+  <li class="divider"></li>
+  <li>デザイン</li>
+  <li><a href="/web-craft/">ホームページ作り</a></li>
+</ul>
+'
 side: ! '
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- responsive -->
