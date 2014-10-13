@@ -1,6 +1,7 @@
-{% capture widgets %}{{ "widgets" | append: include.area }}{% endcapture %}
-<div class="sidearea">
-{% for sidewidget in site.data.widgets.sidearea[widgets] %}
-  {% include {{ sidewidget.widget | prepend: "widgets/" | append: ".html" }} caption=sidewidget.caption name=sidewidget.name %}
+{% if site.data.widgets.sidearea[include.name] %}
+<div class="sidearea sidearea-{{ include.name }}">
+{% for widget in site.data.widgets.sidearea[include.name].widgets %}
+  {% include {{ widget.widget | prepend: "widgets/" | append: ".html" }} caption=widget.caption name=widget.name %}
 {% endfor %}
 </div>
+{% endif %}

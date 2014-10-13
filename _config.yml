@@ -30,6 +30,7 @@ appearance:
   #header_image: none
   #wallpaper_image: /assets/themes/default/img/wallpaper.png
   #wallpaper_repeat: repeat
+  #navbar_style: navbar-default navbar-fixed-top
 
 ### Blog
 paginate: 5

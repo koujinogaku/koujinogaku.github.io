@@ -1,17 +1,6 @@
 ### Free Area
-area0: ! '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 200x200, 作成済み 10/01/13 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:200px;height:200px"
-     data-ad-client="ca-pub-5217525105457114"
-     data-ad-slot="8816320420"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-'
-
-area1: ! '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+side: ! '
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- レスポンシブ -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -21,5 +10,21 @@ area1: ! '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoog
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+'
+mobile: ! ' <div class="visible-xs-block">
+<div style="position:fixed; bottom:0; left:0; right:0; z-index:1030; background-color:white;">
+<div style="margin-left: auto;margin-right: auto; width:320px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ラージモバイル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-5217525105457114"
+     data-ad-slot="4720447220"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<div style="margin-left: auto;margin-right: auto; width:320px;height:100px">
+</div>
 '
