@@ -12,8 +12,9 @@ side: ! '
 </script>
 '
 mobile: ! ' <div class="visible-xs-block">
-<div style="position:fixed; bottom:0; left:0; right:0; z-index:1030; background-color:white;">
-<div style="margin-left: auto;margin-right: auto; width:320px;">
+<div style="position:fixed; bottom:0; left:0; right:0; z-index:1030;">
+<div style="background-color:white;width:100%;height:50px;overflow:hidden;">
+<div style="position:relative;bottom:0;margin-left: auto;margin-right: auto; width:320px;">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- mobile -->
 <ins class="adsbygoogle"
@@ -25,6 +26,8 @@ mobile: ! ' <div class="visible-xs-block">
 </script>
 </div>
 </div>
+</div>
 <div style="margin-left: auto;margin-right: auto; width:320px;height:50px">
+</div>
 </div>
 '
