@@ -1,7 +1,8 @@
 ### Site settings
 lang: ja
-title: "こうじのがく"
-description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
+title: "こうじのがく書庫： 自作OS、クラウド、ホームページ作成"
+description: "とりあえず書庫。ブログには置けない記事を置いときます。"
+author: "こうじのがく"
 baseurl: ""
 exclude: [ "README.md", "LICENSE" ]
 url: "http://koujinogaku.github.io"
@@ -36,7 +37,6 @@ appearance:
 paginate: 5
 paginate_path: "blog/page:num/" # DON'T TOUCH THIS PATH.
 blog:
-  header: "header.html"
   title: "こうじのがく : 映画、コンピュータ、旅行、おいしいもの"
   description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
   title_position: article
@@ -44,6 +44,7 @@ blog:
   comment: true
   share: true
   category: true
+  theme: koujinogaku-blog
 
 ### Navigation Bar
 navbar:
@@ -68,6 +69,7 @@ collections:
     output: true
     share: true
     #comment: true
+    #theme: koujinogaku-osdev
   amazon-ec2:
     title: "Amazon EC2/S3の使い方(EC2)"
     description: "EC2初心者が、試行錯誤をしながら、何とか動くまでに行なったさまざまな作業と、気づいた点をまとめていきます。"

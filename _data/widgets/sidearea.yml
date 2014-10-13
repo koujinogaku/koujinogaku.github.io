@@ -3,15 +3,13 @@ primary:
   widgets:
     - { widget: free-area, name: side }
     - { widget: free-area, name: menu }
-    #- { widget: links, caption: "リンク" }
-    #- { widget: categories, caption: "日記カテゴリー" }
-    #- { widget: recentposts, caption: "最近の日記" }
-    #- { widget: subscribe, caption: "RSSフィード" }
     #- { widget: search, caption: "Search" }
 secondary:
   widgets:
-    - { widget: search, caption: "Search" }
-    - { widget: links, caption: "Links" }
+    - { widget: links, caption: "リンク" }
+    - { widget: categories, caption: "日記カテゴリー" }
+    - { widget: recentposts, caption: "最近の日記" }
+    - { widget: subscribe, caption: "RSSフィード" }
 top:
   widgets:
     - { widget: google-cse }
