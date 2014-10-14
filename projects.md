@@ -1,6 +1,5 @@
 ---
 layout: page
-header: header.html
 title: "こうじのがく書庫： 自作OS、クラウド、ホームページ作成"
 description: "とりあえず書庫。ブログには置けない記事を置いときます。"
 permalink: /projects/
