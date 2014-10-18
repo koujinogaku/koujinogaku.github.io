@@ -1,5 +1,6 @@
+{% include get-widget-data-and-options name="highlight" include=include %}
 {% assign highlight = "highlight" %}
-{% if include.category %}{% assign highlight = include.category %}{% endif %}
+{% if widget_options.category %}{% assign highlight = widget_options.category %}{% endif %}
 <div class="widgetwrapper widget-highlight">
 {% for post in site.categories[highlight] limit:9 %}
   <div class="row highlightbox">

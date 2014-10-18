@@ -18,6 +18,8 @@ disqus_shortname: koujinogaku
 ### Build settings
 permalink: "/blog/:year/:month/:day/:title/"
 images_path: "/img/"
+sass:
+  style: :compressed
 #markdown: kramdown
 #gems: [jekyll-test-plugin, jekyll-jsonify, jekyll-assets]
 
