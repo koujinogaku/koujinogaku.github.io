@@ -3,6 +3,7 @@ lang: ja
 title: "こうじのがく書庫： 自作OS、クラウド、ホームページ作成"
 description: "とりあえず書庫。ブログには置けない記事を置いときます。"
 author: "こうじのがく"
+since: 2008
 baseurl: ""
 exclude: [ "README.md", "LICENSE" ]
 url: "http://koujinogaku.github.io"
