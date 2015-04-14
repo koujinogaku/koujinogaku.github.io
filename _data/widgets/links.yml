@@ -1,4 +1,5 @@
 # Links widget
+links:
 - caption: オリジナルOS作り
   url: /os-dev/
 - caption: Amazon EC2の使い方

@@ -1,7 +1,8 @@
 css: /assets/themes/koujinogaku/css/style.css
 favicon: /assets/themes/koujinogaku/img/favicon-rev.png
 touch_icon: /assets/themes/koujinogaku/img/apple-touch-icon-precomposed-rev.png
-header_image: /assets/themes/koujinogaku/img/z-top1024.png
+#header_image: /assets/themes/koujinogaku/img/z-top1024.png
+header_image: disable
 #header_pattern: "linear-gradient(to bottom,#563d7c 0,#6f5499 100%)"
 header_text_color: "#484848"
 header_style: fluid # fluid or fit

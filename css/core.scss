@@ -24,8 +24,10 @@ body {
 }
 .jumbotron {
 	{% if header_image !="" %}
-	background-image: url("{{ site.baseurl }}{{ header_image }}");
-	background-size: cover;
+		{% if header_image !="disable" %}
+		background-image: url("{{ site.baseurl }}{{ header_image }}");
+		background-size: cover;
+		{% endif %}
 	{% elsif header_pattern !="" %}
 	background-image: {{ header_pattern }};
 	{% else %}
