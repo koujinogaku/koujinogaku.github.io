@@ -1,7 +1,8 @@
+{% assign collection = null %}{% for c in site.collections %}{% if c.label == page.collection %}{% assign collection = c %}{% endif %}{% endfor %}
 {% if page.type == "blog" and site.blog.sidearea[include.name] %}
 {% assign sidearea = site.blog.sidearea[include.name] %}
-{% elsif page.collection and site.collections[page.collection].sidearea[include.name] %}
-{% assign sidearea = site.collections[page.collection].sidearea[include.name] %}
+{% elsif page.collection and collection and collection.sidearea[include.name] %}
+{% assign sidearea = collection.sidearea[include.name] %}
 {% elsif site.data.widgets.sidearea[include.name] %}
 {% assign sidearea = site.data.widgets.sidearea[include.name] %}
 {% else %}

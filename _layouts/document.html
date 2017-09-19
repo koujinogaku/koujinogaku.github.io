@@ -9,11 +9,12 @@ layout: default
   <article class="post-content">
   {{ content }}
   </article>
-  {% if site.collections[page.collection].share %}<div class="share text-right">
+  {% assign collection = null %}{% for c in site.collections %}{% if c.label == page.collection %}{% assign collection = c %}{% endif %}{% endfor %}
+  {% if collection and collection.share %}<div class="share text-right">
     {% include widgets/share-button.html %}
   </div>{% endif %}
   {% include widgets/doc-navigator.html enable_title="bottom" %}
-  {% if site.collections[page.collection].comment %}<div class="comments">
+  {% if collection and collection.comment %}<div class="comments">
   	{% include widgets/comment.html %}
   </div>{% endif %}
 </div>

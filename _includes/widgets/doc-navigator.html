@@ -1,4 +1,5 @@
-{% if site.collections[page.collection].navigator != "disable" %}
+{% assign collection = null %}{% for c in site.collections %}{% if c.label == page.collection %}{% assign collection = c %}{% endif %}{% endfor %}
+{% if collection == null or collection.navigator != "disable" %}
 {% if include.enable_title %}
   {% for doc in site[page.collection] %}
     {% assign section = doc.id | split:"/" | last %}
