@@ -1,7 +1,7 @@
 {% if site.collections[page.collection].navigator != "disable" %}
 {% if include.enable_title %}
   {% for doc in site[page.collection] %}
-    {% assign section = doc.url | split:"/" | last | remove:".html" %}
+    {% assign section = doc.id | split:"/" | last %}
     {% if page.previous_section == section %}
       {% assign previous_title = doc.title %}
     {% endif %}
@@ -10,7 +10,7 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-<nav class="navigator">
+<nav role="navigation" class="navigator">
   {% if include.enable_title == "top" %}
     <div class="row">
       <div class="col-xs-6 text-left">{{ previous_title }}</div>

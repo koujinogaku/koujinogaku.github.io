@@ -1,3 +1,7 @@
+frameworkcss: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+frameworkcsstheme: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css
+frameworkscript: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+jqueryscript: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 css: /assets/themes/default/css/style.css
 favicon: /assets/themes/default/img/favicon.ico
 touch_icon: /assets/themes/default/img/apple-touch-icon-precomposed.png
@@ -21,3 +25,8 @@ navbar_layout: top # top or middle or bottom or none
 #navbar_style: navbar-default navbar-fixed-top navbar-inverse
 navbar_search_box: true
 sidearea_layout: right # right or left or both or none
+table_style: table-striped
+#script_top: ! '
+#'
+#script_bottom: ! '
+#'

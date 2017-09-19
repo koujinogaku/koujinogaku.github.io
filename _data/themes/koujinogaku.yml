@@ -1,3 +1,7 @@
+frameworkcss: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+frameworkcsstheme: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css
+frameworkscript: https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+jqueryscript: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 css: /assets/themes/koujinogaku/css/style.css
 favicon: /assets/themes/koujinogaku/img/favicon-rev.png
 touch_icon: /assets/themes/koujinogaku/img/apple-touch-icon-precomposed-rev.png

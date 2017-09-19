@@ -8,7 +8,7 @@
 {% assign sidearea = null %}
 {% endif %}
 {% if sidearea %}
-<div class="sidearea sidearea-{{ include.name }}">
+<div role="complementary" class="sidearea sidearea-{{ include.name }}">
 {% for widget in sidearea.widgets %}
   {% if widget.realm %}{% assign data = site.data.realms[widget.realm].widgets[widget.widget] %}{% else %}{% assign data = site.data.widgets[widget.widget] %}{% endif %}
   {% include {{ widget.widget | prepend: "widgets/" | append: ".html" }} options=widget data=data %}

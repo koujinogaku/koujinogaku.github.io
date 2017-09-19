@@ -64,4 +64,4 @@ PHPでプログラム書いたときのメモを置いておきます。
 [amazon-ec2]:  {{ site.baseurl }}/amazon-ec2/
 [android]:     {{ site.baseurl }}/android/
 [php]:         {{ site.baseurl }}/php/
-[blog]:        {{ site.baseurl }}/blog/
+[blog]:        https://koujinogaku.blogspot.com

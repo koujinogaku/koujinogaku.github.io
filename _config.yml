@@ -4,10 +4,10 @@ title: "こうじのがく書庫： 自作OS、クラウド、ホームページ
 description: "とりあえず書庫。ブログには置けない記事を置いときます。"
 author: "こうじのがく"
 since: 2008
-baseurl: ""
+#baseurl: ""
 exclude: [ "README.md", "LICENSE" ]
-url: "http://koujinogaku.github.io"
-hostname: "koujinogaku.github.io"
+url: "https://koujinogaku.github.io"
+#hostname: "koujinogaku.github.io"
 #email: your-email@domain.com
 twitter_username: koujinogaku
 github_username:  koujinogaku
@@ -17,7 +17,7 @@ google_custom_search_engine_id: "012660066390906066162:koziiwlrg38"
 disqus_shortname: koujinogaku
 
 ### Build settings
-permalink: "/blog/:year/:month/:day/:title/"
+permalink: "/blog/:year/:month/:day/:title.html"
 images_path: "/img/"
 sass:
   style: :compressed
@@ -37,19 +37,21 @@ appearance:
   #navbar_style: navbar-default navbar-fixed-top
 
 ### Blog
-paginate: 5
-paginate_path: "blog/page:num/" # DON'T TOUCH THIS PATH.
-blog:
-  title: "こうじのがく : 映画、コンピュータ、旅行、おいしいもの"
-  description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
-  title_position: article
-  enable_author: true
-  comment: true
-  share: true
-  category: true
-  theme: koujinogaku-blog
+#blogpagination: true
+#paginate: 5
+#paginate_path: "blog/page:num/" # DON'T TOUCH THIS PATH.
+#blog:
+#  title: "こうじのがく : 映画、コンピュータ、旅行、おいしいもの"
+#  description: "聞いたこと見たこと感じたこと、とりあえず書いときます。"
+#  title_position: article
+#  enable_author: true
+#  comment: true
+#  share: true
+#  category: true
+#  theme: koujinogaku-blog
 
 ### Navigation Bar
+#sitesearchscript: true
 navbar:
   menu:
     - { caption: "オリジナルOS作り", link: "/os-dev/"}
@@ -60,9 +62,9 @@ navbar:
     - caption: "その他"
       menu:
       - { caption: "その他プロジェクト概要", link: "/projects/"}
-      - { caption: "日記", link: "/blog/" }
       - { caption: "Sitemap", link: "/sitemap/" }
       - { caption: "About", link: "/about/" }
+      #- { caption: "日記", link: "/blog/" }
 
 ### Document collections
 collections:

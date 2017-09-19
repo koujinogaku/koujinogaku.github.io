@@ -12,7 +12,7 @@
   <div class="carousel-inner">
     {% for slide in widget_data.slides %}
     <div class="item{% if forloop.index == 1 %} active{% endif %}">
-      <img src="{{ slide.image | prepend:site.images_path }}" alt="First Slide">
+      <img src="{{ slide.image | prepend:site.images_path | relative_url}}" alt="First Slide">
       <div class="carousel-caption">
         {{ slide.caption }}
       </div>
