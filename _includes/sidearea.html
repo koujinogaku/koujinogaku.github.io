@@ -1,4 +1,4 @@
-{% assign collection = null %}{% for c in site.collections %}{% if c.label == page.collection %}{% assign collection = c %}{% endif %}{% endfor %}
+{% include set-current-collection %}{% assign collection = globalcurrentcollection %}
 {% if page.type == "blog" and site.blog.sidearea[include.name] %}
 {% assign sidearea = site.blog.sidearea[include.name] %}
 {% elsif page.collection and collection and collection.sidearea[include.name] %}

@@ -6,7 +6,7 @@
 {% capture font3 %}{% include get-theme-value name="font3" %}{% endcapture %}
 {% capture favicon %}{% include get-theme-value name="favicon" %}{% endcapture %}
 {% capture touch_icon %}{% include get-theme-value name="touch_icon" %}{% endcapture %}
-{% if page.collection %}{% for c in site.collections %}{% if c.label == page.collection %}{% assign header = c %}{% endif %}{% endfor %}
+{% if page.collection %}{% include set-current-collection %}{% assign header = globalcurrentcollection %}
 {% elsif page.type == "blog" %}{% assign header = site.blog %}
 {% endif %}
 {% if page.title %}{% assign title = page.title %}{% endif %}

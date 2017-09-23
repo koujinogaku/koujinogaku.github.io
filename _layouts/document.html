@@ -9,7 +9,7 @@ layout: default
   <article class="post-content">
   {{ content }}
   </article>
-  {% assign collection = null %}{% for c in site.collections %}{% if c.label == page.collection %}{% assign collection = c %}{% endif %}{% endfor %}
+  {% include set-current-collection %}{% assign collection = globalcurrentcollection %}
   {% if collection and collection.share %}<div class="share text-right">
     {% include widgets/share-button.html %}
   </div>{% endif %}

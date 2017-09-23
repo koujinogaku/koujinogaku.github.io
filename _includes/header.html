@@ -1,6 +1,6 @@
 {% if page.collection %}
   {% comment %} Collection can not inherit page property. {% endcomment %}
-  {% for c in site.collections %}{% if c.label == page.collection %}{% assign header = c %}{% endif %}{% endfor %}
+  {% include set-current-collection %}{% assign header = globalcurrentcollection %}
 {% elsif page.type == "blog" %}
   {% assign header = site.blog %}
 {% else %}
